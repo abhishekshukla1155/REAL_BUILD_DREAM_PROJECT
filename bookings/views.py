@@ -1,17 +1,26 @@
+from decimal import Decimal
+from datetime import datetime
+
+from django.db import transaction
+from django.shortcuts import get_object_or_404
+from django.db.models import F
+
 from rest_framework.views import APIView
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
-from django.shortcuts import get_object_or_404
 
 from .models import Booking
 from .serializers import BookingSerializer
-from workers.models import Worker
-from django.db import transaction
-from datetime import datetime
-from workers.models import WorkerAvailability
+from workers.models import Worker, WorkerAvailability
 
-# CREATE BOOKING
+
+COMMISSION_PERCENTAGE = Decimal("0.15")  # 15% platform commission
+
+
+# =====================================================
+# CREATE BOOKING (CUSTOMER ONLY)
+# =====================================================
 class CreateBookingView(APIView):
     permission_classes = [IsAuthenticated]
 
@@ -93,7 +102,9 @@ class CreateBookingView(APIView):
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
 
+# =====================================================
 # UPDATE BOOKING STATUS (WORKER ONLY)
+# =====================================================
 class UpdateBookingStatusView(APIView):
     permission_classes = [IsAuthenticated]
 
@@ -108,48 +119,94 @@ class UpdateBookingStatusView(APIView):
 
         booking = get_object_or_404(Booking, id=pk)
 
-        new_status = request.data.get('status')
+        new_status = request.data.get("status")
 
-        if new_status not in ['accepted', 'completed', 'cancelled']:
+        if new_status not in ["accepted", "completed", "cancelled"]:
             return Response(
-                {'error': 'Invalid status'},
+                {"error": "Invalid status"},
                 status=status.HTTP_400_BAD_REQUEST
             )
 
         if booking.worker.user != request.user:
             return Response(
-                {'error': 'You are not assigned to this booking'},
+                {"error": "You are not assigned to this booking"},
                 status=status.HTTP_403_FORBIDDEN
             )
 
-        booking.status = new_status
-        booking.save()
+        # =====================================================
+        # 🔥 If Booking Completed → Calculate Earnings
+        # =====================================================
+        if new_status == "completed":
+
+            if booking.status == "completed":
+                return Response(
+                    {"error": "Booking already completed"},
+                    status=status.HTTP_400_BAD_REQUEST
+                )
+
+            total_amount = booking.worker.price_per_hour
+            commission_amount = total_amount * COMMISSION_PERCENTAGE
+            worker_payout = total_amount - commission_amount
+
+            with transaction.atomic():
+                booking.status = "completed"
+                booking.total_amount = total_amount
+                booking.commission_amount = commission_amount
+                booking.worker_payout = worker_payout
+                booking.save()
+
+                # Update worker total earnings
+                Worker.objects.filter(id=booking.worker.id).update(
+                    total_earnings=F("total_earnings") + worker_payout
+                )
+
+        else:
+            booking.status = new_status
+            booking.save()
 
         serializer = BookingSerializer(booking)
         return Response(serializer.data)
 
 
+# =====================================================
 # CLIENT DASHBOARD
+# =====================================================
 class MyBookingsView(APIView):
     permission_classes = [IsAuthenticated]
 
     def get(self, request):
+
+        if request.user.user_type != "customer":
+            return Response(
+                {"error": "Only customers can view their bookings"},
+                status=status.HTTP_403_FORBIDDEN
+            )
+
         bookings = Booking.objects.filter(
             customer=request.user
-        ).order_by('-created_at')
+        ).order_by("-created_at")
 
         serializer = BookingSerializer(bookings, many=True)
         return Response(serializer.data)
 
 
+# =====================================================
 # WORKER DASHBOARD
+# =====================================================
 class WorkerBookingsView(APIView):
     permission_classes = [IsAuthenticated]
 
     def get(self, request):
+
+        if request.user.user_type != "worker":
+            return Response(
+                {"error": "Only workers can view assigned bookings"},
+                status=status.HTTP_403_FORBIDDEN
+            )
+
         bookings = Booking.objects.filter(
             worker__user=request.user
-        ).order_by('-created_at')
+        ).order_by("-created_at")
 
         serializer = BookingSerializer(bookings, many=True)
         return Response(serializer.data)

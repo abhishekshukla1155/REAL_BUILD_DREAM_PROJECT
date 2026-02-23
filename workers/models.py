@@ -1,5 +1,7 @@
 from django.db import models
 from django.conf import settings
+# from scipy.conftest import default
+
 
 class Worker(models.Model):
     CATEGORY_CHOICES = (
@@ -16,6 +18,8 @@ class Worker(models.Model):
     rating = models.FloatField(default=0)
     is_available = models.BooleanField(default=True)
     city = models.CharField(max_length=100, default='Kanpur')
+    price_per_hour = models.DecimalField(max_digits=10, decimal_places=2, default=700.00)
+    total_earnings = models.DecimalField(max_digits=12, decimal_places=2, default=0.00)
 
     def __str__(self):
         return f"{self.user.username} - {self.category}"
