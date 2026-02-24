@@ -1,17 +1,12 @@
 from django.db import models
 from django.conf import settings
-# from scipy.conftest import default
-
 
 class Worker(models.Model):
-    CATEGORY_CHOICES = (
-        ('plumber', 'Plumber'),
-        ('electrician', 'Electrician'),
-        ('carpenter', 'Carpenter'),
+    user = models.OneToOneField(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE
     )
-
-    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    category = models.CharField(max_length=20, choices=CATEGORY_CHOICES)
+    category = models.CharField(max_length=100)
     experience = models.IntegerField()
     latitude = models.FloatField()
     longitude = models.FloatField()
@@ -23,6 +18,7 @@ class Worker(models.Model):
 
     def __str__(self):
         return f"{self.user.username} - {self.category}"
+
 
 class WorkerAvailability(models.Model):
     DAYS_OF_WEEK = (

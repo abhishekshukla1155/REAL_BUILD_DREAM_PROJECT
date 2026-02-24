@@ -1,0 +1,2001 @@
+worker_id,worker_name,worker_profession,worker_experience,worker_rating,worker_number,worker_address,Latitude,Longitude
+BD-0001,Deepak Verma,Glazier,3.0,4.9,9447241083,"Barra 1, Kanpur",26.465047,80.296874
+BD-0002,Gaurav Tripathi,General Contractor,9.0,4.6,9396881365,"Barra 4, Kanpur",26.489003,80.275529
+BD-0003,Gaurav Gupta,Painter,16.0,4.7,9797752665,"Panki, Kanpur",26.500186,80.357652
+BD-0004,Prakash Tiwari,Handyman,5.0,4.8,9563114076,"Barra 6, Kanpur",26.481774,80.411769
+BD-0005,Amit Maurya,Carpenter,10.0,4.2,9050078706,"Sarvodaya Nagar, Kanpur",26.494856,80.322476
+BD-0006,Ravi Yadav,Mason,3.0,4.9,9599714802,"Juhi, Kanpur",26.485756,80.362808
+BD-0007,Nikhil Khan,Welder,8.0,3.8,9054265581,"Ashok Nagar, Kanpur",26.414507,80.32261
+BD-0008,Manoj Tripathi,Construction Laborer,21.0,4.9,9246920696,"Becon Ganj, Kanpur",26.432932,80.399893
+BD-0009,Vikas Mishra,Handyman,4.0,4.3,9992544539,"Jajmau, Kanpur",26.443769,80.405714
+BD-0010,Salman Sharma,Painter,3.0,4.6,9749837516,"Lajpat Nagar, Kanpur",26.414258,80.278375
+BD-0011,Ravi Verma,Civil Engineer,22.0,3.8,9775920979,"Ganga Barrage, Kanpur",26.46007,80.406968
+BD-0012,Manoj Pal,Flooring Installer,15.0,4.2,9351235921,"Nawabganj, Kanpur",26.457389,80.281735
+BD-0013,Ajay Gupta,Drywaller,9.0,3.7,9422529346,"Chunni Ganj, Kanpur",26.494073,80.291067
+BD-0014,Vikas Singh,Architect,4.0,3.9,9559394694,"Shastri Nagar, Kanpur",26.473068,80.383895
+BD-0015,Salman Tripathi,Carpenter,19.0,4.5,9289505914,"Sarvodaya Nagar, Kanpur",26.4798,80.410168
+BD-0016,Salman Yadav,Roofer,4.0,4.9,9925298718,"Becon Ganj, Kanpur",26.383466,80.408013
+BD-0017,Naresh Gupta,General Contractor,15.0,3.7,9325942233,"Juhi, Kanpur",26.478033,80.320178
+BD-0018,Ajay Pal,General Contractor,7.0,4.0,9597498959,"Panki, Kanpur",26.489339,80.350492
+BD-0019,Salman Tiwari,Electrician,2.0,4.4,9441526614,"Ganga Barrage, Kanpur",26.430066,80.283494
+BD-0020,Amit Tiwari,Mason,12.0,5.0,9268769147,"Tilak Nagar, Kanpur",26.410903,80.328089
+BD-0021,Amit Mishra,Mason,20.0,3.8,9910294499,"Kakadeo, Kanpur",26.463758,80.337772
+BD-0022,Manoj Khan,Structural Engineer,21.0,4.4,9494475248,"Fazal Ganj, Kanpur",26.396756,80.374533
+BD-0023,Arjun Khan,Mason,2.0,3.9,9715768412,"Barra 1, Kanpur",26.457328,80.314708
+BD-0024,Rahul Gupta,Tiler,9.0,5.0,9337191687,"Jajmau, Kanpur",26.437403,80.389575
+BD-0025,Rohit Sharma,Handyman,18.0,3.6,9514627646,"Swaroop Nagar, Kanpur",26.436883,80.339381
+BD-0026,Gaurav Sharma,Electrician,20.0,4.2,9037267335,"Ashok Nagar, Kanpur",26.395245,80.357853
+BD-0027,Vikas Srivastava,Electrician,10.0,4.8,9949970999,"Pandu Nagar, Kanpur",26.459965,80.283767
+BD-0028,Rohit Singh,Welder,20.0,4.8,9096365437,"Darshan Purwa, Kanpur",26.503399,80.340775
+BD-0029,Ankit Tiwari,Tiler,3.0,3.9,9654126345,"Kidwai Nagar, Kanpur",26.428945,80.410928
+BD-0030,Sandeep Gupta,Roofer,4.0,4.3,9624380547,"Fazal Ganj, Kanpur",26.393718,80.364138
+BD-0031,Ankit Srivastava,Mason,3.0,4.6,9133325804,"Juhi, Kanpur",26.495034,80.390181
+BD-0032,Naresh Verma,Drywaller,11.0,3.6,9069830187,"Naubasta, Kanpur",26.464527,80.388066
+BD-0033,Ankit Maurya,Carpenter,21.0,4.0,9576393433,"Becon Ganj, Kanpur",26.410882,80.363766
+BD-0034,Rahul Pal,Welder,15.0,3.8,9315730710,"Bhauti, Kanpur",26.442431,80.278361
+BD-0035,Arjun Gupta,Mason,21.0,4.5,9011477943,"Eldeco Colony, Kanpur",26.418673,80.285623
+BD-0036,Imran Pandey,Mason,8.0,3.9,9840907423,"Govind Nagar, Kanpur",26.3863,80.342691
+BD-0037,Vikas Tripathi,Carpenter,12.0,3.7,9703862637,"Barra 1, Kanpur",26.49451,80.369365
+BD-0038,Vijay Singh,Roofer,7.0,4.3,9654078105,"Swaroop Nagar, Kanpur",26.393212,80.377763
+BD-0039,Imran Pandey,Glazier,20.0,4.5,9551900329,"Chakeri, Kanpur",26.406469,80.327852
+BD-0040,Ankit Sharma,Structural Engineer,1.0,4.0,9760280340,"Moti Jheel, Kanpur",26.466202,80.330148
+BD-0041,Naresh Pal,Structural Engineer,14.0,4.3,9552654814,"Mandhana, Kanpur",26.411378,80.33081
+BD-0042,Gaurav Singh,General Contractor,4.0,4.1,9815195987,"Arya Nagar, Kanpur",26.44838,80.274287
+BD-0043,Vijay Mishra,Mason,11.0,4.6,9907740205,"Tilak Nagar, Kanpur",26.456329,80.364132
+BD-0044,Prakash Pal,Mason,1.0,4.7,9012436521,"Pandu Nagar, Kanpur",26.444312,80.287231
+BD-0045,Manoj Yadav,Drywaller,4.0,4.1,9099242808,"Chakeri, Kanpur",26.514699,80.331329
+BD-0046,Arjun Gupta,Roofer,6.0,4.1,9677496567,"Panki, Kanpur",26.416657,80.268676
+BD-0047,Prakash Mishra,Glazier,21.0,4.1,9350453510,"Mandhana, Kanpur",26.453927,80.323555
+BD-0048,Imran Mishra,General Contractor,12.0,3.9,9311220565,"Barra 4, Kanpur",26.447749,80.413972
+BD-0049,Rahul Khan,Mason,4.0,4.7,9237072266,"Civil Lines, Kanpur",26.502266,80.298908
+BD-0050,Imran Pandey,Construction Laborer,10.0,4.9,9460023236,"Shastri Nagar, Kanpur",26.452853,80.381612
+BD-0051,Ankit Sharma,HVAC Technician,12.0,4.4,9030647605,"Birhana Road, Kanpur",26.498309,80.326185
+BD-0052,Nikhil Tiwari,General Contractor,5.0,3.9,9261251972,"Bhauti, Kanpur",26.385167,80.409822
+BD-0053,Prakash Mishra,Construction Laborer,20.0,4.4,9395207814,"Bithoor, Kanpur",26.486513,80.318019
+BD-0054,Sandeep Mishra,Handyman,3.0,3.6,9217649216,"Fazal Ganj, Kanpur",26.443759,80.299183
+BD-0055,Nikhil Maurya,Handyman,14.0,4.2,9887041465,"Harsh Nagar, Kanpur",26.501504,80.270699
+BD-0056,Imran Verma,Welder,10.0,4.7,9145047824,"Chakeri, Kanpur",26.48447,80.336465
+BD-0057,Nikhil Khan,Drywaller,22.0,4.2,9468463157,"Darshan Purwa, Kanpur",26.517116,80.281385
+BD-0058,Arjun Maurya,Landscaper,1.0,4.5,9827119934,"Shastri Nagar, Kanpur",26.488729,80.301609
+BD-0059,Imran Yadav,Plumber,2.0,3.9,9240632872,"Naubasta, Kanpur",26.47762,80.298956
+BD-0060,Gaurav Srivastava,Landscaper,5.0,3.7,9355128915,"Kakadeo, Kanpur",26.462748,80.372947
+BD-0061,Vijay Pandey,Architect,6.0,4.9,9762213885,"Mall Road, Kanpur",26.458382,80.283064
+BD-0062,Vijay Sharma,Mason,16.0,4.5,9669474060,"Harsh Nagar, Kanpur",26.389492,80.36635
+BD-0063,Sandeep Srivastava,Architect,10.0,4.4,9365045013,"Ashok Nagar, Kanpur",26.413017,80.282052
+BD-0064,Deepak Pandey,Painter,13.0,3.6,9590013171,"G.T. Road, Kanpur",26.484626,80.295982
+BD-0065,Vijay Verma,Construction Laborer,8.0,4.2,9175902489,"Armapur Estate, Kanpur",26.417788,80.304709
+BD-0066,Arjun Khan,Landscaper,11.0,4.6,9308623560,"Moti Jheel, Kanpur",26.515404,80.29261
+BD-0067,Prakash Gupta,Structural Engineer,9.0,3.7,9514389362,"Ganga Barrage, Kanpur",26.409153,80.264963
+BD-0068,Gaurav Tripathi,General Contractor,9.0,4.6,9355884980,"Kidwai Nagar, Kanpur",26.39532,80.308137
+BD-0069,Salman Yadav,HVAC Technician,15.0,4.6,9014974876,"Juhi, Kanpur",26.473449,80.258179
+BD-0070,Amit Mishra,Structural Engineer,12.0,4.3,9653929850,"G.T. Road, Kanpur",26.416014,80.252869
+BD-0071,Amit Tripathi,Flooring Installer,20.0,3.9,9082387694,"Barra 5, Kanpur",26.452771,80.390174
+BD-0072,Nikhil Tripathi,Welder,2.0,4.5,9161233446,"Jawahar Nagar, Kanpur",26.400956,80.391336
+BD-0073,Sandeep Yadav,Electrician,14.0,5.0,9676079558,"Civil Lines, Kanpur",26.472757,80.3152
+BD-0074,Naresh Sharma,Drywaller,3.0,4.5,9471486366,"Bithoor, Kanpur",26.503199,80.353465
+BD-0075,Deepak Yadav,Roofer,18.0,4.7,9150621827,"Jawahar Nagar, Kanpur",26.389934,80.250177
+BD-0076,Rohit Yadav,Welder,4.0,4.5,9507105044,"Birhana Road, Kanpur",26.483168,80.270514
+BD-0077,Arjun Verma,Carpenter,1.0,4.1,9728552414,"Barra 3, Kanpur",26.490851,80.282509
+BD-0078,Ankit Tiwari,Landscaper,21.0,3.7,9343413653,"Azad Nagar, Kanpur",26.51159,80.36978
+BD-0079,Arjun Gupta,Handyman,5.0,4.8,9853574589,"Harsh Nagar, Kanpur",26.438038,80.337022
+BD-0080,Amit Singh,Architect,7.0,4.2,9030876821,"G.T. Road, Kanpur",26.407131,80.403324
+BD-0081,Sandeep Mishra,Roofer,2.0,4.2,9319919173,"Barra 3, Kanpur",26.420604,80.408288
+BD-0082,Prakash Srivastava,Roofer,16.0,3.8,9779691998,"Harjinder Nagar, Kanpur",26.389613,80.409307
+BD-0083,Nikhil Verma,Tiler,9.0,4.2,9181373259,"Yashoda Nagar, Kanpur",26.419746,80.399335
+BD-0084,Ravi Tiwari,Mason,5.0,3.7,9309269360,"Kakadeo, Kanpur",26.444202,80.308836
+BD-0085,Sandeep Pandey,Electrician,10.0,3.9,9348312662,"Pandu Nagar, Kanpur",26.433333,80.395471
+BD-0086,Ankit Sharma,Welder,6.0,4.6,9727705794,"Lal Bangla, Kanpur",26.466529,80.410727
+BD-0087,Gaurav Verma,Painter,4.0,4.6,9556204177,"Barra 6, Kanpur",26.380728,80.266115
+BD-0088,Arjun Pandey,General Contractor,18.0,3.8,9491309011,"Kalpi Road, Kanpur",26.490636,80.389167
+BD-0089,Amit Yadav,Architect,19.0,3.8,9222008212,"Chakeri, Kanpur",26.443785,80.336267
+BD-0090,Deepak Srivastava,Drywaller,1.0,4.0,9984056028,"Dada Nagar, Kanpur",26.442384,80.341881
+BD-0091,Ankit Singh,Architect,22.0,4.4,9952453550,"Barra 4, Kanpur",26.419726,80.323511
+BD-0092,Deepak Pandey,Structural Engineer,10.0,3.6,9139816282,"Mall Road, Kanpur",26.47899,80.257234
+BD-0093,Vikas Verma,HVAC Technician,9.0,3.9,9437309910,"Mall Road, Kanpur",26.443255,80.395486
+BD-0094,Naresh Pandey,Electrician,20.0,3.7,9697359870,"Ganga Barrage, Kanpur",26.471324,80.403066
+BD-0095,Naresh Mishra,Painter,17.0,3.7,9111262347,"Ganga Barrage, Kanpur",26.386401,80.282531
+BD-0096,Naresh Gupta,Structural Engineer,8.0,3.9,9287454965,"Harsh Nagar, Kanpur",26.409159,80.34459
+BD-0097,Prakash Gupta,Landscaper,1.0,4.1,9978997735,"Barra 7, Kanpur",26.505809,80.351806
+BD-0098,Naresh Sharma,Civil Engineer,9.0,4.1,9332805889,"Bithoor, Kanpur",26.489714,80.291113
+BD-0099,Manoj Pandey,Landscaper,14.0,4.7,9262801180,"Barra 7, Kanpur",26.43226,80.307002
+BD-0100,Ankit Tripathi,Plumber,13.0,3.8,9145689037,"Govind Nagar, Kanpur",26.430975,80.293844
+BD-0101,Salman Sharma,Painter,21.0,4.3,9010529245,"Jajmau, Kanpur",26.443131,80.32387
+BD-0102,Arjun Yadav,Tiler,2.0,4.7,9599136019,"Moti Jheel, Kanpur",26.488229,80.263137
+BD-0103,Deepak Verma,Flooring Installer,18.0,4.3,9318125935,"Swaroop Nagar, Kanpur",26.509661,80.382956
+BD-0104,Ravi Maurya,HVAC Technician,21.0,4.7,9792837874,"Mall Road, Kanpur",26.479229,80.344346
+BD-0105,Sandeep Tiwari,Architect,10.0,4.4,9107759514,"Harjinder Nagar, Kanpur",26.466317,80.304389
+BD-0106,Rahul Singh,Roofer,1.0,4.1,9927004324,"Moti Jheel, Kanpur",26.447654,80.379675
+BD-0107,Gaurav Verma,Structural Engineer,13.0,4.9,9801909657,"Indira Nagar, Kanpur",26.51158,80.252125
+BD-0108,Ankit Tripathi,Glazier,16.0,3.7,9877865616,"Mall Road, Kanpur",26.492648,80.347285
+BD-0109,Sandeep Mishra,Welder,15.0,4.3,9379891755,"Barra 6, Kanpur",26.477547,80.342711
+BD-0110,Sandeep Singh,Civil Engineer,8.0,4.8,9346533280,"Kalpi Road, Kanpur",26.448048,80.252485
+BD-0111,Nikhil Sharma,Structural Engineer,11.0,4.8,9649160291,"Becon Ganj, Kanpur",26.49693,80.322267
+BD-0112,Nikhil Pandey,Mason,3.0,5.0,9189858010,"Vikas Nagar, Kanpur",26.445501,80.307639
+BD-0113,Naresh Tiwari,Glazier,16.0,4.3,9477824842,"Barra 3, Kanpur",26.444079,80.395463
+BD-0114,Gaurav Verma,Roofer,3.0,3.8,9990313666,"Bhauti, Kanpur",26.493525,80.362862
+BD-0115,Rahul Sharma,Civil Engineer,21.0,4.7,9265300302,"Barra 1, Kanpur",26.503579,80.302335
+BD-0116,Deepak Tiwari,Landscaper,2.0,4.5,9054592187,"Juhi, Kanpur",26.508124,80.385436
+BD-0117,Sandeep Singh,Roofer,18.0,3.8,9316292416,"Ratan Lal Nagar, Kanpur",26.476299,80.271343
+BD-0118,Vijay Pal,Carpenter,1.0,5.0,9479096388,"Kalyanpur, Kanpur",26.402267,80.369164
+BD-0119,Deepak Tiwari,Plumber,9.0,3.6,9614206206,"Indira Nagar, Kanpur",26.383054,80.26096
+BD-0120,Vijay Maurya,Drywaller,4.0,4.4,9003968520,"Barra 3, Kanpur",26.495317,80.255147
+BD-0121,Deepak Srivastava,Flooring Installer,9.0,4.5,9413400437,"Barra 1, Kanpur",26.500898,80.26308
+BD-0122,Rahul Pandey,Handyman,20.0,4.6,9475160485,"Lajpat Nagar, Kanpur",26.465866,80.306313
+BD-0123,Ravi Gupta,Painter,17.0,4.4,9486844428,"Kalyanpur, Kanpur",26.443195,80.355025
+BD-0124,Nikhil Pandey,General Contractor,3.0,4.2,9100073879,"Ashok Nagar, Kanpur",26.492715,80.400915
+BD-0125,Vijay Khan,Plumber,16.0,4.3,9431227001,"Pandu Nagar, Kanpur",26.411059,80.341926
+BD-0126,Deepak Mishra,Landscaper,9.0,4.4,9780902921,"Kidwai Nagar, Kanpur",26.446594,80.25213
+BD-0127,Ajay Mishra,Construction Laborer,22.0,4.2,9383882550,"Ganga Barrage, Kanpur",26.415848,80.401745
+BD-0128,Arjun Mishra,Roofer,13.0,5.0,9884936269,"Shyam Nagar, Kanpur",26.513174,80.396432
+BD-0129,Gaurav Srivastava,Structural Engineer,11.0,4.4,9541212700,"Kalyanpur, Kanpur",26.475119,80.384823
+BD-0130,Imran Gupta,Landscaper,22.0,4.0,9942708098,"Lajpat Nagar, Kanpur",26.475053,80.40357
+BD-0131,Gaurav Sharma,General Contractor,14.0,5.0,9672245490,"Eldeco Colony, Kanpur",26.389079,80.258554
+BD-0132,Naresh Verma,Welder,17.0,4.3,9105216722,"Fazal Ganj, Kanpur",26.429624,80.39542
+BD-0133,Prakash Tiwari,Landscaper,5.0,4.9,9448678422,"Barra 1, Kanpur",26.427234,80.403484
+BD-0134,Nikhil Tiwari,Roofer,17.0,3.7,9281678489,"Harsh Nagar, Kanpur",26.466508,80.267098
+BD-0135,Nikhil Sharma,Painter,5.0,4.1,9592099564,"Vishnupuri, Kanpur",26.41812,80.37109
+BD-0136,Ajay Pal,Roofer,16.0,4.8,9918222432,"G.T. Road, Kanpur",26.494243,80.296345
+BD-0137,Rahul Verma,Landscaper,22.0,4.6,9875502768,"Jawahar Nagar, Kanpur",26.494784,80.273909
+BD-0138,Salman Yadav,Handyman,22.0,4.8,9217183898,"Arya Nagar, Kanpur",26.515309,80.333979
+BD-0139,Prakash Tripathi,Construction Laborer,18.0,3.9,9060657282,"Barra 4, Kanpur",26.431205,80.348548
+BD-0140,Prakash Tripathi,Glazier,10.0,3.8,9335365854,"Juhi, Kanpur",26.42097,80.310177
+BD-0141,Prakash Mishra,Mason,6.0,4.8,9749506507,"Arya Nagar, Kanpur",26.392803,80.387893
+BD-0142,Sandeep Srivastava,Mason,20.0,4.3,9751634542,"General Ganj, Kanpur",26.491598,80.384948
+BD-0143,Ankit Srivastava,Painter,9.0,4.6,9791317346,"Barra 1, Kanpur",26.453661,80.412383
+BD-0144,Sandeep Yadav,HVAC Technician,11.0,4.7,9886645134,"Arya Nagar, Kanpur",26.485972,80.363726
+BD-0145,Rohit Verma,Drywaller,15.0,4.2,9761725858,"Kalpi Road, Kanpur",26.474842,80.322714
+BD-0146,Gaurav Sharma,Painter,9.0,4.3,9026931251,"Kalpi Road, Kanpur",26.488686,80.255442
+BD-0147,Nikhil Khan,Electrician,6.0,3.9,9344735598,"Bhauti, Kanpur",26.38782,80.341651
+BD-0148,Nikhil Singh,Welder,3.0,4.0,9859361882,"Yashoda Nagar, Kanpur",26.488712,80.348042
+BD-0149,Imran Maurya,Roofer,8.0,4.4,9997898985,"Pandu Nagar, Kanpur",26.381241,80.30073
+BD-0150,Salman Tripathi,Handyman,1.0,4.8,9648868499,"Harsh Nagar, Kanpur",26.435497,80.348807
+BD-0151,Salman Sharma,HVAC Technician,19.0,3.9,9304564774,"Ratan Lal Nagar, Kanpur",26.381621,80.297374
+BD-0152,Vikas Tripathi,Architect,10.0,4.7,9652905913,"Chakeri, Kanpur",26.437314,80.343616
+BD-0153,Ankit Tripathi,Tiler,19.0,3.8,9114014937,"Darshan Purwa, Kanpur",26.409802,80.275086
+BD-0154,Naresh Srivastava,Civil Engineer,12.0,3.9,9027398147,"Naubasta, Kanpur",26.461903,80.374389
+BD-0155,Amit Mishra,Painter,17.0,4.0,9697451195,"Juhi, Kanpur",26.457953,80.265786
+BD-0156,Rohit Verma,HVAC Technician,11.0,4.1,9255425243,"Shastri Nagar, Kanpur",26.468814,80.299923
+BD-0157,Arjun Gupta,Architect,5.0,5.0,9299501016,"Yashoda Nagar, Kanpur",26.426117,80.267927
+BD-0158,Deepak Khan,Welder,22.0,4.2,9743995718,"Nayaganj, Kanpur",26.415526,80.399476
+BD-0159,Prakash Srivastava,General Contractor,12.0,3.9,9386683242,"Ratan Lal Nagar, Kanpur",26.519414,80.324753
+BD-0160,Sandeep Pal,Glazier,4.0,3.6,9839415202,"Panki, Kanpur",26.508795,80.257152
+BD-0161,Deepak Verma,Glazier,3.0,4.4,9824704928,"Saket Nagar, Kanpur",26.494776,80.324737
+BD-0162,Nikhil Khan,Carpenter,11.0,4.7,9610601074,"Barra 7, Kanpur",26.411557,80.405685
+BD-0163,Deepak Gupta,Electrician,7.0,4.4,9753249109,"Lajpat Nagar, Kanpur",26.420059,80.402698
+BD-0164,Ankit Sharma,Mason,9.0,4.1,9188622383,"Fazal Ganj, Kanpur",26.397193,80.321588
+BD-0165,Vijay Gupta,Carpenter,5.0,4.7,9972634179,"Becon Ganj, Kanpur",26.386808,80.323068
+BD-0166,Vijay Verma,Roofer,10.0,5.0,9453335587,"Ganga Barrage, Kanpur",26.423948,80.261479
+BD-0167,Imran Gupta,Roofer,9.0,4.3,9684679160,"Darshan Purwa, Kanpur",26.400995,80.403395
+BD-0168,Ankit Sharma,Landscaper,10.0,4.3,9387339420,"Kalpi Road, Kanpur",26.443292,80.339811
+BD-0169,Naresh Pandey,Electrician,5.0,4.8,9407606483,"Barra 7, Kanpur",26.395067,80.271088
+BD-0170,Gaurav Pandey,Mason,20.0,3.8,9678213338,"Fazal Ganj, Kanpur",26.414904,80.359815
+BD-0171,Imran Srivastava,Handyman,10.0,4.5,9539536182,"Ganga Barrage, Kanpur",26.42115,80.379467
+BD-0172,Deepak Verma,Civil Engineer,5.0,4.6,9963479366,"Azad Nagar, Kanpur",26.50098,80.375655
+BD-0173,Manoj Pal,Construction Laborer,11.0,4.4,9842099670,"Naubasta, Kanpur",26.492839,80.310256
+BD-0174,Rohit Srivastava,Tiler,13.0,4.5,9387037838,"Harjinder Nagar, Kanpur",26.499263,80.347493
+BD-0175,Amit Singh,Landscaper,6.0,3.9,9000850518,"Ashok Nagar, Kanpur",26.420087,80.410692
+BD-0176,Prakash Tripathi,HVAC Technician,21.0,5.0,9529220035,"Vikas Nagar, Kanpur",26.426563,80.399548
+BD-0177,Ankit Mishra,Drywaller,4.0,4.4,9613180129,"Shyam Nagar, Kanpur",26.392378,80.292246
+BD-0178,Rahul Khan,Drywaller,21.0,4.0,9198347804,"Darshan Purwa, Kanpur",26.462656,80.327472
+BD-0179,Nikhil Srivastava,Flooring Installer,15.0,4.2,9379172368,"Govind Nagar, Kanpur",26.415955,80.270189
+BD-0180,Vikas Pandey,Glazier,21.0,3.9,9024848262,"Tilak Nagar, Kanpur",26.49844,80.392464
+BD-0181,Amit Gupta,Roofer,10.0,3.6,9208647920,"Harsh Nagar, Kanpur",26.493259,80.284661
+BD-0182,Vikas Srivastava,Mason,7.0,4.2,9556900883,"Govind Nagar, Kanpur",26.470583,80.419817
+BD-0183,Nikhil Tripathi,Plumber,6.0,4.4,9289255194,"Jajmau, Kanpur",26.406309,80.339354
+BD-0184,Arjun Mishra,Welder,14.0,4.5,9763096240,"Yashoda Nagar, Kanpur",26.422365,80.325458
+BD-0185,Arjun Pal,Drywaller,13.0,4.8,9324653806,"Arya Nagar, Kanpur",26.472895,80.308504
+BD-0186,Gaurav Yadav,Structural Engineer,7.0,4.4,9818076756,"Harsh Nagar, Kanpur",26.407173,80.318015
+BD-0187,Gaurav Tiwari,Construction Laborer,1.0,4.7,9682801137,"Mandhana, Kanpur",26.466975,80.259151
+BD-0188,Salman Mishra,Carpenter,21.0,4.4,9048483653,"Ashok Nagar, Kanpur",26.456336,80.340483
+BD-0189,Salman Verma,Mason,13.0,3.9,9789253750,"Lajpat Nagar, Kanpur",26.490495,80.404206
+BD-0190,Ravi Gupta,Flooring Installer,14.0,3.6,9489622858,"Harsh Nagar, Kanpur",26.503334,80.310345
+BD-0191,Imran Maurya,Landscaper,21.0,4.8,9122377122,"Civil Lines, Kanpur",26.45543,80.332015
+BD-0192,Ankit Khan,General Contractor,15.0,4.9,9922154397,"Panki, Kanpur",26.404389,80.263391
+BD-0193,Deepak Pal,Roofer,8.0,3.8,9424671513,"Swaroop Nagar, Kanpur",26.430768,80.413298
+BD-0194,Vikas Sharma,Mason,14.0,4.9,9085479164,"Swaroop Nagar, Kanpur",26.41737,80.360156
+BD-0195,Ravi Maurya,Carpenter,20.0,5.0,9752286536,"G.T. Road, Kanpur",26.380873,80.410403
+BD-0196,Rahul Pandey,Tiler,21.0,4.2,9050969529,"Barra 4, Kanpur",26.451484,80.280648
+BD-0197,Naresh Singh,Structural Engineer,13.0,4.4,9908780736,"Panki, Kanpur",26.519371,80.353165
+BD-0198,Ankit Tripathi,Plumber,13.0,4.0,9718785500,"Chunni Ganj, Kanpur",26.453378,80.415852
+BD-0199,Arjun Pandey,Handyman,11.0,4.1,9642791684,"Harsh Nagar, Kanpur",26.499995,80.354096
+BD-0200,Amit Tiwari,Roofer,5.0,4.3,9809176641,"Saket Nagar, Kanpur",26.39883,80.336369
+BD-0201,Vijay Yadav,Electrician,13.0,4.2,9389043004,"Chunni Ganj, Kanpur",26.478041,80.2821
+BD-0202,Sandeep Gupta,Structural Engineer,11.0,5.0,9756627905,"Tilak Nagar, Kanpur",26.517982,80.310583
+BD-0203,Imran Tripathi,Landscaper,13.0,4.1,9396128856,"Chakeri, Kanpur",26.505671,80.263891
+BD-0204,Vikas Singh,Painter,2.0,3.9,9172590695,"Becon Ganj, Kanpur",26.469283,80.337581
+BD-0205,Ankit Pal,Flooring Installer,3.0,5.0,9546170762,"Sarvodaya Nagar, Kanpur",26.407033,80.299334
+BD-0206,Vikas Yadav,Civil Engineer,6.0,4.4,9946319543,"Armapur Estate, Kanpur",26.519695,80.369439
+BD-0207,Gaurav Khan,Handyman,17.0,4.5,9913617256,"Dada Nagar, Kanpur",26.492242,80.272484
+BD-0208,Imran Srivastava,Mason,18.0,3.6,9012216676,"Shyam Nagar, Kanpur",26.465984,80.370834
+BD-0209,Rahul Pandey,Plumber,17.0,3.7,9243624270,"Arya Nagar, Kanpur",26.497985,80.26564
+BD-0210,Nikhil Srivastava,Tiler,11.0,4.2,9005905792,"Harjinder Nagar, Kanpur",26.387523,80.284383
+BD-0211,Ravi Tiwari,Handyman,18.0,4.8,9807884764,"Barra 6, Kanpur",26.498909,80.302991
+BD-0212,Ankit Sharma,Welder,14.0,4.7,9143958413,"Tilak Nagar, Kanpur",26.470898,80.39153
+BD-0213,Manoj Tripathi,HVAC Technician,19.0,4.9,9179647988,"Saket Nagar, Kanpur",26.407797,80.376448
+BD-0214,Nikhil Srivastava,Mason,18.0,4.5,9316030456,"Vikas Nagar, Kanpur",26.411492,80.325656
+BD-0215,Sandeep Sharma,General Contractor,8.0,4.2,9897495248,"Jawahar Nagar, Kanpur",26.511613,80.389253
+BD-0216,Amit Verma,Landscaper,4.0,3.8,9172597396,"Lal Bangla, Kanpur",26.439102,80.367589
+BD-0217,Prakash Maurya,Architect,4.0,4.1,9521670095,"Azad Nagar, Kanpur",26.430813,80.370513
+BD-0218,Nikhil Tripathi,Civil Engineer,7.0,4.7,9777277084,"Ratan Lal Nagar, Kanpur",26.455079,80.409687
+BD-0219,Naresh Yadav,Construction Laborer,7.0,4.1,9214329958,"Naubasta, Kanpur",26.50894,80.278361
+BD-0220,Naresh Verma,HVAC Technician,5.0,4.2,9897021528,"Barra 5, Kanpur",26.388181,80.347055
+BD-0221,Gaurav Yadav,Welder,18.0,4.3,9981467698,"Nayaganj, Kanpur",26.393982,80.407417
+BD-0222,Sandeep Tripathi,Structural Engineer,15.0,4.6,9842628273,"Nawabganj, Kanpur",26.396562,80.349818
+BD-0223,Arjun Sharma,HVAC Technician,17.0,3.9,9030758595,"Lajpat Nagar, Kanpur",26.398602,80.415548
+BD-0224,Rohit Mishra,Structural Engineer,18.0,3.8,9627314270,"Shastri Nagar, Kanpur",26.501603,80.31011
+BD-0225,Prakash Pandey,Landscaper,16.0,4.3,9807024532,"Lal Bangla, Kanpur",26.431157,80.316084
+BD-0226,Sandeep Srivastava,Painter,8.0,5.0,9657008151,"Mandhana, Kanpur",26.381532,80.351527
+BD-0227,Ajay Tripathi,Flooring Installer,15.0,4.6,9472145334,"Jajmau, Kanpur",26.41451,80.325657
+BD-0228,Ravi Sharma,Painter,7.0,4.9,9708853350,"Bhauti, Kanpur",26.414007,80.309344
+BD-0229,Vijay Yadav,Welder,12.0,3.7,9322964139,"Arya Nagar, Kanpur",26.441451,80.294147
+BD-0230,Rahul Gupta,Landscaper,2.0,4.7,9663783836,"Kalyanpur, Kanpur",26.510661,80.316409
+BD-0231,Naresh Pal,Landscaper,12.0,3.9,9521692571,"Nayaganj, Kanpur",26.519663,80.402702
+BD-0232,Gaurav Mishra,General Contractor,22.0,4.7,9954252721,"Vishnupuri, Kanpur",26.490821,80.417308
+BD-0233,Vikas Gupta,Civil Engineer,13.0,3.6,9025923144,"Kalyanpur, Kanpur",26.409163,80.391751
+BD-0234,Naresh Mishra,Landscaper,9.0,4.8,9125222827,"Nawabganj, Kanpur",26.49999,80.291967
+BD-0235,Rohit Yadav,Plumber,2.0,4.0,9424153335,"Birhana Road, Kanpur",26.400727,80.302664
+BD-0236,Nikhil Tiwari,Landscaper,4.0,4.3,9560318649,"Civil Lines, Kanpur",26.3918,80.267042
+BD-0237,Vikas Verma,Handyman,5.0,4.3,9258246454,"Naubasta, Kanpur",26.406728,80.266713
+BD-0238,Vijay Pandey,Glazier,2.0,4.5,9288266024,"Armapur Estate, Kanpur",26.416129,80.311888
+BD-0239,Deepak Pandey,Architect,10.0,4.8,9676507989,"Darshan Purwa, Kanpur",26.405453,80.27824
+BD-0240,Imran Mishra,Painter,6.0,4.2,9919052425,"G.T. Road, Kanpur",26.464266,80.287691
+BD-0241,Gaurav Srivastava,Architect,19.0,4.4,9791341557,"Barra 8, Kanpur",26.41612,80.281958
+BD-0242,Sandeep Tripathi,Painter,14.0,4.4,9695111861,"Barra 8, Kanpur",26.395564,80.415051
+BD-0243,Gaurav Tiwari,Roofer,3.0,4.7,9532807543,"Pandu Nagar, Kanpur",26.489391,80.29932
+BD-0244,Ajay Mishra,Handyman,11.0,4.1,9642836393,"Pandu Nagar, Kanpur",26.473281,80.302789
+BD-0245,Arjun Pal,HVAC Technician,18.0,4.7,9167366653,"Azad Nagar, Kanpur",26.465766,80.306932
+BD-0246,Nikhil Tripathi,Flooring Installer,3.0,4.8,9143975042,"Ratan Lal Nagar, Kanpur",26.38544,80.381269
+BD-0247,Nikhil Sharma,Tiler,1.0,4.3,9489812083,"Nayaganj, Kanpur",26.424746,80.257745
+BD-0248,Gaurav Singh,Electrician,5.0,3.9,9961786778,"Ashok Nagar, Kanpur",26.436238,80.34736
+BD-0249,Prakash Sharma,Landscaper,1.0,4.6,9037812219,"Mandhana, Kanpur",26.41044,80.334201
+BD-0250,Ajay Maurya,Roofer,8.0,4.9,9442524088,"Kakadeo, Kanpur",26.463063,80.41132
+BD-0251,Rohit Singh,Handyman,5.0,4.1,9779544008,"Chakeri, Kanpur",26.383131,80.369052
+BD-0252,Prakash Singh,Painter,19.0,3.7,9737423701,"Nayaganj, Kanpur",26.410045,80.252821
+BD-0253,Arjun Khan,General Contractor,13.0,3.8,9582094650,"Darshan Purwa, Kanpur",26.411594,80.406486
+BD-0254,Nikhil Yadav,Structural Engineer,11.0,4.8,9640492936,"Ratan Lal Nagar, Kanpur",26.386156,80.314685
+BD-0255,Gaurav Sharma,Drywaller,4.0,3.9,9172827336,"Barra 7, Kanpur",26.471807,80.340441
+BD-0256,Naresh Khan,General Contractor,8.0,5.0,9075204243,"Fazal Ganj, Kanpur",26.416756,80.284081
+BD-0257,Amit Tiwari,Welder,9.0,4.2,9485742540,"Barra 1, Kanpur",26.500993,80.294252
+BD-0258,Salman Tiwari,Roofer,11.0,3.7,9041068406,"Barra 5, Kanpur",26.382894,80.305719
+BD-0259,Manoj Tiwari,HVAC Technician,12.0,4.3,9982794878,"Harsh Nagar, Kanpur",26.514942,80.364874
+BD-0260,Rohit Maurya,Flooring Installer,21.0,4.9,9178481992,"Barra 8, Kanpur",26.4235,80.253574
+BD-0261,Ravi Srivastava,Carpenter,9.0,4.8,9301282008,"Sarvodaya Nagar, Kanpur",26.381911,80.269574
+BD-0262,Imran Tiwari,Electrician,15.0,4.1,9509504106,"Panki, Kanpur",26.381597,80.338706
+BD-0263,Ajay Tiwari,Architect,4.0,3.9,9679047391,"Yashoda Nagar, Kanpur",26.514023,80.273227
+BD-0264,Arjun Singh,Painter,7.0,3.7,9184128966,"Jawahar Nagar, Kanpur",26.419334,80.416922
+BD-0265,Imran Pandey,Mason,11.0,3.8,9506173060,"Darshan Purwa, Kanpur",26.487823,80.261229
+BD-0266,Ankit Srivastava,HVAC Technician,5.0,5.0,9808487775,"Bithoor, Kanpur",26.420772,80.391761
+BD-0267,Manoj Yadav,Architect,14.0,3.7,9146028814,"Arya Nagar, Kanpur",26.499502,80.295506
+BD-0268,Gaurav Pandey,Architect,5.0,4.5,9253988588,"Swaroop Nagar, Kanpur",26.480197,80.358026
+BD-0269,Vijay Mishra,Mason,19.0,4.1,9697908130,"Panki, Kanpur",26.476174,80.354489
+BD-0270,Amit Verma,Plumber,17.0,4.7,9866704542,"Tilak Nagar, Kanpur",26.474147,80.417326
+BD-0271,Ravi Srivastava,Structural Engineer,2.0,4.3,9004359344,"Becon Ganj, Kanpur",26.387619,80.296841
+BD-0272,Deepak Sharma,Plumber,5.0,4.5,9541160247,"Kidwai Nagar, Kanpur",26.48614,80.315875
+BD-0273,Imran Mishra,Welder,4.0,4.3,9248301164,"Shastri Nagar, Kanpur",26.49078,80.358582
+BD-0274,Ankit Tiwari,Roofer,19.0,4.5,9895308572,"Panki, Kanpur",26.519489,80.374131
+BD-0275,Prakash Gupta,Landscaper,18.0,4.0,9665585330,"General Ganj, Kanpur",26.478541,80.384409
+BD-0276,Sandeep Singh,Flooring Installer,21.0,4.2,9961942319,"Becon Ganj, Kanpur",26.420965,80.384934
+BD-0277,Gaurav Pandey,Electrician,20.0,4.6,9213580839,"Barra 4, Kanpur",26.484277,80.308835
+BD-0278,Vijay Gupta,Architect,11.0,4.7,9212563781,"Azad Nagar, Kanpur",26.431142,80.333758
+BD-0279,Gaurav Khan,Tiler,16.0,4.7,9517673408,"Yashoda Nagar, Kanpur",26.395696,80.406769
+BD-0280,Ankit Gupta,Plumber,1.0,4.3,9171623647,"Harjinder Nagar, Kanpur",26.461003,80.259339
+BD-0281,Vijay Sharma,Roofer,7.0,4.2,9333254268,"Kidwai Nagar, Kanpur",26.415428,80.266116
+BD-0282,Ajay Srivastava,Architect,21.0,3.9,9126962336,"Ganga Barrage, Kanpur",26.502488,80.419311
+BD-0283,Gaurav Singh,Civil Engineer,6.0,3.8,9549802111,"Kalyanpur, Kanpur",26.464182,80.281341
+BD-0284,Rahul Mishra,Tiler,8.0,3.6,9280927926,"Arya Nagar, Kanpur",26.507972,80.281064
+BD-0285,Nikhil Verma,Electrician,17.0,4.0,9430497052,"Civil Lines, Kanpur",26.476779,80.333384
+BD-0286,Rohit Pandey,Welder,19.0,3.9,9653075918,"Bithoor, Kanpur",26.407299,80.397726
+BD-0287,Arjun Sharma,Handyman,11.0,4.6,9970729309,"Panki, Kanpur",26.394582,80.386299
+BD-0288,Rohit Srivastava,Electrician,16.0,3.9,9607656429,"Naubasta, Kanpur",26.458002,80.419672
+BD-0289,Salman Maurya,Mason,7.0,3.8,9132250603,"Naubasta, Kanpur",26.385856,80.329734
+BD-0290,Vijay Tiwari,Architect,10.0,4.2,9894562123,"Birhana Road, Kanpur",26.459212,80.361716
+BD-0291,Nikhil Maurya,Landscaper,5.0,4.1,9374396682,"Kakadeo, Kanpur",26.518235,80.346006
+BD-0292,Manoj Yadav,Mason,10.0,4.3,9404965254,"Vishnupuri, Kanpur",26.462587,80.306885
+BD-0293,Amit Tiwari,Civil Engineer,1.0,3.7,9700438998,"Becon Ganj, Kanpur",26.454755,80.301163
+BD-0294,Imran Mishra,Mason,18.0,4.4,9126897296,"Harsh Nagar, Kanpur",26.415182,80.304511
+BD-0295,Amit Tiwari,HVAC Technician,9.0,4.4,9010238703,"Swaroop Nagar, Kanpur",26.420008,80.279233
+BD-0296,Vikas Gupta,Tiler,9.0,4.2,9395273308,"Darshan Purwa, Kanpur",26.451998,80.252887
+BD-0297,Vikas Pal,HVAC Technician,13.0,4.1,9511269581,"Barra 6, Kanpur",26.490008,80.330537
+BD-0298,Nikhil Srivastava,Roofer,6.0,4.0,9266248976,"Yashoda Nagar, Kanpur",26.393414,80.282205
+BD-0299,Imran Srivastava,Flooring Installer,12.0,3.7,9620765570,"Mandhana, Kanpur",26.506912,80.279817
+BD-0300,Salman Gupta,Mason,10.0,4.6,9916964416,"Chakeri, Kanpur",26.468798,80.345363
+BD-0301,Deepak Mishra,Tiler,8.0,4.5,9950687377,"Shastri Nagar, Kanpur",26.516868,80.37537
+BD-0302,Prakash Pandey,HVAC Technician,16.0,4.2,9409030150,"Birhana Road, Kanpur",26.387127,80.250961
+BD-0303,Arjun Sharma,Plumber,14.0,4.3,9478505736,"Eldeco Colony, Kanpur",26.488558,80.315668
+BD-0304,Vikas Tripathi,Tiler,15.0,3.7,9534605755,"Barra 5, Kanpur",26.406891,80.29883
+BD-0305,Sandeep Gupta,Landscaper,18.0,4.5,9596730040,"Chakeri, Kanpur",26.400073,80.279762
+BD-0306,Deepak Pal,Civil Engineer,9.0,4.9,9717020509,"Jajmau, Kanpur",26.512635,80.316565
+BD-0307,Nikhil Yadav,Plumber,11.0,3.9,9174675745,"Sarvodaya Nagar, Kanpur",26.401232,80.410241
+BD-0308,Amit Yadav,Flooring Installer,9.0,4.0,9869834545,"Armapur Estate, Kanpur",26.480013,80.293576
+BD-0309,Naresh Gupta,Drywaller,7.0,3.8,9688065138,"Lal Bangla, Kanpur",26.408684,80.325861
+BD-0310,Rahul Gupta,Welder,21.0,4.0,9042339419,"Kalyanpur, Kanpur",26.496227,80.268029
+BD-0311,Vikas Sharma,Civil Engineer,21.0,4.1,9916227489,"Vikas Nagar, Kanpur",26.453778,80.382476
+BD-0312,Naresh Tiwari,General Contractor,12.0,4.1,9251672973,"Panki, Kanpur",26.501605,80.376843
+BD-0313,Ankit Yadav,Mason,12.0,4.2,9160576400,"Shastri Nagar, Kanpur",26.428508,80.297529
+BD-0314,Nikhil Singh,Civil Engineer,15.0,4.1,9370585908,"Barra 5, Kanpur",26.49844,80.259756
+BD-0315,Deepak Pal,Tiler,2.0,3.6,9320574338,"Ratan Lal Nagar, Kanpur",26.49737,80.402716
+BD-0316,Imran Pal,Tiler,12.0,4.8,9408066304,"Barra 3, Kanpur",26.384215,80.273169
+BD-0317,Deepak Yadav,Electrician,22.0,4.3,9625495711,"Civil Lines, Kanpur",26.437586,80.384328
+BD-0318,Rahul Tiwari,Landscaper,8.0,3.7,9237484848,"Nawabganj, Kanpur",26.490754,80.289914
+BD-0319,Nikhil Tiwari,Painter,7.0,3.7,9526691918,"Govind Nagar, Kanpur",26.392132,80.390739
+BD-0320,Nikhil Khan,Civil Engineer,15.0,3.9,9035428310,"Kakadeo, Kanpur",26.486737,80.345039
+BD-0321,Manoj Pandey,Welder,8.0,4.4,9014378756,"Yashoda Nagar, Kanpur",26.477222,80.322873
+BD-0322,Nikhil Verma,Welder,14.0,4.9,9589715872,"Bhauti, Kanpur",26.416163,80.38417
+BD-0323,Arjun Khan,General Contractor,13.0,4.2,9568032992,"Barra 8, Kanpur",26.408517,80.284452
+BD-0324,Arjun Gupta,Civil Engineer,20.0,4.1,9706108282,"Pandu Nagar, Kanpur",26.434202,80.314168
+BD-0325,Rahul Gupta,Mason,1.0,4.4,9102206100,"Civil Lines, Kanpur",26.455797,80.30442
+BD-0326,Vikas Maurya,Painter,3.0,3.9,9280915083,"Barra 3, Kanpur",26.471641,80.338615
+BD-0327,Prakash Srivastava,Drywaller,12.0,5.0,9524904022,"Kalpi Road, Kanpur",26.384494,80.30812
+BD-0328,Vikas Gupta,Tiler,8.0,4.7,9523382605,"Mall Road, Kanpur",26.438073,80.284026
+BD-0329,Ankit Verma,Mason,3.0,4.0,9175012968,"Bhauti, Kanpur",26.507961,80.317921
+BD-0330,Vikas Tiwari,Roofer,11.0,4.9,9589370984,"Barra 7, Kanpur",26.476272,80.369179
+BD-0331,Manoj Gupta,Carpenter,15.0,4.1,9461255441,"Kakadeo, Kanpur",26.426238,80.418483
+BD-0332,Deepak Tripathi,General Contractor,17.0,4.0,9778047386,"Nawabganj, Kanpur",26.424646,80.398548
+BD-0333,Imran Maurya,Civil Engineer,10.0,4.5,9398880548,"Shyam Nagar, Kanpur",26.418108,80.297489
+BD-0334,Vikas Mishra,Welder,10.0,3.9,9858204550,"Sarvodaya Nagar, Kanpur",26.443489,80.418579
+BD-0335,Imran Srivastava,Welder,4.0,4.3,9249439080,"Indira Nagar, Kanpur",26.387414,80.274972
+BD-0336,Sandeep Khan,Glazier,2.0,4.1,9223317406,"Arya Nagar, Kanpur",26.478773,80.329509
+BD-0337,Rohit Srivastava,Carpenter,5.0,3.8,9168727421,"Jawahar Nagar, Kanpur",26.38544,80.33334
+BD-0338,Nikhil Mishra,Structural Engineer,9.0,3.6,9092337835,"Eldeco Colony, Kanpur",26.387539,80.302813
+BD-0339,Amit Pal,Handyman,15.0,4.0,9016355250,"Kalpi Road, Kanpur",26.449737,80.344424
+BD-0340,Rohit Maurya,Mason,20.0,4.1,9663207567,"Barra 1, Kanpur",26.409524,80.333399
+BD-0341,Prakash Pal,Architect,6.0,4.2,9027405325,"Barra 1, Kanpur",26.475066,80.315882
+BD-0342,Arjun Pal,Construction Laborer,20.0,3.8,9631275766,"Jawahar Nagar, Kanpur",26.460512,80.289013
+BD-0343,Ajay Tripathi,Tiler,1.0,4.7,9060781306,"Lal Bangla, Kanpur",26.448077,80.418217
+BD-0344,Naresh Srivastava,Tiler,16.0,4.0,9869524888,"Nayaganj, Kanpur",26.478099,80.273844
+BD-0345,Manoj Verma,General Contractor,21.0,5.0,9942234717,"Bithoor, Kanpur",26.482575,80.389063
+BD-0346,Vijay Mishra,Electrician,9.0,3.6,9955255646,"Darshan Purwa, Kanpur",26.458647,80.366636
+BD-0347,Arjun Khan,Construction Laborer,11.0,3.9,9744517846,"Bithoor, Kanpur",26.514146,80.381395
+BD-0348,Ankit Mishra,Construction Laborer,2.0,4.1,9332275251,"Armapur Estate, Kanpur",26.493725,80.315214
+BD-0349,Gaurav Gupta,Handyman,7.0,4.3,9363993727,"Barra 2, Kanpur",26.385605,80.283578
+BD-0350,Salman Verma,Tiler,13.0,4.4,9260415715,"Barra 5, Kanpur",26.506935,80.33461
+BD-0351,Vijay Mishra,Glazier,14.0,4.8,9864432822,"Armapur Estate, Kanpur",26.426719,80.329619
+BD-0352,Naresh Yadav,HVAC Technician,14.0,3.7,9750137872,"Swaroop Nagar, Kanpur",26.489105,80.373468
+BD-0353,Amit Khan,Structural Engineer,8.0,4.7,9995942213,"Azad Nagar, Kanpur",26.43041,80.38611
+BD-0354,Vijay Verma,Construction Laborer,12.0,4.4,9098506467,"Nawabganj, Kanpur",26.464062,80.382928
+BD-0355,Ajay Srivastava,Painter,3.0,4.5,9603066791,"Shastri Nagar, Kanpur",26.443755,80.388529
+BD-0356,Manoj Tiwari,Tiler,8.0,4.7,9228693164,"Kalpi Road, Kanpur",26.452826,80.386593
+BD-0357,Rahul Singh,Architect,3.0,4.0,9180864511,"Eldeco Colony, Kanpur",26.447937,80.409829
+BD-0358,Deepak Singh,Welder,2.0,4.6,9060388484,"Dada Nagar, Kanpur",26.385688,80.25516
+BD-0359,Gaurav Gupta,Drywaller,4.0,3.6,9290495293,"Arya Nagar, Kanpur",26.398653,80.263465
+BD-0360,Arjun Singh,Plumber,17.0,3.8,9387248211,"Kakadeo, Kanpur",26.410586,80.349378
+BD-0361,Deepak Sharma,Glazier,20.0,5.0,9282577999,"Mandhana, Kanpur",26.500237,80.418768
+BD-0362,Vijay Srivastava,Electrician,10.0,4.6,9228761714,"Barra 4, Kanpur",26.391608,80.314835
+BD-0363,Ankit Mishra,Structural Engineer,20.0,3.7,9308575418,"Kalyanpur, Kanpur",26.407552,80.408852
+BD-0364,Ravi Pal,Civil Engineer,12.0,4.9,9280859057,"Ashok Nagar, Kanpur",26.499404,80.356586
+BD-0365,Deepak Pal,Glazier,16.0,3.6,9126269773,"Bhauti, Kanpur",26.401822,80.369078
+BD-0366,Vijay Srivastava,Architect,6.0,4.9,9673184738,"Kalpi Road, Kanpur",26.423035,80.260799
+BD-0367,Prakash Pal,Landscaper,1.0,4.0,9630750768,"Ganga Barrage, Kanpur",26.436785,80.269289
+BD-0368,Manoj Mishra,Flooring Installer,3.0,3.9,9631480637,"Kakadeo, Kanpur",26.404004,80.392559
+BD-0369,Nikhil Maurya,Landscaper,10.0,4.8,9761036084,"Darshan Purwa, Kanpur",26.39673,80.341027
+BD-0370,Naresh Gupta,Plumber,5.0,4.9,9972758853,"Pandu Nagar, Kanpur",26.413981,80.293555
+BD-0371,Ravi Srivastava,Flooring Installer,22.0,4.2,9833714367,"Bhauti, Kanpur",26.511053,80.302218
+BD-0372,Manoj Verma,General Contractor,12.0,4.6,9166495619,"Indira Nagar, Kanpur",26.456653,80.302619
+BD-0373,Prakash Gupta,Civil Engineer,17.0,4.6,9279397817,"Barra 4, Kanpur",26.497155,80.28729
+BD-0374,Rahul Khan,Drywaller,15.0,4.9,9594786139,"Vikas Nagar, Kanpur",26.45057,80.300208
+BD-0375,Imran Pandey,Architect,12.0,3.7,9043621356,"Dada Nagar, Kanpur",26.501453,80.418411
+BD-0376,Ajay Srivastava,Architect,22.0,4.4,9432688113,"Shastri Nagar, Kanpur",26.433096,80.299824
+BD-0377,Arjun Tripathi,Painter,9.0,3.7,9605594701,"Chakeri, Kanpur",26.383755,80.400778
+BD-0378,Vijay Khan,Welder,11.0,4.8,9423008084,"Kalpi Road, Kanpur",26.411057,80.416701
+BD-0379,Deepak Gupta,Structural Engineer,1.0,4.6,9721621612,"Lajpat Nagar, Kanpur",26.417735,80.295334
+BD-0380,Rohit Mishra,Roofer,16.0,4.0,9671970961,"Darshan Purwa, Kanpur",26.382257,80.301906
+BD-0381,Vijay Srivastava,Welder,18.0,3.7,9175671497,"Barra 2, Kanpur",26.515752,80.271559
+BD-0382,Arjun Sharma,Plumber,1.0,4.7,9144014529,"Barra 6, Kanpur",26.443146,80.292547
+BD-0383,Amit Gupta,Glazier,18.0,3.8,9223209241,"Mandhana, Kanpur",26.406351,80.354475
+BD-0384,Naresh Gupta,Construction Laborer,11.0,4.5,9792917482,"Vishnupuri, Kanpur",26.385192,80.366225
+BD-0385,Ajay Mishra,Architect,14.0,4.0,9061945051,"Panki, Kanpur",26.451083,80.317374
+BD-0386,Imran Tripathi,Drywaller,1.0,3.8,9887049199,"Dada Nagar, Kanpur",26.437842,80.26435
+BD-0387,Ravi Pandey,Roofer,22.0,4.8,9461471994,"Ratan Lal Nagar, Kanpur",26.41442,80.296465
+BD-0388,Arjun Singh,General Contractor,21.0,4.9,9447648916,"Tilak Nagar, Kanpur",26.452303,80.405239
+BD-0389,Naresh Tiwari,Plumber,16.0,4.0,9765215127,"Pandu Nagar, Kanpur",26.455684,80.298222
+BD-0390,Imran Pandey,Landscaper,14.0,4.2,9022763001,"Lajpat Nagar, Kanpur",26.502466,80.372896
+BD-0391,Ravi Yadav,Landscaper,13.0,3.9,9598397296,"Pandu Nagar, Kanpur",26.409465,80.336075
+BD-0392,Salman Singh,Tiler,22.0,4.6,9661735406,"Nayaganj, Kanpur",26.435514,80.268722
+BD-0393,Manoj Verma,Structural Engineer,18.0,3.8,9559143920,"Indira Nagar, Kanpur",26.393222,80.302367
+BD-0394,Amit Pandey,Plumber,5.0,4.0,9579376129,"Shyam Nagar, Kanpur",26.410942,80.363886
+BD-0395,Manoj Pandey,Carpenter,3.0,4.3,9948148769,"Nayaganj, Kanpur",26.440708,80.408075
+BD-0396,Vijay Gupta,Structural Engineer,10.0,4.8,9172698563,"Vikas Nagar, Kanpur",26.471987,80.41489
+BD-0397,Vikas Srivastava,Tiler,3.0,4.6,9624878049,"Civil Lines, Kanpur",26.39698,80.381956
+BD-0398,Rohit Maurya,Carpenter,14.0,4.2,9789798012,"Swaroop Nagar, Kanpur",26.417542,80.396387
+BD-0399,Salman Pal,Carpenter,2.0,4.3,9819542738,"Barra 1, Kanpur",26.417865,80.275047
+BD-0400,Deepak Sharma,Carpenter,2.0,3.8,9739125754,"Fazal Ganj, Kanpur",26.485616,80.417982
+BD-0401,Manoj Verma,HVAC Technician,2.0,4.6,9532116333,"Kakadeo, Kanpur",26.482655,80.272128
+BD-0402,Ravi Verma,Handyman,1.0,4.2,9106727931,"Ganga Barrage, Kanpur",26.42248,80.279168
+BD-0403,Rahul Pandey,Construction Laborer,18.0,4.3,9116538276,"Darshan Purwa, Kanpur",26.451852,80.298839
+BD-0404,Sandeep Singh,Construction Laborer,10.0,4.2,9688240105,"Harsh Nagar, Kanpur",26.397539,80.317147
+BD-0405,Vijay Mishra,Glazier,13.0,4.5,9741112681,"Kidwai Nagar, Kanpur",26.418016,80.255539
+BD-0406,Deepak Singh,Electrician,16.0,4.8,9901752620,"Indira Nagar, Kanpur",26.392858,80.413516
+BD-0407,Rohit Pandey,General Contractor,2.0,3.7,9709068121,"Nawabganj, Kanpur",26.406416,80.30934
+BD-0408,Arjun Sharma,Landscaper,11.0,4.0,9404626880,"Barra 1, Kanpur",26.453874,80.409167
+BD-0409,Sandeep Pandey,Mason,9.0,4.9,9176547143,"Naubasta, Kanpur",26.456341,80.368885
+BD-0410,Prakash Mishra,Tiler,18.0,4.7,9341168865,"Barra 4, Kanpur",26.400087,80.39402
+BD-0411,Rahul Sharma,Roofer,6.0,3.9,9078402993,"Harjinder Nagar, Kanpur",26.424474,80.38368
+BD-0412,Deepak Sharma,Architect,2.0,4.2,9141917536,"Juhi, Kanpur",26.436183,80.319898
+BD-0413,Rohit Mishra,Plumber,17.0,4.3,9074980527,"Chunni Ganj, Kanpur",26.519452,80.300975
+BD-0414,Manoj Pandey,Architect,12.0,4.5,9325212505,"Jajmau, Kanpur",26.446613,80.291347
+BD-0415,Nikhil Sharma,Architect,19.0,4.6,9204015640,"Shastri Nagar, Kanpur",26.384836,80.258132
+BD-0416,Salman Pandey,Drywaller,19.0,4.2,9985047121,"Pandu Nagar, Kanpur",26.48077,80.350348
+BD-0417,Prakash Srivastava,Structural Engineer,19.0,4.9,9785106233,"Barra 5, Kanpur",26.427901,80.267704
+BD-0418,Sandeep Singh,Welder,3.0,3.6,9363025746,"Swaroop Nagar, Kanpur",26.510628,80.319174
+BD-0419,Ravi Maurya,Welder,10.0,3.7,9142695983,"Indira Nagar, Kanpur",26.518062,80.266193
+BD-0420,Rahul Tiwari,Painter,15.0,3.9,9951923980,"Indira Nagar, Kanpur",26.447644,80.319099
+BD-0421,Gaurav Yadav,Carpenter,5.0,3.8,9531648326,"Nayaganj, Kanpur",26.48454,80.365525
+BD-0422,Vikas Maurya,Painter,20.0,3.9,9695827365,"Barra 3, Kanpur",26.476347,80.266045
+BD-0423,Deepak Mishra,Carpenter,10.0,3.8,9745304232,"Yashoda Nagar, Kanpur",26.440112,80.273558
+BD-0424,Vijay Singh,Structural Engineer,4.0,4.7,9068240591,"Harjinder Nagar, Kanpur",26.463011,80.311202
+BD-0425,Salman Srivastava,General Contractor,5.0,3.9,9574436515,"Becon Ganj, Kanpur",26.468613,80.269375
+BD-0426,Gaurav Maurya,Welder,5.0,4.9,9189999097,"Azad Nagar, Kanpur",26.51988,80.360231
+BD-0427,Salman Srivastava,Welder,11.0,4.6,9836992982,"Tilak Nagar, Kanpur",26.40816,80.399884
+BD-0428,Gaurav Pal,Glazier,16.0,3.9,9441698241,"Civil Lines, Kanpur",26.391088,80.363908
+BD-0429,Sandeep Tiwari,Plumber,16.0,4.2,9195333485,"Vikas Nagar, Kanpur",26.457949,80.398224
+BD-0430,Sandeep Verma,Painter,3.0,4.3,9784588965,"General Ganj, Kanpur",26.445963,80.341537
+BD-0431,Prakash Maurya,Roofer,15.0,4.9,9888636304,"Arya Nagar, Kanpur",26.395184,80.411466
+BD-0432,Nikhil Mishra,HVAC Technician,9.0,4.7,9823798391,"Nawabganj, Kanpur",26.396473,80.298609
+BD-0433,Sandeep Maurya,Carpenter,6.0,3.9,9007319565,"Civil Lines, Kanpur",26.510892,80.283943
+BD-0434,Sandeep Gupta,Carpenter,7.0,4.1,9602127261,"Barra 5, Kanpur",26.460269,80.316698
+BD-0435,Prakash Pandey,Roofer,17.0,4.3,9747229744,"Swaroop Nagar, Kanpur",26.436608,80.375301
+BD-0436,Gaurav Sharma,Glazier,10.0,4.9,9896600722,"Chakeri, Kanpur",26.425643,80.335624
+BD-0437,Deepak Singh,Glazier,17.0,4.3,9127056532,"Jajmau, Kanpur",26.503826,80.258941
+BD-0438,Imran Mishra,Mason,4.0,4.7,9456879404,"Indira Nagar, Kanpur",26.417655,80.267411
+BD-0439,Salman Maurya,Electrician,14.0,5.0,9969629987,"Yashoda Nagar, Kanpur",26.40365,80.307622
+BD-0440,Imran Pal,Handyman,12.0,4.6,9810680465,"Ratan Lal Nagar, Kanpur",26.433782,80.368272
+BD-0441,Ravi Singh,Carpenter,4.0,4.4,9814542658,"Ratan Lal Nagar, Kanpur",26.50256,80.283529
+BD-0442,Amit Tripathi,Handyman,14.0,4.1,9681503426,"Jawahar Nagar, Kanpur",26.470741,80.292163
+BD-0443,Gaurav Pandey,Welder,16.0,4.1,9315120525,"Barra 2, Kanpur",26.473433,80.264808
+BD-0444,Ravi Khan,Flooring Installer,19.0,4.5,9053209125,"Indira Nagar, Kanpur",26.51872,80.306813
+BD-0445,Salman Srivastava,Electrician,2.0,3.6,9075329926,"Ashok Nagar, Kanpur",26.382,80.273151
+BD-0446,Sandeep Yadav,Tiler,22.0,4.3,9437355562,"Harsh Nagar, Kanpur",26.517507,80.27547
+BD-0447,Deepak Srivastava,Flooring Installer,3.0,4.1,9153107951,"Barra 4, Kanpur",26.461099,80.341154
+BD-0448,Naresh Mishra,Tiler,19.0,4.6,9095263649,"Armapur Estate, Kanpur",26.415499,80.313272
+BD-0449,Ajay Sharma,Welder,12.0,4.4,9431019800,"Barra 7, Kanpur",26.460767,80.327638
+BD-0450,Amit Pal,Drywaller,4.0,4.2,9550407638,"Barra 7, Kanpur",26.427008,80.274033
+BD-0451,Gaurav Verma,Handyman,10.0,4.5,9268805190,"Eldeco Colony, Kanpur",26.428033,80.318215
+BD-0452,Ankit Singh,Architect,3.0,4.9,9730274404,"Ganga Barrage, Kanpur",26.494754,80.354443
+BD-0453,Salman Maurya,Construction Laborer,12.0,4.8,9486824356,"Lajpat Nagar, Kanpur",26.513176,80.295847
+BD-0454,Gaurav Yadav,Painter,3.0,4.1,9769824751,"Kalpi Road, Kanpur",26.466661,80.416019
+BD-0455,Imran Srivastava,Carpenter,18.0,4.7,9800556935,"Jajmau, Kanpur",26.440747,80.39036
+BD-0456,Sandeep Tiwari,Flooring Installer,14.0,4.8,9889199905,"Saket Nagar, Kanpur",26.478142,80.366974
+BD-0457,Sandeep Pandey,Welder,16.0,3.8,9015196839,"Jajmau, Kanpur",26.38119,80.257445
+BD-0458,Nikhil Srivastava,Civil Engineer,2.0,3.8,9881542247,"Lajpat Nagar, Kanpur",26.381562,80.286794
+BD-0459,Arjun Pandey,General Contractor,3.0,4.2,9508166160,"Lajpat Nagar, Kanpur",26.421633,80.413681
+BD-0460,Prakash Mishra,Civil Engineer,10.0,4.7,9575269802,"Kalyanpur, Kanpur",26.443397,80.341958
+BD-0461,Rahul Yadav,Plumber,21.0,3.8,9600998938,"Dada Nagar, Kanpur",26.500371,80.304306
+BD-0462,Imran Tiwari,Painter,5.0,3.7,9149356499,"Shastri Nagar, Kanpur",26.457084,80.369686
+BD-0463,Vikas Mishra,Handyman,8.0,4.0,9743739416,"Barra 6, Kanpur",26.425542,80.282859
+BD-0464,Amit Singh,Handyman,11.0,4.6,9871571172,"Naubasta, Kanpur",26.420541,80.333792
+BD-0465,Salman Srivastava,Welder,7.0,4.1,9425826233,"Eldeco Colony, Kanpur",26.512467,80.40382
+BD-0466,Arjun Srivastava,Roofer,11.0,4.1,9726276306,"Azad Nagar, Kanpur",26.415092,80.326823
+BD-0467,Imran Maurya,Flooring Installer,13.0,4.1,9307191510,"Kalpi Road, Kanpur",26.387174,80.313894
+BD-0468,Imran Srivastava,Mason,11.0,3.8,9042270549,"Lajpat Nagar, Kanpur",26.511516,80.310942
+BD-0469,Vikas Sharma,Roofer,1.0,4.9,9618610521,"Vishnupuri, Kanpur",26.512548,80.25859
+BD-0470,Naresh Yadav,Flooring Installer,14.0,3.9,9834266939,"Ganga Barrage, Kanpur",26.449893,80.392874
+BD-0471,Rahul Mishra,Architect,11.0,4.0,9182197872,"Indira Nagar, Kanpur",26.495863,80.419478
+BD-0472,Salman Mishra,Handyman,11.0,4.5,9688384591,"General Ganj, Kanpur",26.462448,80.403229
+BD-0473,Ravi Tiwari,Structural Engineer,20.0,4.7,9718753748,"Indira Nagar, Kanpur",26.505788,80.374823
+BD-0474,Imran Singh,Civil Engineer,10.0,4.6,9516149907,"Govind Nagar, Kanpur",26.480595,80.289733
+BD-0475,Ajay Singh,Painter,16.0,3.7,9044790768,"Yashoda Nagar, Kanpur",26.437423,80.296829
+BD-0476,Rahul Pal,Architect,15.0,3.8,9225482750,"Arya Nagar, Kanpur",26.470481,80.332811
+BD-0477,Rohit Pandey,Landscaper,9.0,4.8,9521980780,"Barra 7, Kanpur",26.437174,80.305081
+BD-0478,Rahul Gupta,Flooring Installer,17.0,4.3,9412756774,"Barra 8, Kanpur",26.457224,80.266953
+BD-0479,Naresh Khan,Flooring Installer,3.0,4.0,9030364209,"Ganga Barrage, Kanpur",26.398578,80.352684
+BD-0480,Vijay Srivastava,Construction Laborer,3.0,4.7,9121406553,"G.T. Road, Kanpur",26.490843,80.294049
+BD-0481,Rohit Sharma,Welder,13.0,4.9,9079958147,"Becon Ganj, Kanpur",26.424759,80.405087
+BD-0482,Gaurav Sharma,Flooring Installer,14.0,3.7,9386153825,"Barra 1, Kanpur",26.456017,80.389873
+BD-0483,Arjun Sharma,Carpenter,1.0,4.0,9038080753,"Naubasta, Kanpur",26.400756,80.36699
+BD-0484,Rohit Mishra,Electrician,16.0,3.9,9163642035,"Dada Nagar, Kanpur",26.430155,80.251424
+BD-0485,Arjun Pal,Welder,22.0,3.9,9613770904,"Indira Nagar, Kanpur",26.426129,80.27053
+BD-0486,Ajay Singh,Civil Engineer,15.0,4.0,9414277547,"Panki, Kanpur",26.40202,80.2691
+BD-0487,Naresh Khan,Civil Engineer,16.0,4.6,9467922446,"Mandhana, Kanpur",26.380115,80.2994
+BD-0488,Rahul Singh,HVAC Technician,18.0,4.0,9822246683,"Barra 5, Kanpur",26.49509,80.362715
+BD-0489,Amit Sharma,Handyman,6.0,4.0,9656184239,"Barra 1, Kanpur",26.421398,80.365892
+BD-0490,Deepak Maurya,Architect,16.0,4.2,9061815031,"Vishnupuri, Kanpur",26.447984,80.37739
+BD-0491,Deepak Tripathi,Handyman,20.0,4.1,9222468363,"Harjinder Nagar, Kanpur",26.385618,80.363544
+BD-0492,Ajay Srivastava,Roofer,13.0,4.2,9428340682,"Barra 2, Kanpur",26.512359,80.257011
+BD-0493,Gaurav Pandey,Painter,20.0,4.9,9469491565,"Fazal Ganj, Kanpur",26.444084,80.353664
+BD-0494,Ankit Sharma,Electrician,6.0,4.6,9762939156,"Barra 8, Kanpur",26.417063,80.254596
+BD-0495,Imran Gupta,General Contractor,16.0,3.8,9140558296,"Indira Nagar, Kanpur",26.410967,80.38167
+BD-0496,Ankit Mishra,Flooring Installer,6.0,3.6,9678922951,"Vishnupuri, Kanpur",26.480155,80.382627
+BD-0497,Amit Tiwari,Structural Engineer,12.0,3.9,9443391449,"Vishnupuri, Kanpur",26.414403,80.301695
+BD-0498,Salman Sharma,Painter,10.0,4.8,9830921968,"Jajmau, Kanpur",26.434142,80.278443
+BD-0499,Arjun Khan,Carpenter,18.0,4.4,9445385272,"Kidwai Nagar, Kanpur",26.462385,80.388849
+BD-0500,Naresh Gupta,HVAC Technician,2.0,3.7,9510635656,"Barra 2, Kanpur",26.435812,80.264018
+BD-0501,Arjun Gupta,Glazier,19.0,3.8,9052917195,"Sarvodaya Nagar, Kanpur",26.399103,80.263875
+BD-0502,Amit Singh,HVAC Technician,8.0,3.9,9677451783,"Moti Jheel, Kanpur",26.468596,80.372204
+BD-0503,Vijay Pandey,Architect,8.0,4.6,9459617450,"Harsh Nagar, Kanpur",26.471229,80.377989
+BD-0504,Arjun Gupta,Glazier,9.0,5.0,9180891243,"Arya Nagar, Kanpur",26.493935,80.354534
+BD-0505,Gaurav Gupta,Handyman,14.0,4.3,9026271194,"Moti Jheel, Kanpur",26.418612,80.359641
+BD-0506,Sandeep Gupta,Handyman,12.0,4.1,9889686960,"Barra 5, Kanpur",26.391247,80.272538
+BD-0507,Ankit Srivastava,HVAC Technician,6.0,4.2,9324475679,"Becon Ganj, Kanpur",26.484177,80.334842
+BD-0508,Rohit Singh,Carpenter,4.0,4.9,9041362872,"Ratan Lal Nagar, Kanpur",26.392563,80.392971
+BD-0509,Rahul Khan,Mason,17.0,4.5,9807052392,"Ratan Lal Nagar, Kanpur",26.506475,80.303463
+BD-0510,Amit Mishra,Civil Engineer,14.0,4.8,9087754720,"Swaroop Nagar, Kanpur",26.481256,80.294578
+BD-0511,Ajay Pandey,Drywaller,7.0,4.1,9282728510,"Tilak Nagar, Kanpur",26.463123,80.405876
+BD-0512,Deepak Srivastava,HVAC Technician,5.0,4.7,9637244921,"Indira Nagar, Kanpur",26.408031,80.374713
+BD-0513,Imran Maurya,Drywaller,21.0,4.0,9933679983,"Dada Nagar, Kanpur",26.392794,80.374158
+BD-0514,Salman Srivastava,Tiler,19.0,3.8,9565461141,"Arya Nagar, Kanpur",26.460289,80.33532
+BD-0515,Ajay Tiwari,Roofer,3.0,4.9,9332463497,"Barra 6, Kanpur",26.463357,80.409371
+BD-0516,Arjun Verma,Tiler,19.0,4.7,9031975104,"Panki, Kanpur",26.451572,80.335739
+BD-0517,Nikhil Yadav,Structural Engineer,17.0,4.0,9564287815,"Lajpat Nagar, Kanpur",26.458079,80.262663
+BD-0518,Ankit Mishra,Drywaller,22.0,4.7,9371023187,"G.T. Road, Kanpur",26.503998,80.304788
+BD-0519,Ravi Khan,Construction Laborer,2.0,4.3,9817270220,"Ratan Lal Nagar, Kanpur",26.385453,80.320982
+BD-0520,Manoj Verma,Plumber,4.0,4.7,9750583481,"Tilak Nagar, Kanpur",26.498512,80.302006
+BD-0521,Prakash Tripathi,Plumber,22.0,4.2,9918725198,"Barra 8, Kanpur",26.466035,80.302761
+BD-0522,Amit Srivastava,Mason,21.0,4.0,9584255697,"Barra 6, Kanpur",26.506781,80.399219
+BD-0523,Amit Yadav,Plumber,13.0,4.8,9159098185,"Mandhana, Kanpur",26.483836,80.299464
+BD-0524,Ravi Srivastava,Handyman,14.0,4.7,9502838103,"Darshan Purwa, Kanpur",26.454224,80.296064
+BD-0525,Naresh Srivastava,HVAC Technician,2.0,3.8,9372716464,"Swaroop Nagar, Kanpur",26.383932,80.252986
+BD-0526,Rohit Sharma,Electrician,3.0,4.8,9274885835,"Mall Road, Kanpur",26.46912,80.409171
+BD-0527,Sandeep Pandey,Tiler,9.0,4.6,9490385151,"Jajmau, Kanpur",26.401195,80.397269
+BD-0528,Prakash Tiwari,Flooring Installer,2.0,4.0,9465723915,"Tilak Nagar, Kanpur",26.400415,80.374231
+BD-0529,Naresh Sharma,Drywaller,19.0,4.0,9131310704,"Chunni Ganj, Kanpur",26.46314,80.353278
+BD-0530,Ravi Pal,Carpenter,18.0,3.7,9782014724,"Swaroop Nagar, Kanpur",26.446465,80.413495
+BD-0531,Nikhil Sharma,Mason,13.0,4.4,9843417881,"Barra 3, Kanpur",26.506445,80.362618
+BD-0532,Ajay Pal,Structural Engineer,11.0,4.9,9352429437,"Govind Nagar, Kanpur",26.447056,80.291402
+BD-0533,Ankit Verma,Roofer,3.0,4.2,9255332158,"Harsh Nagar, Kanpur",26.506833,80.305821
+BD-0534,Nikhil Khan,General Contractor,16.0,4.3,9413638941,"Nayaganj, Kanpur",26.421157,80.338395
+BD-0535,Amit Tripathi,Flooring Installer,7.0,4.0,9805053235,"Naubasta, Kanpur",26.389417,80.415254
+BD-0536,Rahul Yadav,Flooring Installer,1.0,4.1,9899959046,"Barra 1, Kanpur",26.44025,80.337383
+BD-0537,Vikas Maurya,Flooring Installer,21.0,3.8,9294005184,"Tilak Nagar, Kanpur",26.473452,80.339523
+BD-0538,Arjun Verma,HVAC Technician,15.0,5.0,9420019690,"General Ganj, Kanpur",26.470514,80.388084
+BD-0539,Rohit Mishra,Tiler,19.0,4.1,9501306385,"Lajpat Nagar, Kanpur",26.475994,80.250077
+BD-0540,Ankit Mishra,Roofer,10.0,5.0,9216074636,"Birhana Road, Kanpur",26.383527,80.389939
+BD-0541,Deepak Tiwari,Civil Engineer,15.0,5.0,9642080046,"Bhauti, Kanpur",26.482824,80.395233
+BD-0542,Naresh Tiwari,Construction Laborer,9.0,4.6,9957269936,"Ashok Nagar, Kanpur",26.411851,80.311174
+BD-0543,Manoj Mishra,Structural Engineer,13.0,4.9,9227476142,"Jajmau, Kanpur",26.401271,80.274528
+BD-0544,Vijay Yadav,Painter,6.0,3.8,9505704336,"Barra 5, Kanpur",26.402255,80.280067
+BD-0545,Vijay Mishra,Drywaller,7.0,4.5,9124527388,"Mall Road, Kanpur",26.501068,80.322877
+BD-0546,Arjun Maurya,Structural Engineer,21.0,4.1,9746274902,"Yashoda Nagar, Kanpur",26.397876,80.364593
+BD-0547,Imran Yadav,Painter,5.0,4.7,9075127168,"Tilak Nagar, Kanpur",26.382409,80.296034
+BD-0548,Vijay Gupta,Carpenter,14.0,4.8,9183370775,"Barra 5, Kanpur",26.448081,80.302743
+BD-0549,Deepak Singh,Drywaller,5.0,4.6,9508603345,"Mandhana, Kanpur",26.486605,80.291185
+BD-0550,Amit Yadav,Glazier,22.0,4.3,9844082568,"Civil Lines, Kanpur",26.386458,80.35069
+BD-0551,Ajay Tiwari,HVAC Technician,4.0,3.7,9604089726,"Azad Nagar, Kanpur",26.493239,80.415703
+BD-0552,Imran Pandey,Tiler,6.0,3.8,9966169106,"Sarvodaya Nagar, Kanpur",26.433791,80.284067
+BD-0553,Imran Gupta,Drywaller,18.0,4.4,9863675596,"Pandu Nagar, Kanpur",26.403787,80.307347
+BD-0554,Rohit Pal,Mason,4.0,4.6,9104107052,"Swaroop Nagar, Kanpur",26.449851,80.377493
+BD-0555,Salman Mishra,Landscaper,16.0,4.0,9589046449,"Barra 6, Kanpur",26.458406,80.300444
+BD-0556,Arjun Verma,Civil Engineer,10.0,4.0,9509663732,"Armapur Estate, Kanpur",26.433125,80.320477
+BD-0557,Vikas Pandey,Mason,9.0,4.8,9993377313,"Lajpat Nagar, Kanpur",26.382899,80.2597
+BD-0558,Salman Sharma,Mason,22.0,4.0,9647650645,"Barra 7, Kanpur",26.465997,80.411461
+BD-0559,Arjun Tripathi,General Contractor,22.0,4.2,9069046257,"Harsh Nagar, Kanpur",26.476216,80.3774
+BD-0560,Gaurav Khan,Mason,17.0,4.0,9045513527,"Kalpi Road, Kanpur",26.388687,80.297738
+BD-0561,Manoj Sharma,Painter,19.0,4.0,9127234799,"Dada Nagar, Kanpur",26.479455,80.251718
+BD-0562,Nikhil Srivastava,Architect,18.0,3.8,9297297818,"Barra 7, Kanpur",26.515088,80.340187
+BD-0563,Rohit Mishra,Mason,22.0,4.7,9489771580,"Harsh Nagar, Kanpur",26.459185,80.376955
+BD-0564,Vijay Sharma,Electrician,22.0,4.7,9093579385,"Bhauti, Kanpur",26.487337,80.381976
+BD-0565,Naresh Singh,Architect,12.0,4.3,9283151097,"Bhauti, Kanpur",26.420948,80.371845
+BD-0566,Vijay Pandey,Drywaller,11.0,4.4,9423181513,"G.T. Road, Kanpur",26.417539,80.357518
+BD-0567,Rahul Singh,General Contractor,9.0,3.6,9717038810,"Nawabganj, Kanpur",26.413913,80.281493
+BD-0568,Prakash Srivastava,Carpenter,8.0,4.6,9450561400,"Barra 1, Kanpur",26.394935,80.415813
+BD-0569,Rahul Pal,Structural Engineer,11.0,4.1,9888696673,"Bithoor, Kanpur",26.415488,80.298633
+BD-0570,Prakash Khan,Landscaper,2.0,4.1,9650494205,"Mandhana, Kanpur",26.397783,80.268567
+BD-0571,Manoj Sharma,Tiler,3.0,3.8,9959848601,"Azad Nagar, Kanpur",26.458299,80.407931
+BD-0572,Naresh Khan,Structural Engineer,9.0,4.6,9932465058,"Kidwai Nagar, Kanpur",26.454982,80.280425
+BD-0573,Rohit Tripathi,Plumber,14.0,4.2,9095132962,"Lajpat Nagar, Kanpur",26.421804,80.395944
+BD-0574,Arjun Singh,HVAC Technician,22.0,3.6,9313543874,"Nayaganj, Kanpur",26.506195,80.389233
+BD-0575,Manoj Yadav,Welder,5.0,4.5,9130793639,"Bhauti, Kanpur",26.416904,80.360362
+BD-0576,Salman Tripathi,General Contractor,4.0,4.0,9281092189,"Shyam Nagar, Kanpur",26.503797,80.392148
+BD-0577,Rohit Tiwari,General Contractor,7.0,4.7,9535963852,"Pandu Nagar, Kanpur",26.444497,80.261234
+BD-0578,Ravi Yadav,Landscaper,9.0,4.6,9388799285,"Barra 6, Kanpur",26.460852,80.296734
+BD-0579,Rahul Pal,Construction Laborer,12.0,4.2,9228996746,"Lajpat Nagar, Kanpur",26.48933,80.354009
+BD-0580,Manoj Maurya,HVAC Technician,18.0,4.3,9992557114,"Armapur Estate, Kanpur",26.404673,80.298217
+BD-0581,Amit Pal,Flooring Installer,20.0,4.5,9384005683,"Bhauti, Kanpur",26.50436,80.267165
+BD-0582,Sandeep Verma,Handyman,11.0,3.8,9093500826,"Barra 8, Kanpur",26.382786,80.353755
+BD-0583,Ankit Tripathi,Roofer,1.0,4.8,9072654102,"Eldeco Colony, Kanpur",26.474542,80.397613
+BD-0584,Ravi Srivastava,Construction Laborer,22.0,4.3,9302888116,"Govind Nagar, Kanpur",26.408377,80.40949
+BD-0585,Vikas Pandey,Handyman,21.0,4.2,9647713095,"Chunni Ganj, Kanpur",26.467379,80.270719
+BD-0586,Salman Yadav,Mason,6.0,4.6,9378498110,"Nayaganj, Kanpur",26.466678,80.316843
+BD-0587,Ravi Srivastava,Roofer,6.0,3.9,9289431279,"Mandhana, Kanpur",26.40471,80.332303
+BD-0588,Ankit Tiwari,Painter,4.0,4.4,9803313914,"Jajmau, Kanpur",26.467998,80.336852
+BD-0589,Arjun Khan,Carpenter,13.0,4.3,9451750825,"Harsh Nagar, Kanpur",26.464315,80.284314
+BD-0590,Imran Verma,Structural Engineer,6.0,4.5,9015120901,"Barra 1, Kanpur",26.41779,80.379284
+BD-0591,Naresh Khan,Tiler,22.0,4.4,9963407064,"Moti Jheel, Kanpur",26.402385,80.384238
+BD-0592,Amit Khan,Handyman,15.0,4.6,9115299350,"Jawahar Nagar, Kanpur",26.500645,80.338182
+BD-0593,Ravi Yadav,Landscaper,22.0,3.9,9934001144,"Kalpi Road, Kanpur",26.468253,80.342216
+BD-0594,Amit Sharma,HVAC Technician,22.0,4.7,9476205932,"Bithoor, Kanpur",26.49661,80.329929
+BD-0595,Sandeep Yadav,Handyman,16.0,4.5,9958345865,"Govind Nagar, Kanpur",26.482396,80.323676
+BD-0596,Manoj Srivastava,Electrician,7.0,4.3,9439476469,"Barra 1, Kanpur",26.450934,80.412434
+BD-0597,Amit Srivastava,Landscaper,4.0,4.0,9520374017,"Armapur Estate, Kanpur",26.497666,80.334118
+BD-0598,Ravi Sharma,Roofer,4.0,4.6,9387659771,"Barra 8, Kanpur",26.496241,80.254296
+BD-0599,Sandeep Yadav,Painter,7.0,4.7,9384805957,"Jawahar Nagar, Kanpur",26.465088,80.366233
+BD-0600,Ajay Verma,Electrician,17.0,5.0,9673082681,"Kidwai Nagar, Kanpur",26.401942,80.416384
+BD-0601,Gaurav Mishra,Carpenter,21.0,4.4,9577785902,"Vishnupuri, Kanpur",26.44286,80.389216
+BD-0602,Ankit Singh,Painter,21.0,4.4,9730937155,"Vikas Nagar, Kanpur",26.463755,80.337449
+BD-0603,Nikhil Tiwari,Handyman,10.0,4.8,9388381475,"Armapur Estate, Kanpur",26.390625,80.31848
+BD-0604,Vikas Sharma,Plumber,12.0,4.7,9476052263,"Panki, Kanpur",26.454368,80.372108
+BD-0605,Rohit Mishra,Construction Laborer,13.0,4.0,9823586950,"Ashok Nagar, Kanpur",26.47937,80.270098
+BD-0606,Nikhil Sharma,Plumber,9.0,4.2,9252258639,"Mall Road, Kanpur",26.448616,80.406818
+BD-0607,Manoj Gupta,Structural Engineer,19.0,4.4,9777718273,"Armapur Estate, Kanpur",26.462418,80.268198
+BD-0608,Ajay Pal,Roofer,20.0,4.2,9812133206,"Nawabganj, Kanpur",26.496538,80.266277
+BD-0609,Salman Tiwari,Architect,3.0,4.5,9875443856,"Arya Nagar, Kanpur",26.495732,80.375143
+BD-0610,Rahul Pal,Painter,11.0,4.5,9182136307,"Barra 1, Kanpur",26.473547,80.327072
+BD-0611,Imran Pandey,Drywaller,8.0,4.0,9817637247,"Panki, Kanpur",26.447616,80.402574
+BD-0612,Rahul Yadav,Civil Engineer,5.0,4.4,9636949485,"Arya Nagar, Kanpur",26.429845,80.250745
+BD-0613,Rahul Gupta,Flooring Installer,5.0,4.2,9511802047,"Barra 5, Kanpur",26.494955,80.39844
+BD-0614,Gaurav Maurya,Construction Laborer,21.0,4.7,9847340830,"Darshan Purwa, Kanpur",26.412786,80.269554
+BD-0615,Deepak Singh,Drywaller,7.0,4.7,9670373197,"Barra 6, Kanpur",26.43248,80.337312
+BD-0616,Arjun Yadav,Plumber,17.0,3.7,9690623322,"Azad Nagar, Kanpur",26.448371,80.2502
+BD-0617,Prakash Mishra,Construction Laborer,7.0,3.9,9657656454,"Barra 6, Kanpur",26.512655,80.30239
+BD-0618,Vikas Verma,Plumber,9.0,4.8,9718188816,"Saket Nagar, Kanpur",26.460274,80.416196
+BD-0619,Ankit Gupta,Plumber,7.0,4.3,9241684781,"Kalyanpur, Kanpur",26.392281,80.263466
+BD-0620,Manoj Mishra,Civil Engineer,16.0,4.1,9162684243,"Ratan Lal Nagar, Kanpur",26.383992,80.374993
+BD-0621,Imran Sharma,Civil Engineer,1.0,4.7,9397940768,"Sarvodaya Nagar, Kanpur",26.426794,80.383982
+BD-0622,Deepak Mishra,Landscaper,2.0,4.3,9404763513,"Azad Nagar, Kanpur",26.466481,80.316466
+BD-0623,Sandeep Singh,General Contractor,15.0,4.7,9964239153,"Pandu Nagar, Kanpur",26.408184,80.282069
+BD-0624,Sandeep Mishra,Landscaper,17.0,4.6,9557795394,"Saket Nagar, Kanpur",26.511172,80.342759
+BD-0625,Gaurav Mishra,Construction Laborer,20.0,4.3,9926455166,"Barra 4, Kanpur",26.499473,80.408938
+BD-0626,Nikhil Sharma,General Contractor,14.0,4.8,9648769245,"Tilak Nagar, Kanpur",26.425149,80.367602
+BD-0627,Rahul Maurya,Plumber,11.0,4.0,9628559052,"Birhana Road, Kanpur",26.438811,80.388798
+BD-0628,Ajay Srivastava,Flooring Installer,5.0,3.9,9030397101,"Barra 8, Kanpur",26.430418,80.300185
+BD-0629,Deepak Tripathi,Civil Engineer,11.0,4.3,9845557045,"Naubasta, Kanpur",26.456202,80.386717
+BD-0630,Manoj Pal,Plumber,1.0,4.1,9192628355,"Bithoor, Kanpur",26.485646,80.305187
+BD-0631,Amit Khan,General Contractor,17.0,4.0,9454808044,"Civil Lines, Kanpur",26.466052,80.391177
+BD-0632,Sandeep Srivastava,Painter,3.0,3.7,9539864029,"Vikas Nagar, Kanpur",26.38591,80.259934
+BD-0633,Sandeep Tiwari,Mason,12.0,4.8,9636876832,"Eldeco Colony, Kanpur",26.437119,80.32933
+BD-0634,Prakash Pandey,Architect,9.0,4.9,9990185814,"Becon Ganj, Kanpur",26.390653,80.344082
+BD-0635,Ravi Verma,Handyman,14.0,4.3,9914600079,"Barra 2, Kanpur",26.410712,80.260622
+BD-0636,Prakash Gupta,Roofer,18.0,4.7,9206563436,"Lajpat Nagar, Kanpur",26.445578,80.391021
+BD-0637,Rahul Gupta,Tiler,17.0,4.3,9265143789,"Lajpat Nagar, Kanpur",26.447327,80.264974
+BD-0638,Imran Sharma,Flooring Installer,17.0,4.5,9804881812,"Barra 3, Kanpur",26.519148,80.31772
+BD-0639,Deepak Yadav,Carpenter,7.0,3.9,9772853157,"Barra 2, Kanpur",26.515134,80.268943
+BD-0640,Prakash Pal,Mason,17.0,3.7,9403245204,"Moti Jheel, Kanpur",26.518981,80.37921
+BD-0641,Salman Yadav,Landscaper,14.0,4.3,9921389963,"Civil Lines, Kanpur",26.476597,80.267978
+BD-0642,Manoj Tripathi,Tiler,19.0,3.7,9136131075,"Kalyanpur, Kanpur",26.440184,80.286417
+BD-0643,Prakash Singh,Civil Engineer,12.0,4.3,9340983058,"Jawahar Nagar, Kanpur",26.518504,80.384841
+BD-0644,Rahul Sharma,Architect,9.0,4.1,9411932476,"Barra 6, Kanpur",26.431882,80.382143
+BD-0645,Vijay Srivastava,Mason,4.0,4.7,9734027470,"Barra 5, Kanpur",26.380542,80.295407
+BD-0646,Ravi Maurya,Handyman,10.0,4.8,9625611405,"Mall Road, Kanpur",26.439139,80.314171
+BD-0647,Nikhil Tripathi,Mason,14.0,4.9,9355866769,"Armapur Estate, Kanpur",26.49712,80.389842
+BD-0648,Naresh Mishra,Landscaper,10.0,4.5,9767585033,"Mandhana, Kanpur",26.500295,80.293112
+BD-0649,Vikas Pal,Handyman,9.0,3.9,9260757033,"Barra 1, Kanpur",26.409622,80.384878
+BD-0650,Salman Pal,Flooring Installer,20.0,4.7,9194869418,"Ashok Nagar, Kanpur",26.505579,80.417258
+BD-0651,Rohit Gupta,Civil Engineer,4.0,4.3,9268795282,"Barra 8, Kanpur",26.515169,80.261904
+BD-0652,Vijay Sharma,Civil Engineer,16.0,4.6,9003922370,"Fazal Ganj, Kanpur",26.431435,80.394028
+BD-0653,Ajay Gupta,Mason,16.0,4.5,9668883367,"Bhauti, Kanpur",26.489993,80.359639
+BD-0654,Rahul Srivastava,Glazier,3.0,4.2,9907820379,"Barra 2, Kanpur",26.468027,80.366279
+BD-0655,Ravi Tiwari,Construction Laborer,17.0,4.1,9193410083,"Harjinder Nagar, Kanpur",26.384828,80.265121
+BD-0656,Ravi Yadav,Painter,1.0,4.5,9230543817,"Govind Nagar, Kanpur",26.389032,80.351283
+BD-0657,Arjun Tripathi,Roofer,7.0,4.5,9784184349,"Tilak Nagar, Kanpur",26.459197,80.386903
+BD-0658,Naresh Srivastava,Carpenter,21.0,4.0,9172777818,"Bhauti, Kanpur",26.484502,80.278798
+BD-0659,Rahul Tripathi,HVAC Technician,22.0,4.7,9154673690,"Barra 6, Kanpur",26.508049,80.283239
+BD-0660,Rahul Maurya,Structural Engineer,11.0,4.0,9853580787,"Tilak Nagar, Kanpur",26.38543,80.357019
+BD-0661,Sandeep Srivastava,Architect,17.0,4.4,9316583450,"Naubasta, Kanpur",26.475821,80.318818
+BD-0662,Vikas Singh,Mason,13.0,3.6,9932811088,"Sarvodaya Nagar, Kanpur",26.446002,80.397379
+BD-0663,Sandeep Singh,Landscaper,8.0,4.3,9304911794,"Ratan Lal Nagar, Kanpur",26.465768,80.33772
+BD-0664,Naresh Mishra,Welder,16.0,4.2,9916291058,"Nayaganj, Kanpur",26.470321,80.360923
+BD-0665,Ravi Khan,Painter,5.0,3.9,9404829124,"Ashok Nagar, Kanpur",26.418645,80.2807
+BD-0666,Arjun Gupta,Carpenter,7.0,4.6,9222045016,"Bhauti, Kanpur",26.428498,80.252773
+BD-0667,Ajay Maurya,Handyman,19.0,4.0,9690371112,"Bhauti, Kanpur",26.489723,80.279041
+BD-0668,Naresh Khan,Structural Engineer,18.0,4.1,9727003367,"Shastri Nagar, Kanpur",26.383873,80.323578
+BD-0669,Manoj Pal,Tiler,14.0,3.8,9576757510,"Moti Jheel, Kanpur",26.43286,80.36951
+BD-0670,Ravi Tripathi,Landscaper,3.0,3.9,9948720375,"Tilak Nagar, Kanpur",26.466542,80.396464
+BD-0671,Imran Tripathi,Roofer,9.0,4.2,9907193513,"Vikas Nagar, Kanpur",26.406268,80.377615
+BD-0672,Salman Gupta,Structural Engineer,9.0,3.9,9471731300,"Barra 4, Kanpur",26.46908,80.328292
+BD-0673,Gaurav Yadav,Civil Engineer,15.0,3.7,9258960191,"Dada Nagar, Kanpur",26.48115,80.324412
+BD-0674,Rahul Gupta,Flooring Installer,2.0,4.2,9563086757,"Kalpi Road, Kanpur",26.516443,80.275769
+BD-0675,Ravi Mishra,Civil Engineer,16.0,4.9,9063941892,"Becon Ganj, Kanpur",26.466809,80.412905
+BD-0676,Ravi Maurya,Tiler,3.0,4.2,9335448018,"Barra 2, Kanpur",26.435165,80.295249
+BD-0677,Sandeep Khan,Painter,10.0,4.0,9452112029,"Lajpat Nagar, Kanpur",26.399727,80.324813
+BD-0678,Amit Verma,HVAC Technician,22.0,4.2,9227138194,"Ratan Lal Nagar, Kanpur",26.438791,80.27955
+BD-0679,Deepak Maurya,Roofer,5.0,4.4,9965046668,"Tilak Nagar, Kanpur",26.398782,80.361906
+BD-0680,Rohit Pandey,Architect,20.0,4.5,9515806554,"Chunni Ganj, Kanpur",26.424138,80.340364
+BD-0681,Ravi Singh,Drywaller,21.0,4.6,9192233505,"Juhi, Kanpur",26.396816,80.336399
+BD-0682,Arjun Yadav,Glazier,18.0,5.0,9268690439,"Shastri Nagar, Kanpur",26.463845,80.28305
+BD-0683,Ankit Verma,Glazier,22.0,4.5,9999921727,"Indira Nagar, Kanpur",26.470371,80.413687
+BD-0684,Manoj Khan,Architect,1.0,3.9,9881756394,"Barra 3, Kanpur",26.394146,80.391297
+BD-0685,Gaurav Srivastava,Construction Laborer,12.0,4.9,9788389369,"Barra 5, Kanpur",26.399713,80.376065
+BD-0686,Imran Tiwari,Architect,4.0,4.8,9875027284,"Ashok Nagar, Kanpur",26.385866,80.292559
+BD-0687,Sandeep Maurya,Tiler,8.0,3.7,9303757936,"Fazal Ganj, Kanpur",26.40073,80.391353
+BD-0688,Prakash Tiwari,Painter,16.0,4.8,9118588708,"Barra 7, Kanpur",26.472264,80.298244
+BD-0689,Sandeep Mishra,Structural Engineer,7.0,3.7,9625644615,"Barra 8, Kanpur",26.47353,80.361133
+BD-0690,Gaurav Gupta,Construction Laborer,8.0,4.0,9512372773,"Govind Nagar, Kanpur",26.429705,80.366365
+BD-0691,Gaurav Pal,Plumber,18.0,3.6,9406993302,"Barra 7, Kanpur",26.400998,80.376049
+BD-0692,Nikhil Gupta,Tiler,20.0,4.8,9956592224,"Bithoor, Kanpur",26.42685,80.286736
+BD-0693,Gaurav Srivastava,Electrician,11.0,4.8,9014498437,"Harsh Nagar, Kanpur",26.496165,80.358786
+BD-0694,Vijay Sharma,Handyman,6.0,4.0,9121470658,"Eldeco Colony, Kanpur",26.468478,80.398381
+BD-0695,Ankit Gupta,Landscaper,19.0,3.8,9487898282,"Mall Road, Kanpur",26.390319,80.25482
+BD-0696,Manoj Pandey,Painter,8.0,4.8,9021030050,"Moti Jheel, Kanpur",26.505348,80.414261
+BD-0697,Deepak Maurya,Landscaper,14.0,4.2,9414983005,"Lajpat Nagar, Kanpur",26.384089,80.346509
+BD-0698,Deepak Tiwari,Architect,10.0,4.2,9774643343,"Chakeri, Kanpur",26.480509,80.251658
+BD-0699,Arjun Mishra,Plumber,16.0,4.4,9931407628,"Barra 5, Kanpur",26.433948,80.336374
+BD-0700,Prakash Singh,Architect,16.0,3.8,9105544325,"Shyam Nagar, Kanpur",26.410912,80.302914
+BD-0701,Prakash Tripathi,Roofer,6.0,4.5,9981604541,"Panki, Kanpur",26.388273,80.276027
+BD-0702,Manoj Singh,Landscaper,7.0,3.9,9516237509,"Eldeco Colony, Kanpur",26.49494,80.344477
+BD-0703,Rahul Singh,Flooring Installer,19.0,4.0,9901367975,"Moti Jheel, Kanpur",26.486029,80.367794
+BD-0704,Rahul Singh,Structural Engineer,8.0,4.0,9939109408,"Panki, Kanpur",26.454916,80.272156
+BD-0705,Ajay Khan,Drywaller,9.0,4.0,9822815535,"Barra 2, Kanpur",26.415983,80.273718
+BD-0706,Ajay Singh,HVAC Technician,7.0,4.0,9007323822,"Barra 6, Kanpur",26.405835,80.375217
+BD-0707,Imran Tiwari,Handyman,2.0,3.7,9679077463,"Dada Nagar, Kanpur",26.407432,80.383493
+BD-0708,Manoj Sharma,Tiler,11.0,3.9,9915244964,"General Ganj, Kanpur",26.409559,80.340277
+BD-0709,Vikas Verma,Roofer,13.0,4.7,9585716786,"Barra 3, Kanpur",26.519417,80.39031
+BD-0710,Amit Khan,Flooring Installer,5.0,5.0,9150356655,"G.T. Road, Kanpur",26.395471,80.400375
+BD-0711,Naresh Pal,Tiler,21.0,4.2,9807690327,"Jawahar Nagar, Kanpur",26.492406,80.37538
+BD-0712,Rahul Singh,Civil Engineer,3.0,4.6,9289093965,"Moti Jheel, Kanpur",26.452525,80.344423
+BD-0713,Naresh Srivastava,Landscaper,20.0,4.1,9918000412,"Mall Road, Kanpur",26.421121,80.307517
+BD-0714,Vikas Tripathi,Landscaper,11.0,4.9,9121904822,"Bhauti, Kanpur",26.434819,80.373754
+BD-0715,Amit Pandey,Carpenter,14.0,4.7,9523147586,"Ganga Barrage, Kanpur",26.472215,80.3618
+BD-0716,Nikhil Yadav,General Contractor,20.0,4.0,9386779085,"Mall Road, Kanpur",26.482524,80.349418
+BD-0717,Salman Khan,Handyman,5.0,4.5,9726080539,"Bhauti, Kanpur",26.487769,80.321237
+BD-0718,Ankit Maurya,Carpenter,9.0,3.8,9977514264,"Barra 1, Kanpur",26.487901,80.377423
+BD-0719,Ajay Tiwari,Civil Engineer,16.0,4.3,9527000551,"Eldeco Colony, Kanpur",26.50619,80.28074
+BD-0720,Salman Mishra,Architect,6.0,4.9,9645688682,"Pandu Nagar, Kanpur",26.42427,80.297966
+BD-0721,Manoj Mishra,Carpenter,16.0,4.8,9091019145,"Arya Nagar, Kanpur",26.510749,80.398621
+BD-0722,Vikas Verma,Structural Engineer,19.0,4.4,9208032751,"Barra 6, Kanpur",26.510896,80.35271
+BD-0723,Arjun Yadav,General Contractor,12.0,4.2,9734583479,"G.T. Road, Kanpur",26.469231,80.395848
+BD-0724,Sandeep Verma,Painter,17.0,4.6,9865125095,"Kakadeo, Kanpur",26.514193,80.382895
+BD-0725,Vikas Singh,Mason,16.0,4.9,9051626754,"Bhauti, Kanpur",26.407265,80.270328
+BD-0726,Rohit Srivastava,Architect,21.0,5.0,9259232182,"Shastri Nagar, Kanpur",26.466988,80.375953
+BD-0727,Ankit Verma,Electrician,13.0,4.9,9155958166,"Barra 3, Kanpur",26.401001,80.397452
+BD-0728,Prakash Mishra,Electrician,5.0,4.8,9461811350,"Naubasta, Kanpur",26.433866,80.336743
+BD-0729,Ajay Srivastava,Glazier,11.0,4.2,9692952602,"Kalpi Road, Kanpur",26.394122,80.39295
+BD-0730,Rohit Yadav,Flooring Installer,11.0,4.4,9976745548,"Barra 4, Kanpur",26.44147,80.267862
+BD-0731,Imran Mishra,Tiler,13.0,4.0,9842190793,"Ratan Lal Nagar, Kanpur",26.458869,80.330629
+BD-0732,Sandeep Singh,Flooring Installer,15.0,4.5,9035278804,"Lajpat Nagar, Kanpur",26.457778,80.285467
+BD-0733,Deepak Sharma,Landscaper,5.0,5.0,9915965471,"Barra 3, Kanpur",26.439017,80.329488
+BD-0734,Amit Pandey,Handyman,1.0,4.3,9607808889,"Barra 1, Kanpur",26.509446,80.301992
+BD-0735,Manoj Sharma,Tiler,17.0,4.8,9067273339,"Fazal Ganj, Kanpur",26.516629,80.358039
+BD-0736,Naresh Tiwari,Carpenter,16.0,4.4,9664111544,"Becon Ganj, Kanpur",26.409654,80.387088
+BD-0737,Prakash Gupta,Mason,15.0,4.3,9136388592,"Chunni Ganj, Kanpur",26.416679,80.408459
+BD-0738,Vikas Maurya,Welder,12.0,4.3,9137494853,"Dada Nagar, Kanpur",26.50316,80.306214
+BD-0739,Naresh Maurya,Carpenter,21.0,4.1,9388791491,"Kidwai Nagar, Kanpur",26.50373,80.339193
+BD-0740,Imran Khan,Plumber,8.0,4.0,9342625650,"Mandhana, Kanpur",26.452072,80.319922
+BD-0741,Rahul Singh,Drywaller,5.0,3.9,9149757476,"Barra 8, Kanpur",26.473395,80.370568
+BD-0742,Ajay Srivastava,Glazier,10.0,4.6,9680421097,"Naubasta, Kanpur",26.429703,80.363723
+BD-0743,Ajay Gupta,Roofer,5.0,4.2,9024350889,"Swaroop Nagar, Kanpur",26.437761,80.321755
+BD-0744,Gaurav Gupta,Handyman,7.0,3.9,9151229465,"Barra 7, Kanpur",26.423583,80.296551
+BD-0745,Prakash Maurya,Tiler,5.0,3.9,9583597303,"G.T. Road, Kanpur",26.440286,80.382443
+BD-0746,Salman Yadav,Drywaller,4.0,4.6,9317637035,"Fazal Ganj, Kanpur",26.452381,80.393867
+BD-0747,Vijay Srivastava,Structural Engineer,9.0,3.9,9550959218,"Nayaganj, Kanpur",26.48374,80.295917
+BD-0748,Prakash Yadav,Construction Laborer,9.0,3.8,9888257470,"Moti Jheel, Kanpur",26.483239,80.374064
+BD-0749,Prakash Pandey,Painter,20.0,4.7,9141612649,"Saket Nagar, Kanpur",26.444815,80.404241
+BD-0750,Ankit Sharma,Structural Engineer,18.0,4.6,9835641799,"Barra 6, Kanpur",26.425617,80.381304
+BD-0751,Rahul Singh,Architect,1.0,4.7,9565893720,"Armapur Estate, Kanpur",26.491953,80.293563
+BD-0752,Gaurav Srivastava,Glazier,9.0,4.1,9268904684,"Vikas Nagar, Kanpur",26.504117,80.344201
+BD-0753,Amit Mishra,Carpenter,18.0,4.5,9708322816,"Nawabganj, Kanpur",26.392435,80.31933
+BD-0754,Sandeep Sharma,Painter,9.0,3.8,9183461620,"Swaroop Nagar, Kanpur",26.490833,80.39425
+BD-0755,Rohit Mishra,Tiler,17.0,4.0,9325859063,"Sarvodaya Nagar, Kanpur",26.41889,80.371673
+BD-0756,Amit Tiwari,Mason,18.0,4.7,9923817012,"Shyam Nagar, Kanpur",26.409603,80.408525
+BD-0757,Prakash Pal,Flooring Installer,7.0,4.6,9942709553,"Yashoda Nagar, Kanpur",26.452676,80.302046
+BD-0758,Naresh Srivastava,Glazier,9.0,4.4,9001839610,"Barra 8, Kanpur",26.485795,80.323415
+BD-0759,Ajay Sharma,Structural Engineer,2.0,3.9,9538102594,"Birhana Road, Kanpur",26.485349,80.405342
+BD-0760,Sandeep Yadav,Welder,10.0,4.9,9248599714,"Yashoda Nagar, Kanpur",26.475962,80.321089
+BD-0761,Deepak Tiwari,Tiler,4.0,4.7,9195829914,"Moti Jheel, Kanpur",26.434258,80.347616
+BD-0762,Gaurav Pal,Architect,3.0,4.8,9394481963,"Barra 3, Kanpur",26.519422,80.254319
+BD-0763,Sandeep Tiwari,Landscaper,6.0,4.8,9821198576,"Nayaganj, Kanpur",26.452123,80.393698
+BD-0764,Imran Tripathi,Carpenter,2.0,3.8,9496003557,"Tilak Nagar, Kanpur",26.490363,80.362856
+BD-0765,Naresh Gupta,Construction Laborer,16.0,3.7,9574804901,"Jajmau, Kanpur",26.449003,80.393282
+BD-0766,Sandeep Pandey,Structural Engineer,15.0,4.5,9257113190,"Chakeri, Kanpur",26.445018,80.275798
+BD-0767,Salman Yadav,Plumber,7.0,4.5,9732198482,"G.T. Road, Kanpur",26.398525,80.419531
+BD-0768,Imran Pal,General Contractor,9.0,3.9,9729809444,"Chakeri, Kanpur",26.420488,80.326798
+BD-0769,Rohit Singh,Drywaller,12.0,4.3,9152963734,"Lal Bangla, Kanpur",26.504063,80.39762
+BD-0770,Arjun Yadav,Glazier,13.0,3.6,9957735144,"Shastri Nagar, Kanpur",26.519387,80.268593
+BD-0771,Vijay Verma,Roofer,8.0,5.0,9352684600,"Swaroop Nagar, Kanpur",26.483067,80.342823
+BD-0772,Vikas Yadav,Landscaper,1.0,3.8,9355678414,"Ganga Barrage, Kanpur",26.481054,80.305048
+BD-0773,Deepak Yadav,Plumber,14.0,4.6,9399798449,"Panki, Kanpur",26.424696,80.285148
+BD-0774,Vikas Yadav,Painter,15.0,5.0,9485483206,"Becon Ganj, Kanpur",26.400754,80.283256
+BD-0775,Vikas Pandey,General Contractor,10.0,4.1,9894434021,"Dada Nagar, Kanpur",26.394651,80.412562
+BD-0776,Prakash Yadav,Welder,14.0,4.4,9496238489,"Harjinder Nagar, Kanpur",26.401187,80.268307
+BD-0777,Amit Pal,Electrician,14.0,4.8,9244797518,"Kakadeo, Kanpur",26.504224,80.380226
+BD-0778,Salman Yadav,Landscaper,7.0,3.7,9122024942,"Naubasta, Kanpur",26.431036,80.378901
+BD-0779,Gaurav Maurya,Drywaller,16.0,3.7,9864390318,"Nayaganj, Kanpur",26.480097,80.299977
+BD-0780,Vijay Pal,Welder,8.0,4.1,9230777126,"Kakadeo, Kanpur",26.420481,80.303481
+BD-0781,Gaurav Pandey,General Contractor,1.0,3.8,9362427818,"Mall Road, Kanpur",26.47284,80.274435
+BD-0782,Gaurav Srivastava,Carpenter,10.0,4.8,9695501541,"Sarvodaya Nagar, Kanpur",26.429956,80.388892
+BD-0783,Sandeep Pandey,Plumber,18.0,4.0,9291311594,"Jajmau, Kanpur",26.408236,80.368656
+BD-0784,Nikhil Mishra,Handyman,2.0,3.9,9685450602,"Yashoda Nagar, Kanpur",26.45529,80.358571
+BD-0785,Nikhil Sharma,Mason,4.0,4.6,9071352886,"Govind Nagar, Kanpur",26.457604,80.418916
+BD-0786,Nikhil Tripathi,Tiler,20.0,4.1,9417388302,"Vikas Nagar, Kanpur",26.4654,80.411673
+BD-0787,Vikas Singh,Roofer,9.0,4.5,9405064463,"Eldeco Colony, Kanpur",26.439888,80.303676
+BD-0788,Imran Tripathi,Drywaller,21.0,4.9,9731772638,"Kalpi Road, Kanpur",26.430182,80.278796
+BD-0789,Ravi Tiwari,Plumber,19.0,3.7,9426594338,"Sarvodaya Nagar, Kanpur",26.515256,80.317829
+BD-0790,Ajay Yadav,Civil Engineer,7.0,4.1,9006189528,"Chunni Ganj, Kanpur",26.438226,80.30296
+BD-0791,Imran Pandey,Structural Engineer,13.0,3.6,9373352224,"Becon Ganj, Kanpur",26.510864,80.264873
+BD-0792,Sandeep Khan,Civil Engineer,13.0,4.8,9040690108,"Becon Ganj, Kanpur",26.380481,80.37919
+BD-0793,Amit Gupta,Roofer,1.0,4.3,9473207944,"Azad Nagar, Kanpur",26.430517,80.406187
+BD-0794,Naresh Yadav,Tiler,20.0,3.7,9951872789,"Kidwai Nagar, Kanpur",26.519436,80.29092
+BD-0795,Gaurav Khan,Painter,22.0,4.9,9041674444,"Lal Bangla, Kanpur",26.422722,80.317882
+BD-0796,Prakash Verma,Drywaller,6.0,4.9,9432709426,"Vikas Nagar, Kanpur",26.460003,80.336111
+BD-0797,Rahul Mishra,Glazier,14.0,3.8,9665206820,"Dada Nagar, Kanpur",26.488851,80.314008
+BD-0798,Arjun Sharma,Carpenter,8.0,3.9,9029531516,"Chunni Ganj, Kanpur",26.382885,80.267955
+BD-0799,Imran Tiwari,Construction Laborer,12.0,3.8,9362145728,"Ashok Nagar, Kanpur",26.490385,80.268657
+BD-0800,Amit Yadav,Handyman,16.0,4.4,9342399930,"Darshan Purwa, Kanpur",26.469415,80.320016
+BD-0801,Nikhil Khan,Structural Engineer,6.0,4.3,9556467089,"Bithoor, Kanpur",26.517405,80.319755
+BD-0802,Ajay Maurya,Plumber,6.0,3.8,9374235225,"Fazal Ganj, Kanpur",26.519088,80.36757
+BD-0803,Amit Yadav,Flooring Installer,16.0,3.9,9483516924,"Vishnupuri, Kanpur",26.484355,80.251906
+BD-0804,Salman Yadav,Construction Laborer,2.0,4.5,9606446300,"G.T. Road, Kanpur",26.464627,80.40192
+BD-0805,Ajay Gupta,Handyman,18.0,5.0,9692654175,"Fazal Ganj, Kanpur",26.411177,80.334091
+BD-0806,Vijay Tiwari,Roofer,2.0,4.4,9493077388,"Barra 6, Kanpur",26.491207,80.258838
+BD-0807,Vijay Maurya,Handyman,22.0,3.8,9490948048,"Barra 4, Kanpur",26.471087,80.281738
+BD-0808,Prakash Mishra,Electrician,13.0,4.8,9316619231,"Juhi, Kanpur",26.390281,80.376693
+BD-0809,Amit Mishra,Painter,6.0,4.9,9897190449,"Lal Bangla, Kanpur",26.498661,80.356649
+BD-0810,Salman Gupta,Architect,17.0,4.4,9254590494,"Jajmau, Kanpur",26.452865,80.393975
+BD-0811,Gaurav Khan,Painter,7.0,4.7,9999574390,"Barra 5, Kanpur",26.483064,80.358117
+BD-0812,Deepak Tiwari,Landscaper,21.0,4.4,9249983577,"Kalpi Road, Kanpur",26.44487,80.332715
+BD-0813,Gaurav Khan,Landscaper,16.0,5.0,9280349324,"Chakeri, Kanpur",26.458298,80.331761
+BD-0814,Rahul Sharma,Flooring Installer,17.0,4.0,9354709277,"Ashok Nagar, Kanpur",26.41071,80.25191
+BD-0815,Vikas Maurya,Drywaller,20.0,4.3,9375581550,"G.T. Road, Kanpur",26.42234,80.370276
+BD-0816,Salman Pandey,Handyman,11.0,4.4,9897911563,"Chakeri, Kanpur",26.498477,80.305432
+BD-0817,Arjun Sharma,Electrician,21.0,4.5,9932135649,"Swaroop Nagar, Kanpur",26.471061,80.33825
+BD-0818,Naresh Tiwari,Roofer,1.0,4.5,9185257393,"Panki, Kanpur",26.381139,80.394838
+BD-0819,Salman Sharma,Tiler,11.0,3.9,9691222156,"Darshan Purwa, Kanpur",26.426682,80.294117
+BD-0820,Deepak Tripathi,Mason,15.0,4.6,9700819548,"Harjinder Nagar, Kanpur",26.420583,80.406634
+BD-0821,Nikhil Pandey,Painter,1.0,4.1,9290206183,"Kakadeo, Kanpur",26.496833,80.386731
+BD-0822,Rahul Maurya,Structural Engineer,9.0,4.7,9678884732,"Vikas Nagar, Kanpur",26.434564,80.357139
+BD-0823,Nikhil Verma,Welder,11.0,4.8,9975173989,"Swaroop Nagar, Kanpur",26.399329,80.312044
+BD-0824,Rahul Sharma,Plumber,9.0,3.8,9615664961,"Juhi, Kanpur",26.463401,80.407212
+BD-0825,Ravi Sharma,HVAC Technician,2.0,4.9,9672405079,"Nawabganj, Kanpur",26.493754,80.357547
+BD-0826,Vijay Singh,Carpenter,18.0,3.7,9487460563,"General Ganj, Kanpur",26.464301,80.401057
+BD-0827,Nikhil Pandey,Landscaper,10.0,4.6,9225939473,"Bithoor, Kanpur",26.441279,80.405525
+BD-0828,Nikhil Sharma,Structural Engineer,11.0,4.0,9324704221,"Ratan Lal Nagar, Kanpur",26.446696,80.415276
+BD-0829,Deepak Tripathi,Tiler,21.0,4.0,9978012687,"Kalyanpur, Kanpur",26.428379,80.35359
+BD-0830,Prakash Gupta,Landscaper,8.0,3.6,9825186140,"Ganga Barrage, Kanpur",26.463398,80.328239
+BD-0831,Ravi Srivastava,Carpenter,3.0,4.5,9741917151,"Armapur Estate, Kanpur",26.422444,80.366536
+BD-0832,Gaurav Tiwari,Flooring Installer,5.0,4.7,9456761829,"Barra 8, Kanpur",26.400744,80.325148
+BD-0833,Ankit Yadav,Carpenter,4.0,4.2,9860546542,"Moti Jheel, Kanpur",26.499214,80.334347
+BD-0834,Rohit Sharma,Welder,12.0,4.9,9928813392,"Birhana Road, Kanpur",26.428034,80.303085
+BD-0835,Vikas Yadav,Painter,10.0,3.7,9348584570,"Indira Nagar, Kanpur",26.424306,80.297431
+BD-0836,Vijay Khan,Flooring Installer,12.0,4.5,9978622307,"Mall Road, Kanpur",26.497864,80.382573
+BD-0837,Arjun Yadav,Plumber,6.0,4.7,9030419873,"Chunni Ganj, Kanpur",26.411129,80.337601
+BD-0838,Vijay Maurya,Construction Laborer,11.0,4.7,9597817628,"Harjinder Nagar, Kanpur",26.389389,80.275956
+BD-0839,Ankit Pandey,Civil Engineer,17.0,4.3,9546279331,"G.T. Road, Kanpur",26.519251,80.254401
+BD-0840,Vikas Mishra,Roofer,8.0,4.8,9953825620,"Shastri Nagar, Kanpur",26.433194,80.406928
+BD-0841,Rohit Pandey,Drywaller,20.0,4.4,9731954342,"Mall Road, Kanpur",26.47413,80.277059
+BD-0842,Ravi Pandey,Drywaller,20.0,4.8,9706910106,"Mall Road, Kanpur",26.474351,80.25477
+BD-0843,Imran Srivastava,HVAC Technician,1.0,3.8,9870531543,"Vikas Nagar, Kanpur",26.456244,80.308927
+BD-0844,Nikhil Yadav,Construction Laborer,12.0,3.8,9332209944,"Dada Nagar, Kanpur",26.477276,80.321936
+BD-0845,Salman Yadav,Landscaper,13.0,4.2,9000162557,"Dada Nagar, Kanpur",26.435845,80.41651
+BD-0846,Gaurav Sharma,Architect,5.0,4.9,9728503661,"Dada Nagar, Kanpur",26.411182,80.39038
+BD-0847,Nikhil Mishra,Welder,15.0,5.0,9956486693,"Chakeri, Kanpur",26.481378,80.373023
+BD-0848,Vijay Srivastava,Roofer,18.0,4.3,9573215309,"Bhauti, Kanpur",26.431009,80.260646
+BD-0849,Sandeep Sharma,Tiler,17.0,4.8,9827182400,"Barra 1, Kanpur",26.392731,80.319475
+BD-0850,Nikhil Verma,Construction Laborer,2.0,4.7,9449992305,"Mandhana, Kanpur",26.463679,80.276349
+BD-0851,Manoj Sharma,Welder,19.0,3.9,9421917517,"Ashok Nagar, Kanpur",26.518312,80.293793
+BD-0852,Imran Tiwari,Structural Engineer,8.0,4.3,9770707366,"Panki, Kanpur",26.505484,80.352226
+BD-0853,Rohit Srivastava,Tiler,4.0,4.5,9498469282,"Armapur Estate, Kanpur",26.427919,80.388397
+BD-0854,Ankit Gupta,Landscaper,20.0,4.5,9624096117,"Moti Jheel, Kanpur",26.49252,80.33575
+BD-0855,Ankit Gupta,Tiler,7.0,4.6,9599530807,"Mandhana, Kanpur",26.447815,80.299096
+BD-0856,Amit Maurya,Landscaper,1.0,4.0,9874489335,"Vikas Nagar, Kanpur",26.499554,80.295572
+BD-0857,Sandeep Singh,Tiler,3.0,4.6,9264711630,"Mall Road, Kanpur",26.413645,80.409352
+BD-0858,Vikas Tripathi,Mason,7.0,4.0,9234246644,"Barra 5, Kanpur",26.394837,80.342085
+BD-0859,Ravi Pandey,Mason,8.0,4.7,9121047036,"Panki, Kanpur",26.460897,80.391026
+BD-0860,Prakash Srivastava,Construction Laborer,1.0,4.4,9670556197,"Bithoor, Kanpur",26.413206,80.415926
+BD-0861,Amit Sharma,Drywaller,14.0,4.8,9244962370,"Sarvodaya Nagar, Kanpur",26.50594,80.339251
+BD-0862,Deepak Verma,Welder,9.0,4.7,9585373344,"Fazal Ganj, Kanpur",26.435909,80.25514
+BD-0863,Imran Pal,Drywaller,1.0,4.6,9681240590,"Bhauti, Kanpur",26.467484,80.324263
+BD-0864,Prakash Verma,Architect,4.0,4.5,9986111371,"Kakadeo, Kanpur",26.382006,80.347468
+BD-0865,Sandeep Pal,Glazier,3.0,3.8,9060034938,"Swaroop Nagar, Kanpur",26.499179,80.312484
+BD-0866,Manoj Khan,Handyman,18.0,4.4,9953652394,"Panki, Kanpur",26.46523,80.419382
+BD-0867,Deepak Pal,Landscaper,13.0,3.9,9438369188,"Sarvodaya Nagar, Kanpur",26.47247,80.413157
+BD-0868,Rohit Singh,Flooring Installer,16.0,4.5,9276461833,"Birhana Road, Kanpur",26.397017,80.367774
+BD-0869,Imran Maurya,Painter,9.0,4.9,9152188135,"Moti Jheel, Kanpur",26.410305,80.293886
+BD-0870,Naresh Tiwari,Landscaper,14.0,4.8,9243423087,"Sarvodaya Nagar, Kanpur",26.395562,80.418081
+BD-0871,Salman Tiwari,Architect,14.0,4.4,9411865504,"Vikas Nagar, Kanpur",26.405858,80.368516
+BD-0872,Ajay Verma,Landscaper,18.0,4.6,9525858110,"Vikas Nagar, Kanpur",26.389012,80.365641
+BD-0873,Deepak Maurya,Glazier,9.0,4.3,9512735740,"Chakeri, Kanpur",26.454699,80.309718
+BD-0874,Vikas Gupta,Structural Engineer,5.0,4.5,9689684380,"Jajmau, Kanpur",26.428521,80.417928
+BD-0875,Nikhil Khan,HVAC Technician,15.0,4.5,9670559423,"Azad Nagar, Kanpur",26.457587,80.295924
+BD-0876,Vikas Khan,Flooring Installer,12.0,4.1,9623767195,"Chakeri, Kanpur",26.49754,80.324318
+BD-0877,Vijay Singh,Construction Laborer,19.0,4.8,9275316136,"Lal Bangla, Kanpur",26.386238,80.307669
+BD-0878,Vikas Gupta,Electrician,11.0,4.4,9917105227,"Indira Nagar, Kanpur",26.381567,80.34028
+BD-0879,Ankit Mishra,Drywaller,19.0,3.6,9021827887,"Nayaganj, Kanpur",26.405914,80.346733
+BD-0880,Rahul Mishra,Electrician,19.0,4.9,9821365185,"Civil Lines, Kanpur",26.389542,80.341176
+BD-0881,Rahul Tiwari,Roofer,22.0,4.9,9030804547,"General Ganj, Kanpur",26.427082,80.265415
+BD-0882,Prakash Singh,Architect,5.0,4.9,9539178622,"Chakeri, Kanpur",26.493716,80.280037
+BD-0883,Gaurav Sharma,Carpenter,9.0,4.4,9876602836,"Chakeri, Kanpur",26.502137,80.312246
+BD-0884,Salman Pal,HVAC Technician,22.0,5.0,9152158020,"Barra 4, Kanpur",26.492866,80.386757
+BD-0885,Ravi Gupta,Welder,3.0,3.8,9075269596,"Nawabganj, Kanpur",26.454064,80.289424
+BD-0886,Amit Tiwari,Electrician,1.0,4.5,9656995311,"Jajmau, Kanpur",26.476067,80.274935
+BD-0887,Ajay Tripathi,General Contractor,4.0,4.6,9866880629,"Lal Bangla, Kanpur",26.384156,80.336193
+BD-0888,Nikhil Yadav,Tiler,13.0,3.9,9108616107,"Barra 8, Kanpur",26.506586,80.318466
+BD-0889,Vikas Mishra,Painter,18.0,4.2,9545729903,"Kalyanpur, Kanpur",26.459446,80.28475
+BD-0890,Deepak Singh,Handyman,21.0,4.5,9034370773,"Saket Nagar, Kanpur",26.449699,80.318382
+BD-0891,Arjun Mishra,Flooring Installer,22.0,4.1,9829493093,"Tilak Nagar, Kanpur",26.447843,80.317245
+BD-0892,Imran Pal,Welder,10.0,4.9,9349832002,"Barra 2, Kanpur",26.453038,80.29842
+BD-0893,Prakash Mishra,Painter,12.0,4.8,9380656094,"Bhauti, Kanpur",26.409974,80.357157
+BD-0894,Gaurav Mishra,HVAC Technician,1.0,4.9,9233263535,"General Ganj, Kanpur",26.514228,80.357377
+BD-0895,Amit Khan,Structural Engineer,20.0,4.2,9278659243,"Chakeri, Kanpur",26.498393,80.288514
+BD-0896,Prakash Verma,Mason,14.0,4.4,9547944702,"Vishnupuri, Kanpur",26.433785,80.328204
+BD-0897,Vikas Sharma,Plumber,1.0,4.8,9944054690,"Barra 1, Kanpur",26.444895,80.402552
+BD-0898,Ajay Gupta,Drywaller,16.0,4.5,9358542758,"Nawabganj, Kanpur",26.412419,80.330157
+BD-0899,Sandeep Yadav,Carpenter,5.0,3.7,9392482191,"G.T. Road, Kanpur",26.508548,80.286772
+BD-0900,Salman Gupta,HVAC Technician,13.0,4.3,9037444073,"Ratan Lal Nagar, Kanpur",26.434169,80.254174
+BD-0901,Naresh Pal,Flooring Installer,21.0,4.6,9700114762,"G.T. Road, Kanpur",26.398319,80.284627
+BD-0902,Nikhil Srivastava,Mason,16.0,3.8,9449389569,"Yashoda Nagar, Kanpur",26.409865,80.403746
+BD-0903,Salman Sharma,Tiler,15.0,4.0,9397022423,"Kalyanpur, Kanpur",26.419498,80.278362
+BD-0904,Deepak Gupta,Flooring Installer,1.0,3.7,9567675498,"Bhauti, Kanpur",26.390974,80.275517
+BD-0905,Ravi Verma,Welder,7.0,4.9,9678340512,"Jawahar Nagar, Kanpur",26.504842,80.374873
+BD-0906,Ravi Gupta,Construction Laborer,1.0,4.7,9762291124,"Jawahar Nagar, Kanpur",26.419371,80.250294
+BD-0907,Rohit Srivastava,Drywaller,14.0,4.2,9261893502,"Barra 1, Kanpur",26.428608,80.367657
+BD-0908,Gaurav Pandey,Carpenter,21.0,4.4,9602879576,"Saket Nagar, Kanpur",26.441331,80.311758
+BD-0909,Deepak Sharma,Carpenter,17.0,3.8,9669145133,"Juhi, Kanpur",26.419525,80.392227
+BD-0910,Deepak Maurya,Painter,16.0,4.0,9218059040,"Nawabganj, Kanpur",26.398849,80.295041
+BD-0911,Naresh Pandey,Roofer,7.0,4.8,9827938084,"Saket Nagar, Kanpur",26.50859,80.274367
+BD-0912,Rahul Khan,Structural Engineer,6.0,5.0,9488360122,"Mandhana, Kanpur",26.475486,80.292018
+BD-0913,Gaurav Khan,Civil Engineer,18.0,4.4,9488134040,"Birhana Road, Kanpur",26.427193,80.345834
+BD-0914,Ajay Maurya,Civil Engineer,2.0,4.4,9846443586,"Kalyanpur, Kanpur",26.384174,80.306352
+BD-0915,Ajay Khan,Construction Laborer,21.0,3.7,9908861940,"Harsh Nagar, Kanpur",26.497351,80.27077
+BD-0916,Arjun Gupta,General Contractor,12.0,3.7,9655084333,"Mandhana, Kanpur",26.479581,80.40378
+BD-0917,Rohit Verma,Roofer,16.0,4.9,9026026611,"Birhana Road, Kanpur",26.48105,80.272599
+BD-0918,Naresh Sharma,Painter,6.0,4.4,9099695336,"Lal Bangla, Kanpur",26.514685,80.273753
+BD-0919,Amit Yadav,Painter,15.0,4.3,9994588413,"Jawahar Nagar, Kanpur",26.514658,80.256099
+BD-0920,Ajay Tripathi,Carpenter,10.0,4.0,9287000721,"Azad Nagar, Kanpur",26.439749,80.400556
+BD-0921,Rohit Mishra,Structural Engineer,12.0,4.7,9544673640,"Bithoor, Kanpur",26.44898,80.280154
+BD-0922,Naresh Yadav,Drywaller,7.0,4.2,9644703993,"Saket Nagar, Kanpur",26.419181,80.335531
+BD-0923,Ravi Sharma,Painter,15.0,4.7,9646662334,"Becon Ganj, Kanpur",26.492297,80.259504
+BD-0924,Gaurav Sharma,Landscaper,2.0,4.5,9428203167,"Barra 1, Kanpur",26.433028,80.266818
+BD-0925,Gaurav Sharma,Drywaller,3.0,4.6,9925086085,"Civil Lines, Kanpur",26.466062,80.404505
+BD-0926,Vikas Pandey,Handyman,8.0,4.9,9803147232,"Lajpat Nagar, Kanpur",26.391028,80.273558
+BD-0927,Imran Singh,Electrician,9.0,4.3,9091091230,"Pandu Nagar, Kanpur",26.507727,80.276049
+BD-0928,Manoj Sharma,Structural Engineer,17.0,3.9,9263162114,"Indira Nagar, Kanpur",26.516336,80.312401
+BD-0929,Deepak Tiwari,Construction Laborer,11.0,3.9,9122601267,"Mall Road, Kanpur",26.504135,80.25404
+BD-0930,Arjun Srivastava,Flooring Installer,13.0,5.0,9283500668,"Sarvodaya Nagar, Kanpur",26.465195,80.304406
+BD-0931,Ankit Khan,Tiler,11.0,4.5,9681000766,"Indira Nagar, Kanpur",26.48513,80.352967
+BD-0932,Nikhil Gupta,Drywaller,2.0,4.2,9767776207,"Civil Lines, Kanpur",26.449874,80.375528
+BD-0933,Prakash Srivastava,Carpenter,6.0,4.8,9376803950,"Ashok Nagar, Kanpur",26.434895,80.275574
+BD-0934,Arjun Sharma,Carpenter,8.0,4.6,9640443609,"Yashoda Nagar, Kanpur",26.395864,80.394479
+BD-0935,Amit Pal,Plumber,21.0,4.7,9597985046,"Ashok Nagar, Kanpur",26.471132,80.346639
+BD-0936,Deepak Khan,Glazier,19.0,3.6,9020648284,"Jajmau, Kanpur",26.50079,80.283402
+BD-0937,Rahul Maurya,Glazier,8.0,4.6,9889469532,"Pandu Nagar, Kanpur",26.458434,80.416797
+BD-0938,Deepak Srivastava,Glazier,19.0,3.9,9710185058,"Sarvodaya Nagar, Kanpur",26.468982,80.39774
+BD-0939,Vikas Srivastava,Civil Engineer,4.0,5.0,9072892920,"Tilak Nagar, Kanpur",26.452477,80.328663
+BD-0940,Ankit Khan,Civil Engineer,8.0,4.5,9766140935,"Saket Nagar, Kanpur",26.486405,80.374859
+BD-0941,Prakash Sharma,Civil Engineer,7.0,4.2,9181123439,"Kidwai Nagar, Kanpur",26.45064,80.415302
+BD-0942,Salman Tripathi,Mason,10.0,4.9,9033583448,"Vishnupuri, Kanpur",26.45704,80.417914
+BD-0943,Rohit Verma,Tiler,2.0,4.5,9163533867,"Barra 8, Kanpur",26.420336,80.271205
+BD-0944,Arjun Tripathi,Handyman,9.0,3.7,9478723168,"Lal Bangla, Kanpur",26.461725,80.271544
+BD-0945,Nikhil Tiwari,General Contractor,3.0,4.7,9648705764,"Barra 6, Kanpur",26.442142,80.377903
+BD-0946,Naresh Verma,Plumber,1.0,4.4,9363487351,"Kakadeo, Kanpur",26.394829,80.30167
+BD-0947,Ankit Sharma,Mason,16.0,3.6,9202679272,"Armapur Estate, Kanpur",26.417744,80.280717
+BD-0948,Manoj Srivastava,Architect,12.0,4.1,9134925652,"Barra 4, Kanpur",26.474745,80.332349
+BD-0949,Nikhil Yadav,Glazier,15.0,4.5,9294396960,"Juhi, Kanpur",26.474788,80.304318
+BD-0950,Naresh Mishra,Plumber,1.0,5.0,9482650549,"Harsh Nagar, Kanpur",26.439166,80.341498
+BD-0951,Rahul Sharma,Architect,8.0,4.3,9816056621,"Kalpi Road, Kanpur",26.502415,80.412305
+BD-0952,Salman Tiwari,Architect,6.0,3.9,9375247101,"Dada Nagar, Kanpur",26.421725,80.312831
+BD-0953,Ravi Tiwari,Electrician,1.0,4.4,9084098625,"Armapur Estate, Kanpur",26.431981,80.308586
+BD-0954,Ankit Srivastava,Carpenter,20.0,3.9,9009605988,"Kalpi Road, Kanpur",26.463567,80.419859
+BD-0955,Vijay Tiwari,Glazier,1.0,4.9,9095332119,"Govind Nagar, Kanpur",26.444437,80.388699
+BD-0956,Nikhil Yadav,Carpenter,3.0,4.1,9402896753,"Juhi, Kanpur",26.392231,80.341204
+BD-0957,Salman Tiwari,Handyman,16.0,4.0,9990331460,"Becon Ganj, Kanpur",26.456804,80.297
+BD-0958,Vijay Pal,Drywaller,6.0,4.2,9574158248,"Barra 8, Kanpur",26.459819,80.28706
+BD-0959,Sandeep Sharma,Electrician,1.0,4.7,9931704020,"Mall Road, Kanpur",26.50297,80.261245
+BD-0960,Deepak Tiwari,Architect,22.0,4.2,9366123085,"Vishnupuri, Kanpur",26.501192,80.271532
+BD-0961,Rahul Mishra,General Contractor,8.0,3.9,9375581227,"Eldeco Colony, Kanpur",26.457607,80.341401
+BD-0962,Salman Verma,Structural Engineer,10.0,3.8,9783815782,"Bhauti, Kanpur",26.514194,80.331179
+BD-0963,Salman Yadav,Handyman,19.0,3.7,9930114636,"Jajmau, Kanpur",26.41902,80.412412
+BD-0964,Prakash Verma,Carpenter,10.0,4.3,9778718339,"Chakeri, Kanpur",26.437449,80.293276
+BD-0965,Amit Mishra,Drywaller,4.0,4.1,9709849192,"Lal Bangla, Kanpur",26.383847,80.264293
+BD-0966,Naresh Pal,Electrician,10.0,4.9,9950942050,"Bithoor, Kanpur",26.474172,80.383681
+BD-0967,Vikas Srivastava,Welder,6.0,4.4,9852695826,"Jajmau, Kanpur",26.442241,80.332051
+BD-0968,Deepak Khan,Glazier,16.0,3.9,9772372414,"Becon Ganj, Kanpur",26.403755,80.336456
+BD-0969,Ankit Maurya,Welder,11.0,4.8,9829269938,"Ashok Nagar, Kanpur",26.486669,80.31914
+BD-0970,Ankit Tiwari,Tiler,17.0,4.9,9331438921,"Barra 4, Kanpur",26.519877,80.258535
+BD-0971,Vijay Sharma,Plumber,7.0,4.3,9830500664,"Juhi, Kanpur",26.448319,80.274819
+BD-0972,Salman Khan,Structural Engineer,10.0,4.1,9380200921,"Chunni Ganj, Kanpur",26.511236,80.369813
+BD-0973,Naresh Mishra,Tiler,7.0,4.7,9543844099,"Ratan Lal Nagar, Kanpur",26.435597,80.311428
+BD-0974,Deepak Maurya,Handyman,12.0,3.6,9754456979,"Saket Nagar, Kanpur",26.514554,80.412461
+BD-0975,Prakash Singh,Plumber,6.0,4.4,9934164350,"Civil Lines, Kanpur",26.428712,80.391109
+BD-0976,Salman Mishra,Civil Engineer,3.0,4.1,9325473930,"Fazal Ganj, Kanpur",26.435456,80.266511
+BD-0977,Deepak Tiwari,Glazier,3.0,4.8,9013952994,"Azad Nagar, Kanpur",26.390366,80.284142
+BD-0978,Ravi Tiwari,Construction Laborer,2.0,4.9,9212026871,"Barra 4, Kanpur",26.486115,80.353955
+BD-0979,Sandeep Sharma,Electrician,11.0,4.8,9825390877,"Arya Nagar, Kanpur",26.432858,80.401387
+BD-0980,Ravi Khan,HVAC Technician,5.0,5.0,9190094648,"Becon Ganj, Kanpur",26.427655,80.408903
+BD-0981,Amit Srivastava,Mason,12.0,3.8,9574296272,"Govind Nagar, Kanpur",26.425649,80.271298
+BD-0982,Naresh Singh,Plumber,22.0,4.9,9050628777,"Barra 7, Kanpur",26.491729,80.261124
+BD-0983,Vikas Tiwari,HVAC Technician,12.0,3.8,9442088099,"Shyam Nagar, Kanpur",26.446999,80.340097
+BD-0984,Rohit Yadav,Welder,3.0,4.4,9993945964,"Eldeco Colony, Kanpur",26.475073,80.252622
+BD-0985,Vikas Gupta,Landscaper,13.0,4.3,9076609106,"Kalyanpur, Kanpur",26.507026,80.297723
+BD-0986,Salman Gupta,HVAC Technician,17.0,4.5,9678273333,"Birhana Road, Kanpur",26.392257,80.258455
+BD-0987,Imran Yadav,Civil Engineer,1.0,4.8,9137599797,"Juhi, Kanpur",26.447391,80.379856
+BD-0988,Imran Singh,Handyman,1.0,5.0,9156522755,"Shyam Nagar, Kanpur",26.484841,80.347997
+BD-0989,Ankit Srivastava,Carpenter,6.0,3.6,9199772121,"Naubasta, Kanpur",26.507875,80.254032
+BD-0990,Salman Tripathi,Architect,14.0,4.9,9492055936,"Jajmau, Kanpur",26.403299,80.254516
+BD-0991,Prakash Srivastava,Glazier,5.0,4.5,9532377960,"Chakeri, Kanpur",26.382085,80.263566
+BD-0992,Ajay Verma,General Contractor,22.0,4.5,9982984399,"Jawahar Nagar, Kanpur",26.393994,80.265098
+BD-0993,Ajay Verma,Architect,4.0,4.1,9378895013,"Barra 1, Kanpur",26.384011,80.393002
+BD-0994,Gaurav Singh,Architect,2.0,4.0,9837929624,"Barra 2, Kanpur",26.458085,80.383849
+BD-0995,Sandeep Tiwari,Electrician,13.0,4.5,9255663487,"Kakadeo, Kanpur",26.424206,80.359079
+BD-0996,Naresh Sharma,Mason,4.0,4.0,9829176068,"Darshan Purwa, Kanpur",26.518179,80.340446
+BD-0997,Ajay Tiwari,Glazier,16.0,4.7,9338458883,"Mandhana, Kanpur",26.487836,80.322626
+BD-0998,Arjun Maurya,Landscaper,12.0,4.2,9851401208,"Chakeri, Kanpur",26.388878,80.313885
+BD-0999,Rahul Sharma,Structural Engineer,2.0,3.6,9977069575,"Harjinder Nagar, Kanpur",26.452477,80.351259
+BD-1000,Arjun Tiwari,Architect,3.0,5.0,9234015244,"Harjinder Nagar, Kanpur",26.434861,80.397559
+BD-1001,Amit Mishra,Roofer,16.0,4.6,9431326732,"General Ganj, Kanpur",26.417854,80.359667
+BD-1002,Naresh Khan,Carpenter,6.0,4.6,9443705279,"Panki, Kanpur",26.449691,80.261674
+BD-1003,Prakash Mishra,Drywaller,8.0,4.0,9894714527,"Chakeri, Kanpur",26.389107,80.352694
+BD-1004,Salman Tiwari,Handyman,6.0,3.7,9924721106,"Panki, Kanpur",26.444145,80.416521
+BD-1005,Vijay Srivastava,HVAC Technician,15.0,3.7,9133355835,"Shyam Nagar, Kanpur",26.418958,80.255942
+BD-1006,Prakash Srivastava,Roofer,15.0,4.0,9427255898,"Bhauti, Kanpur",26.500595,80.269619
+BD-1007,Vijay Tripathi,Landscaper,13.0,4.8,9400592256,"Govind Nagar, Kanpur",26.419329,80.351913
+BD-1008,Ravi Pal,Electrician,8.0,3.7,9474498421,"Mandhana, Kanpur",26.473164,80.322288
+BD-1009,Naresh Pal,Plumber,20.0,4.0,9349101420,"Civil Lines, Kanpur",26.420923,80.410714
+BD-1010,Prakash Pal,Handyman,17.0,3.8,9361958795,"Indira Nagar, Kanpur",26.419116,80.272515
+BD-1011,Ankit Singh,General Contractor,12.0,4.2,9054624121,"Ganga Barrage, Kanpur",26.436364,80.376122
+BD-1012,Arjun Khan,Plumber,17.0,4.6,9324472995,"Kalpi Road, Kanpur",26.43425,80.4123
+BD-1013,Deepak Yadav,Electrician,6.0,4.6,9462382317,"Sarvodaya Nagar, Kanpur",26.393373,80.309867
+BD-1014,Gaurav Verma,Glazier,22.0,4.5,9012580317,"Bhauti, Kanpur",26.503448,80.305759
+BD-1015,Ankit Singh,Handyman,8.0,3.9,9045774040,"Saket Nagar, Kanpur",26.421971,80.252938
+BD-1016,Ajay Tiwari,General Contractor,22.0,4.5,9367964276,"Chakeri, Kanpur",26.386108,80.385595
+BD-1017,Ajay Singh,Structural Engineer,2.0,4.2,9836308128,"Harjinder Nagar, Kanpur",26.421004,80.278919
+BD-1018,Rohit Srivastava,HVAC Technician,3.0,4.9,9500732337,"Arya Nagar, Kanpur",26.494624,80.31551
+BD-1019,Nikhil Pal,Mason,11.0,4.1,9434367712,"Barra 7, Kanpur",26.468769,80.323127
+BD-1020,Salman Pal,Mason,1.0,4.8,9458716192,"Kalpi Road, Kanpur",26.476902,80.312843
+BD-1021,Vikas Tiwari,Architect,21.0,4.5,9934933172,"Saket Nagar, Kanpur",26.437015,80.340353
+BD-1022,Imran Khan,Structural Engineer,13.0,4.7,9886833842,"Jawahar Nagar, Kanpur",26.460067,80.350823
+BD-1023,Deepak Verma,Plumber,3.0,3.9,9998492015,"Barra 3, Kanpur",26.419607,80.262335
+BD-1024,Arjun Srivastava,Carpenter,15.0,4.8,9670164626,"Saket Nagar, Kanpur",26.385322,80.293677
+BD-1025,Naresh Tripathi,Welder,17.0,4.6,9407531319,"Chakeri, Kanpur",26.419453,80.387811
+BD-1026,Vikas Maurya,Structural Engineer,8.0,4.0,9172674258,"Chunni Ganj, Kanpur",26.513657,80.264278
+BD-1027,Ravi Singh,Flooring Installer,1.0,4.4,9857680201,"Govind Nagar, Kanpur",26.437139,80.414108
+BD-1028,Imran Tiwari,Mason,7.0,4.4,9421829894,"Ganga Barrage, Kanpur",26.471511,80.376029
+BD-1029,Imran Maurya,Painter,3.0,4.8,9895857843,"Eldeco Colony, Kanpur",26.429945,80.259847
+BD-1030,Arjun Verma,Architect,4.0,3.6,9507030652,"Mandhana, Kanpur",26.46982,80.34188
+BD-1031,Rahul Verma,Architect,12.0,4.1,9803906095,"Kalpi Road, Kanpur",26.48933,80.260303
+BD-1032,Arjun Khan,Welder,17.0,4.2,9994633092,"Civil Lines, Kanpur",26.4131,80.388
+BD-1033,Ankit Khan,Structural Engineer,7.0,4.6,9881029448,"Govind Nagar, Kanpur",26.495989,80.344276
+BD-1034,Rahul Tiwari,Plumber,17.0,3.7,9031203829,"Barra 2, Kanpur",26.461065,80.371268
+BD-1035,Naresh Tiwari,Carpenter,20.0,4.1,9066817751,"Tilak Nagar, Kanpur",26.492839,80.384953
+BD-1036,Ravi Tripathi,Landscaper,13.0,3.9,9980593259,"Ashok Nagar, Kanpur",26.461271,80.403911
+BD-1037,Manoj Gupta,Plumber,9.0,4.9,9068295938,"Arya Nagar, Kanpur",26.380418,80.358994
+BD-1038,Arjun Sharma,General Contractor,10.0,4.0,9968425714,"Mandhana, Kanpur",26.434651,80.370018
+BD-1039,Rohit Pal,Welder,11.0,4.7,9017022158,"Kidwai Nagar, Kanpur",26.424493,80.310553
+BD-1040,Nikhil Tiwari,Mason,5.0,5.0,9115365654,"Bithoor, Kanpur",26.412541,80.419492
+BD-1041,Vijay Gupta,Handyman,1.0,3.7,9214418046,"Sarvodaya Nagar, Kanpur",26.51664,80.322531
+BD-1042,Salman Srivastava,Mason,14.0,4.5,9295033509,"Moti Jheel, Kanpur",26.473799,80.377105
+BD-1043,Ajay Singh,Architect,17.0,3.9,9026221970,"Mandhana, Kanpur",26.448019,80.387601
+BD-1044,Rohit Maurya,Structural Engineer,21.0,4.2,9226513139,"Saket Nagar, Kanpur",26.442447,80.281533
+BD-1045,Prakash Maurya,HVAC Technician,7.0,4.9,9952949862,"Chunni Ganj, Kanpur",26.391561,80.312783
+BD-1046,Prakash Sharma,Construction Laborer,19.0,4.4,9694501570,"Kidwai Nagar, Kanpur",26.478952,80.373492
+BD-1047,Sandeep Srivastava,Tiler,11.0,3.9,9724442496,"Bithoor, Kanpur",26.489685,80.267441
+BD-1048,Naresh Singh,Civil Engineer,6.0,3.7,9219214517,"Harjinder Nagar, Kanpur",26.48036,80.368647
+BD-1049,Ankit Gupta,Tiler,3.0,4.7,9384925046,"Chakeri, Kanpur",26.398215,80.324274
+BD-1050,Ajay Pal,Drywaller,16.0,4.4,9573567382,"Darshan Purwa, Kanpur",26.406161,80.301049
+BD-1051,Naresh Maurya,Plumber,21.0,4.8,9044530599,"Indira Nagar, Kanpur",26.464936,80.408703
+BD-1052,Rohit Singh,Construction Laborer,14.0,3.6,9799425182,"Eldeco Colony, Kanpur",26.410033,80.257803
+BD-1053,Vijay Yadav,Drywaller,15.0,4.3,9716050210,"Jawahar Nagar, Kanpur",26.382534,80.311389
+BD-1054,Ankit Maurya,Structural Engineer,3.0,4.2,9671447774,"Juhi, Kanpur",26.461214,80.414883
+BD-1055,Nikhil Sharma,Electrician,22.0,4.9,9179530216,"Arya Nagar, Kanpur",26.421894,80.419997
+BD-1056,Amit Srivastava,Electrician,6.0,4.5,9733840329,"Kalyanpur, Kanpur",26.42299,80.383474
+BD-1057,Ravi Tiwari,Tiler,11.0,4.4,9046342219,"Fazal Ganj, Kanpur",26.394092,80.287168
+BD-1058,Nikhil Singh,Welder,1.0,4.2,9696479557,"Barra 7, Kanpur",26.481444,80.289902
+BD-1059,Naresh Mishra,Welder,19.0,5.0,9288368105,"Barra 8, Kanpur",26.462382,80.286453
+BD-1060,Vijay Khan,Flooring Installer,18.0,3.8,9141999395,"Ganga Barrage, Kanpur",26.40124,80.396888
+BD-1061,Imran Pal,Handyman,1.0,4.5,9633787946,"Harjinder Nagar, Kanpur",26.457641,80.366569
+BD-1062,Vikas Srivastava,Flooring Installer,15.0,3.7,9594497871,"Ashok Nagar, Kanpur",26.401461,80.328886
+BD-1063,Sandeep Pal,Welder,9.0,4.8,9473224386,"Nayaganj, Kanpur",26.426534,80.319616
+BD-1064,Ravi Pal,Electrician,10.0,4.7,9156326431,"Shastri Nagar, Kanpur",26.493958,80.255173
+BD-1065,Ankit Pal,Electrician,13.0,4.2,9860057423,"Saket Nagar, Kanpur",26.446797,80.371012
+BD-1066,Imran Yadav,Landscaper,21.0,4.8,9062563808,"G.T. Road, Kanpur",26.385403,80.258372
+BD-1067,Ankit Pandey,Carpenter,22.0,3.7,9098200625,"Fazal Ganj, Kanpur",26.468637,80.316334
+BD-1068,Naresh Khan,General Contractor,18.0,4.9,9220034008,"Vikas Nagar, Kanpur",26.448167,80.419753
+BD-1069,Vikas Verma,Flooring Installer,2.0,4.8,9202700865,"Lajpat Nagar, Kanpur",26.393272,80.26454
+BD-1070,Prakash Tiwari,Electrician,21.0,4.1,9216687168,"Mandhana, Kanpur",26.473963,80.297735
+BD-1071,Nikhil Srivastava,Mason,4.0,4.4,9715830679,"Nayaganj, Kanpur",26.390249,80.266936
+BD-1072,Amit Maurya,Handyman,4.0,4.8,9916489302,"Shastri Nagar, Kanpur",26.425395,80.383836
+BD-1073,Imran Tiwari,HVAC Technician,19.0,4.1,9447348841,"Shyam Nagar, Kanpur",26.400182,80.354221
+BD-1074,Rohit Verma,Painter,12.0,4.0,9655956825,"Nawabganj, Kanpur",26.398184,80.393666
+BD-1075,Prakash Verma,Electrician,17.0,4.7,9586069760,"Jajmau, Kanpur",26.503297,80.374873
+BD-1076,Sandeep Verma,General Contractor,11.0,3.8,9378910553,"Jajmau, Kanpur",26.387549,80.270284
+BD-1077,Manoj Pal,Flooring Installer,10.0,4.3,9698121743,"Chakeri, Kanpur",26.486298,80.317323
+BD-1078,Gaurav Gupta,HVAC Technician,2.0,4.4,9353850090,"Mandhana, Kanpur",26.425028,80.350192
+BD-1079,Ajay Pandey,Flooring Installer,4.0,4.3,9199469522,"Naubasta, Kanpur",26.441432,80.389687
+BD-1080,Salman Singh,Carpenter,11.0,5.0,9775318144,"Barra 4, Kanpur",26.508116,80.397869
+BD-1081,Naresh Gupta,HVAC Technician,21.0,4.0,9400030296,"Becon Ganj, Kanpur",26.39167,80.303517
+BD-1082,Rahul Mishra,Carpenter,18.0,4.7,9665957053,"Mall Road, Kanpur",26.401705,80.275635
+BD-1083,Vikas Tripathi,Landscaper,13.0,4.0,9563177813,"Barra 8, Kanpur",26.468777,80.30035
+BD-1084,Imran Gupta,Plumber,15.0,4.9,9830984929,"Dada Nagar, Kanpur",26.449639,80.325373
+BD-1085,Prakash Pandey,HVAC Technician,16.0,3.8,9070384939,"Chakeri, Kanpur",26.481116,80.419358
+BD-1086,Salman Srivastava,Carpenter,8.0,4.5,9949906183,"Yashoda Nagar, Kanpur",26.45041,80.399494
+BD-1087,Vikas Tiwari,Painter,4.0,3.7,9249943948,"Barra 3, Kanpur",26.425874,80.413559
+BD-1088,Naresh Gupta,Drywaller,10.0,4.9,9365860669,"Chakeri, Kanpur",26.516977,80.390637
+BD-1089,Ajay Srivastava,Architect,7.0,3.6,9680107164,"Ashok Nagar, Kanpur",26.42867,80.280325
+BD-1090,Arjun Sharma,Structural Engineer,19.0,4.6,9153606218,"Sarvodaya Nagar, Kanpur",26.461897,80.402914
+BD-1091,Ajay Pandey,Structural Engineer,4.0,4.0,9117218163,"Dada Nagar, Kanpur",26.432476,80.352344
+BD-1092,Vikas Verma,Glazier,4.0,4.0,9022873975,"Lal Bangla, Kanpur",26.491541,80.411138
+BD-1093,Amit Mishra,Drywaller,15.0,4.3,9024293635,"General Ganj, Kanpur",26.46535,80.269293
+BD-1094,Gaurav Tripathi,Electrician,19.0,4.8,9958715358,"Moti Jheel, Kanpur",26.48662,80.338652
+BD-1095,Ankit Srivastava,Construction Laborer,10.0,4.0,9809288172,"Darshan Purwa, Kanpur",26.441362,80.306468
+BD-1096,Gaurav Yadav,Mason,9.0,3.8,9144263484,"Shastri Nagar, Kanpur",26.454806,80.332895
+BD-1097,Ankit Yadav,Mason,19.0,3.9,9380966441,"Lajpat Nagar, Kanpur",26.404727,80.412139
+BD-1098,Vijay Sharma,Landscaper,9.0,4.3,9141970740,"Harsh Nagar, Kanpur",26.393938,80.376969
+BD-1099,Amit Mishra,Handyman,14.0,4.9,9498429568,"Fazal Ganj, Kanpur",26.438224,80.35685
+BD-1100,Arjun Singh,Landscaper,4.0,4.7,9521513137,"Kalpi Road, Kanpur",26.435779,80.380352
+BD-1101,Deepak Singh,Electrician,22.0,4.8,9516781746,"Lal Bangla, Kanpur",26.496851,80.38084
+BD-1102,Ankit Tiwari,Structural Engineer,6.0,5.0,9384404928,"Barra 2, Kanpur",26.431713,80.415461
+BD-1103,Naresh Srivastava,Construction Laborer,1.0,3.6,9444277607,"Kalyanpur, Kanpur",26.401886,80.255346
+BD-1104,Gaurav Pandey,Handyman,5.0,4.2,9575173671,"Darshan Purwa, Kanpur",26.409578,80.344357
+BD-1105,Arjun Srivastava,Drywaller,12.0,3.7,9496438962,"Juhi, Kanpur",26.389299,80.380124
+BD-1106,Vijay Tiwari,HVAC Technician,10.0,3.8,9771628347,"Panki, Kanpur",26.413,80.390927
+BD-1107,Vijay Maurya,Roofer,4.0,4.3,9708943350,"Ganga Barrage, Kanpur",26.443505,80.322072
+BD-1108,Gaurav Sharma,Construction Laborer,18.0,4.2,9789681435,"Shyam Nagar, Kanpur",26.455242,80.349944
+BD-1109,Nikhil Srivastava,HVAC Technician,18.0,4.2,9707464835,"Tilak Nagar, Kanpur",26.406097,80.364903
+BD-1110,Rahul Tripathi,Construction Laborer,15.0,4.5,9227257902,"Swaroop Nagar, Kanpur",26.504931,80.365123
+BD-1111,Naresh Sharma,Construction Laborer,15.0,3.9,9070334285,"Jajmau, Kanpur",26.42102,80.392248
+BD-1112,Gaurav Pandey,Carpenter,9.0,3.7,9509951144,"Vikas Nagar, Kanpur",26.479422,80.297249
+BD-1113,Naresh Pal,Architect,11.0,3.7,9667641530,"Barra 6, Kanpur",26.466001,80.334881
+BD-1114,Amit Srivastava,HVAC Technician,11.0,4.8,9238543087,"Eldeco Colony, Kanpur",26.451857,80.296185
+BD-1115,Salman Mishra,Electrician,21.0,4.8,9257365461,"Barra 2, Kanpur",26.458017,80.297115
+BD-1116,Ankit Khan,Architect,1.0,3.7,9484226046,"Pandu Nagar, Kanpur",26.498181,80.25303
+BD-1117,Salman Singh,Plumber,13.0,4.9,9433128640,"Nawabganj, Kanpur",26.402315,80.258191
+BD-1118,Salman Gupta,Roofer,22.0,4.4,9116095366,"Naubasta, Kanpur",26.428982,80.378219
+BD-1119,Prakash Yadav,Welder,11.0,4.5,9413527179,"Mandhana, Kanpur",26.51171,80.35185
+BD-1120,Arjun Mishra,Plumber,18.0,4.7,9822041422,"Indira Nagar, Kanpur",26.49205,80.370375
+BD-1121,Vijay Yadav,Painter,17.0,4.8,9925124929,"Ratan Lal Nagar, Kanpur",26.406376,80.364534
+BD-1122,Ravi Verma,General Contractor,15.0,4.2,9390846839,"Panki, Kanpur",26.495456,80.407844
+BD-1123,Manoj Tiwari,HVAC Technician,7.0,4.5,9747719569,"Azad Nagar, Kanpur",26.413591,80.360899
+BD-1124,Rohit Gupta,Structural Engineer,16.0,4.4,9166034332,"Vishnupuri, Kanpur",26.470751,80.357169
+BD-1125,Nikhil Maurya,Welder,16.0,4.8,9797145933,"Pandu Nagar, Kanpur",26.484524,80.316243
+BD-1126,Vijay Tiwari,Landscaper,19.0,4.6,9010747463,"Chakeri, Kanpur",26.516737,80.281688
+BD-1127,Vikas Tripathi,General Contractor,4.0,4.3,9406917685,"Shyam Nagar, Kanpur",26.490983,80.344375
+BD-1128,Vikas Singh,Painter,3.0,3.7,9704650561,"Vikas Nagar, Kanpur",26.50699,80.333486
+BD-1129,Vikas Pandey,Tiler,19.0,4.1,9439324410,"Jajmau, Kanpur",26.489805,80.406972
+BD-1130,Rahul Tiwari,Electrician,10.0,4.0,9395004714,"Lal Bangla, Kanpur",26.418762,80.313883
+BD-1131,Arjun Tiwari,Structural Engineer,12.0,3.7,9057247604,"Armapur Estate, Kanpur",26.473424,80.317916
+BD-1132,Sandeep Maurya,Construction Laborer,13.0,4.2,9471178506,"Sarvodaya Nagar, Kanpur",26.403432,80.309476
+BD-1133,Ravi Gupta,Handyman,6.0,4.7,9006457215,"Fazal Ganj, Kanpur",26.50942,80.326207
+BD-1134,Nikhil Gupta,Mason,13.0,4.4,9678866171,"Tilak Nagar, Kanpur",26.388751,80.306338
+BD-1135,Rahul Sharma,Painter,21.0,3.9,9893873849,"Ashok Nagar, Kanpur",26.473201,80.377133
+BD-1136,Manoj Pal,Landscaper,18.0,3.9,9656573380,"Nawabganj, Kanpur",26.497627,80.398706
+BD-1137,Ankit Tiwari,Painter,20.0,4.8,9068491007,"Harjinder Nagar, Kanpur",26.474678,80.329448
+BD-1138,Gaurav Tripathi,Construction Laborer,3.0,3.9,9185062793,"Shastri Nagar, Kanpur",26.407197,80.280945
+BD-1139,Ajay Gupta,Landscaper,8.0,4.1,9268555813,"Bithoor, Kanpur",26.482178,80.344679
+BD-1140,Nikhil Pandey,Civil Engineer,20.0,3.7,9974001621,"Eldeco Colony, Kanpur",26.406092,80.392259
+BD-1141,Naresh Verma,Landscaper,3.0,3.7,9575716127,"Ratan Lal Nagar, Kanpur",26.451127,80.382176
+BD-1142,Rohit Tiwari,HVAC Technician,10.0,4.2,9653111847,"Jawahar Nagar, Kanpur",26.455249,80.262472
+BD-1143,Rohit Pal,Architect,18.0,4.9,9238536705,"Juhi, Kanpur",26.415681,80.368192
+BD-1144,Nikhil Verma,Drywaller,20.0,4.7,9102649356,"Tilak Nagar, Kanpur",26.5,80.323852
+BD-1145,Deepak Tripathi,Architect,9.0,4.9,9344505339,"Jawahar Nagar, Kanpur",26.506712,80.322292
+BD-1146,Deepak Maurya,Tiler,20.0,4.5,9233233788,"Azad Nagar, Kanpur",26.435049,80.407179
+BD-1147,Ankit Verma,Drywaller,1.0,4.2,9903326105,"Tilak Nagar, Kanpur",26.412849,80.400342
+BD-1148,Arjun Mishra,Structural Engineer,11.0,4.8,9483390745,"Juhi, Kanpur",26.514247,80.31545
+BD-1149,Deepak Gupta,Electrician,8.0,4.7,9608749392,"Yashoda Nagar, Kanpur",26.400175,80.402021
+BD-1150,Nikhil Sharma,Flooring Installer,1.0,4.8,9647203037,"Becon Ganj, Kanpur",26.417935,80.260959
+BD-1151,Prakash Gupta,Flooring Installer,13.0,5.0,9771355545,"Fazal Ganj, Kanpur",26.394236,80.26376
+BD-1152,Manoj Singh,Welder,14.0,3.9,9665256570,"Barra 3, Kanpur",26.447718,80.415618
+BD-1153,Naresh Mishra,Roofer,6.0,4.9,9183489476,"Lal Bangla, Kanpur",26.485667,80.338204
+BD-1154,Nikhil Sharma,Electrician,14.0,4.6,9879616371,"Moti Jheel, Kanpur",26.430384,80.365689
+BD-1155,Amit Tiwari,Drywaller,14.0,4.5,9075037811,"Azad Nagar, Kanpur",26.405122,80.277626
+BD-1156,Nikhil Singh,Architect,2.0,4.2,9486178968,"Barra 7, Kanpur",26.495503,80.344409
+BD-1157,Gaurav Pandey,Welder,18.0,4.4,9262200150,"Arya Nagar, Kanpur",26.447549,80.293982
+BD-1158,Ankit Gupta,Drywaller,7.0,3.7,9432338834,"Jajmau, Kanpur",26.5132,80.3433
+BD-1159,Nikhil Pandey,Handyman,14.0,3.6,9120616427,"Nawabganj, Kanpur",26.447331,80.327985
+BD-1160,Vijay Pal,Tiler,19.0,4.0,9788748871,"Mall Road, Kanpur",26.398568,80.275962
+BD-1161,Rahul Khan,Flooring Installer,14.0,3.7,9161680128,"Barra 4, Kanpur",26.447681,80.27313
+BD-1162,Rahul Pal,Electrician,7.0,4.1,9116441662,"Kidwai Nagar, Kanpur",26.395635,80.400188
+BD-1163,Rahul Mishra,Electrician,15.0,4.7,9563915451,"Birhana Road, Kanpur",26.479628,80.258292
+BD-1164,Deepak Sharma,Structural Engineer,4.0,4.3,9455199915,"Barra 8, Kanpur",26.408148,80.374624
+BD-1165,Ankit Tiwari,Welder,11.0,3.8,9549153850,"Bithoor, Kanpur",26.40529,80.297066
+BD-1166,Gaurav Yadav,Carpenter,2.0,4.3,9626688842,"Barra 4, Kanpur",26.406521,80.268653
+BD-1167,Ajay Verma,Welder,9.0,4.3,9712071564,"Kalpi Road, Kanpur",26.396506,80.269995
+BD-1168,Imran Yadav,Electrician,18.0,3.9,9845684131,"Ratan Lal Nagar, Kanpur",26.386679,80.408527
+BD-1169,Ankit Verma,Drywaller,4.0,4.0,9259918741,"Ashok Nagar, Kanpur",26.38893,80.277494
+BD-1170,Gaurav Pal,Mason,15.0,3.9,9081023306,"Sarvodaya Nagar, Kanpur",26.459555,80.302975
+BD-1171,Sandeep Pandey,Mason,7.0,4.9,9135145055,"Eldeco Colony, Kanpur",26.477506,80.345006
+BD-1172,Vijay Khan,Handyman,4.0,4.8,9166881230,"Kalyanpur, Kanpur",26.504229,80.377176
+BD-1173,Vikas Singh,Tiler,22.0,3.6,9458384315,"Barra 5, Kanpur",26.391543,80.407929
+BD-1174,Nikhil Singh,Glazier,21.0,3.9,9512852737,"General Ganj, Kanpur",26.454624,80.262582
+BD-1175,Ajay Pal,Glazier,14.0,3.9,9730888900,"Eldeco Colony, Kanpur",26.418107,80.325927
+BD-1176,Amit Srivastava,Drywaller,13.0,4.2,9207171349,"Sarvodaya Nagar, Kanpur",26.504066,80.367368
+BD-1177,Arjun Singh,Painter,6.0,4.2,9036078264,"Barra 1, Kanpur",26.469858,80.369149
+BD-1178,Sandeep Khan,Glazier,18.0,4.9,9722943713,"Bithoor, Kanpur",26.386782,80.398338
+BD-1179,Ravi Pal,General Contractor,13.0,4.3,9771265903,"Lajpat Nagar, Kanpur",26.474689,80.396281
+BD-1180,Salman Mishra,Architect,22.0,4.6,9960872148,"Harsh Nagar, Kanpur",26.389267,80.321894
+BD-1181,Salman Sharma,Mason,18.0,4.7,9771116426,"Arya Nagar, Kanpur",26.470998,80.267947
+BD-1182,Salman Khan,Carpenter,19.0,4.7,9128227294,"Kakadeo, Kanpur",26.431613,80.332507
+BD-1183,Vikas Mishra,Electrician,6.0,4.3,9136146369,"Ratan Lal Nagar, Kanpur",26.424331,80.349407
+BD-1184,Imran Pal,Construction Laborer,18.0,4.8,9934912871,"Moti Jheel, Kanpur",26.49053,80.268808
+BD-1185,Prakash Mishra,Construction Laborer,18.0,4.6,9000764000,"Swaroop Nagar, Kanpur",26.453292,80.342458
+BD-1186,Prakash Singh,Mason,10.0,4.9,9250376621,"Saket Nagar, Kanpur",26.462146,80.264767
+BD-1187,Rahul Srivastava,Flooring Installer,5.0,4.2,9068870781,"Bithoor, Kanpur",26.425199,80.360118
+BD-1188,Amit Verma,Roofer,4.0,4.5,9645134974,"Bhauti, Kanpur",26.496741,80.369223
+BD-1189,Rohit Mishra,Drywaller,3.0,4.3,9816557712,"Chakeri, Kanpur",26.474292,80.333245
+BD-1190,Deepak Sharma,HVAC Technician,16.0,4.8,9239642346,"Kidwai Nagar, Kanpur",26.510774,80.267511
+BD-1191,Imran Tiwari,Construction Laborer,14.0,4.2,9207684017,"Kalpi Road, Kanpur",26.418675,80.418068
+BD-1192,Gaurav Srivastava,Roofer,11.0,3.9,9798937020,"Harjinder Nagar, Kanpur",26.454407,80.376457
+BD-1193,Naresh Pal,Landscaper,9.0,3.9,9032617674,"Arya Nagar, Kanpur",26.515984,80.366151
+BD-1194,Vijay Verma,Carpenter,4.0,4.1,9534645972,"Mandhana, Kanpur",26.457014,80.32713
+BD-1195,Imran Pal,Electrician,11.0,4.6,9731608153,"General Ganj, Kanpur",26.483048,80.413352
+BD-1196,Arjun Srivastava,Civil Engineer,4.0,4.0,9482525666,"Bithoor, Kanpur",26.483662,80.266033
+BD-1197,Arjun Mishra,Handyman,4.0,4.3,9433150872,"Mall Road, Kanpur",26.514278,80.311521
+BD-1198,Rohit Pal,Landscaper,15.0,3.7,9606472243,"Mall Road, Kanpur",26.381176,80.406935
+BD-1199,Vikas Pandey,Mason,13.0,4.8,9697850580,"Jawahar Nagar, Kanpur",26.480711,80.263463
+BD-1200,Rohit Tripathi,Roofer,19.0,3.8,9535468514,"Sarvodaya Nagar, Kanpur",26.486679,80.310436
+BD-1201,Rohit Maurya,Roofer,15.0,4.7,9656514319,"Naubasta, Kanpur",26.444941,80.343696
+BD-1202,Ajay Verma,Architect,19.0,4.1,9645975714,"Govind Nagar, Kanpur",26.40085,80.349599
+BD-1203,Nikhil Singh,Carpenter,14.0,3.7,9593584165,"Barra 5, Kanpur",26.487337,80.329486
+BD-1204,Vijay Maurya,HVAC Technician,17.0,4.0,9582676341,"Sarvodaya Nagar, Kanpur",26.456886,80.349414
+BD-1205,Manoj Pandey,Painter,6.0,4.9,9740615040,"Swaroop Nagar, Kanpur",26.414922,80.251483
+BD-1206,Nikhil Maurya,Electrician,21.0,3.6,9634124563,"Chunni Ganj, Kanpur",26.49366,80.413834
+BD-1207,Naresh Sharma,HVAC Technician,20.0,3.6,9045326134,"Barra 5, Kanpur",26.402872,80.283217
+BD-1208,Ankit Maurya,Handyman,1.0,4.7,9983372772,"Shyam Nagar, Kanpur",26.516938,80.391209
+BD-1209,Deepak Gupta,Carpenter,5.0,3.9,9724315628,"Vishnupuri, Kanpur",26.437815,80.363332
+BD-1210,Rahul Verma,HVAC Technician,1.0,4.7,9897558190,"Lal Bangla, Kanpur",26.510677,80.377328
+BD-1211,Gaurav Tiwari,General Contractor,18.0,4.5,9801386181,"Bithoor, Kanpur",26.44142,80.363644
+BD-1212,Ajay Sharma,Landscaper,18.0,3.9,9543265342,"Barra 4, Kanpur",26.516802,80.389407
+BD-1213,Manoj Singh,Painter,11.0,4.6,9634481964,"Fazal Ganj, Kanpur",26.443668,80.268109
+BD-1214,Rahul Yadav,Painter,20.0,5.0,9814727153,"Mandhana, Kanpur",26.501741,80.387093
+BD-1215,Ravi Pandey,Plumber,21.0,4.0,9847435820,"Birhana Road, Kanpur",26.421911,80.333089
+BD-1216,Arjun Khan,Tiler,4.0,4.3,9326816077,"Nawabganj, Kanpur",26.392371,80.375082
+BD-1217,Deepak Tripathi,Carpenter,13.0,4.0,9527551699,"Fazal Ganj, Kanpur",26.496394,80.365727
+BD-1218,Deepak Yadav,Carpenter,3.0,3.7,9017448971,"Sarvodaya Nagar, Kanpur",26.48613,80.383375
+BD-1219,Prakash Tiwari,Handyman,1.0,4.9,9373935561,"Pandu Nagar, Kanpur",26.490255,80.342566
+BD-1220,Deepak Srivastava,Carpenter,10.0,3.9,9041809450,"G.T. Road, Kanpur",26.43737,80.372788
+BD-1221,Vijay Yadav,Welder,17.0,4.3,9043541128,"Jawahar Nagar, Kanpur",26.401439,80.408005
+BD-1222,Imran Khan,Mason,1.0,4.6,9056387929,"Barra 4, Kanpur",26.403325,80.376478
+BD-1223,Manoj Pal,General Contractor,19.0,4.2,9026757392,"Mandhana, Kanpur",26.518918,80.313282
+BD-1224,Sandeep Singh,Welder,2.0,4.3,9862488944,"Naubasta, Kanpur",26.437873,80.405072
+BD-1225,Prakash Gupta,Glazier,20.0,4.3,9344021953,"Harjinder Nagar, Kanpur",26.483235,80.300943
+BD-1226,Prakash Gupta,HVAC Technician,22.0,4.5,9727448244,"Moti Jheel, Kanpur",26.417118,80.28049
+BD-1227,Nikhil Gupta,Handyman,16.0,3.6,9418153905,"Barra 5, Kanpur",26.457563,80.373584
+BD-1228,Arjun Yadav,Electrician,1.0,4.6,9938574134,"Barra 6, Kanpur",26.478468,80.401587
+BD-1229,Gaurav Pandey,Flooring Installer,2.0,4.0,9778762601,"Saket Nagar, Kanpur",26.495071,80.311198
+BD-1230,Ravi Yadav,Roofer,6.0,4.0,9243426034,"Kakadeo, Kanpur",26.466218,80.336233
+BD-1231,Vikas Gupta,Tiler,18.0,4.4,9102041850,"Kalyanpur, Kanpur",26.410478,80.330198
+BD-1232,Vijay Sharma,Civil Engineer,21.0,3.6,9417776737,"Sarvodaya Nagar, Kanpur",26.398874,80.260457
+BD-1233,Amit Mishra,HVAC Technician,19.0,4.4,9960015720,"Armapur Estate, Kanpur",26.492077,80.283726
+BD-1234,Salman Tripathi,Structural Engineer,8.0,4.7,9152559850,"Vishnupuri, Kanpur",26.470639,80.280619
+BD-1235,Manoj Tripathi,Flooring Installer,7.0,3.6,9557899876,"Birhana Road, Kanpur",26.473925,80.256433
+BD-1236,Ravi Maurya,Welder,20.0,4.3,9869256179,"Indira Nagar, Kanpur",26.44449,80.320511
+BD-1237,Rohit Verma,Drywaller,20.0,3.7,9470007231,"Bhauti, Kanpur",26.420121,80.369315
+BD-1238,Amit Pal,HVAC Technician,7.0,3.7,9516439827,"Lajpat Nagar, Kanpur",26.507828,80.327661
+BD-1239,Sandeep Gupta,Tiler,8.0,4.3,9122160921,"Chakeri, Kanpur",26.509515,80.264428
+BD-1240,Rahul Verma,Landscaper,19.0,4.0,9572017411,"Dada Nagar, Kanpur",26.413543,80.262674
+BD-1241,Vikas Pandey,Architect,9.0,4.7,9974633940,"Lajpat Nagar, Kanpur",26.454944,80.387225
+BD-1242,Naresh Pal,Flooring Installer,12.0,3.7,9066757044,"Civil Lines, Kanpur",26.401705,80.411393
+BD-1243,Sandeep Sharma,Welder,18.0,4.6,9252293508,"Lajpat Nagar, Kanpur",26.437652,80.386436
+BD-1244,Arjun Sharma,Carpenter,19.0,4.8,9308124812,"Dada Nagar, Kanpur",26.391133,80.36155
+BD-1245,Vikas Srivastava,Electrician,3.0,4.1,9424127594,"Barra 3, Kanpur",26.443661,80.394748
+BD-1246,Gaurav Yadav,Civil Engineer,4.0,3.9,9261106102,"Harsh Nagar, Kanpur",26.430307,80.350466
+BD-1247,Gaurav Mishra,Flooring Installer,18.0,5.0,9755611627,"Barra 2, Kanpur",26.38341,80.263849
+BD-1248,Nikhil Sharma,Civil Engineer,20.0,4.3,9123423085,"Bhauti, Kanpur",26.392118,80.30421
+BD-1249,Salman Tiwari,Welder,8.0,4.7,9507472999,"Ashok Nagar, Kanpur",26.451078,80.271021
+BD-1250,Manoj Pandey,Roofer,14.0,3.6,9309010422,"Barra 8, Kanpur",26.478238,80.369834
+BD-1251,Amit Tiwari,Handyman,2.0,4.2,9994910363,"Becon Ganj, Kanpur",26.460364,80.287891
+BD-1252,Ankit Yadav,Flooring Installer,3.0,3.9,9255036974,"Civil Lines, Kanpur",26.412889,80.298609
+BD-1253,Vikas Verma,Flooring Installer,19.0,3.7,9097227109,"Jawahar Nagar, Kanpur",26.412759,80.257365
+BD-1254,Vijay Mishra,Civil Engineer,11.0,4.2,9999071373,"Sarvodaya Nagar, Kanpur",26.380525,80.257247
+BD-1255,Ankit Sharma,Handyman,7.0,4.9,9048973663,"Kalpi Road, Kanpur",26.497196,80.404963
+BD-1256,Rohit Srivastava,Painter,13.0,4.9,9609528401,"Nawabganj, Kanpur",26.499351,80.296203
+BD-1257,Rohit Pandey,Tiler,19.0,4.9,9378378076,"General Ganj, Kanpur",26.519454,80.394887
+BD-1258,Manoj Mishra,Electrician,7.0,3.9,9677173791,"Vishnupuri, Kanpur",26.515771,80.261593
+BD-1259,Sandeep Tripathi,Civil Engineer,10.0,3.9,9612658642,"Tilak Nagar, Kanpur",26.46214,80.35941
+BD-1260,Gaurav Tiwari,General Contractor,9.0,4.0,9125574016,"G.T. Road, Kanpur",26.418372,80.372207
+BD-1261,Gaurav Pal,Landscaper,4.0,3.8,9148381320,"Moti Jheel, Kanpur",26.445858,80.341044
+BD-1262,Deepak Sharma,Roofer,13.0,3.7,9149277720,"Chakeri, Kanpur",26.404724,80.381683
+BD-1263,Rohit Pandey,Painter,2.0,3.9,9255452579,"Saket Nagar, Kanpur",26.482343,80.366746
+BD-1264,Gaurav Tripathi,Structural Engineer,15.0,3.9,9911554303,"Chunni Ganj, Kanpur",26.392414,80.290173
+BD-1265,Ravi Pandey,Plumber,7.0,4.7,9009575425,"Saket Nagar, Kanpur",26.484656,80.257126
+BD-1266,Vijay Pandey,Civil Engineer,6.0,4.4,9897935995,"General Ganj, Kanpur",26.38379,80.406589
+BD-1267,Ankit Mishra,Painter,3.0,3.8,9152627790,"Kakadeo, Kanpur",26.415003,80.301807
+BD-1268,Rahul Singh,Architect,1.0,4.3,9709099604,"Barra 7, Kanpur",26.461056,80.328065
+BD-1269,Ajay Mishra,Electrician,21.0,4.0,9940285974,"Azad Nagar, Kanpur",26.433232,80.320626
+BD-1270,Vijay Tiwari,Construction Laborer,3.0,4.9,9496763391,"Kidwai Nagar, Kanpur",26.469569,80.307159
+BD-1271,Sandeep Srivastava,Mason,20.0,3.6,9898957884,"Azad Nagar, Kanpur",26.515953,80.395217
+BD-1272,Vijay Mishra,Architect,14.0,4.4,9882815846,"Sarvodaya Nagar, Kanpur",26.492971,80.275899
+BD-1273,Ajay Gupta,Architect,16.0,3.8,9737340387,"Jawahar Nagar, Kanpur",26.474894,80.409266
+BD-1274,Deepak Maurya,Glazier,13.0,3.6,9662767127,"Eldeco Colony, Kanpur",26.395302,80.382386
+BD-1275,Vijay Pandey,Flooring Installer,6.0,4.2,9163639698,"Kalpi Road, Kanpur",26.416071,80.281175
+BD-1276,Sandeep Gupta,Plumber,15.0,4.7,9684483056,"Kidwai Nagar, Kanpur",26.490549,80.401697
+BD-1277,Gaurav Singh,Electrician,14.0,4.0,9352681960,"Barra 8, Kanpur",26.463524,80.27812
+BD-1278,Ajay Tiwari,Drywaller,15.0,4.5,9973087490,"Saket Nagar, Kanpur",26.470401,80.373927
+BD-1279,Prakash Tiwari,Welder,22.0,4.7,9944107568,"Lajpat Nagar, Kanpur",26.411344,80.384127
+BD-1280,Sandeep Yadav,Welder,7.0,3.8,9622312012,"Barra 1, Kanpur",26.513968,80.271207
+BD-1281,Naresh Sharma,Tiler,15.0,4.5,9876853637,"Vikas Nagar, Kanpur",26.50546,80.40213
+BD-1282,Gaurav Pandey,Plumber,21.0,4.8,9551427054,"Barra 8, Kanpur",26.475566,80.258281
+BD-1283,Ravi Sharma,Handyman,2.0,4.0,9249526785,"Shastri Nagar, Kanpur",26.506545,80.417593
+BD-1284,Prakash Tripathi,Painter,4.0,4.6,9580289915,"Harsh Nagar, Kanpur",26.460036,80.340193
+BD-1285,Prakash Gupta,HVAC Technician,9.0,4.6,9780402192,"Harsh Nagar, Kanpur",26.465298,80.393972
+BD-1286,Manoj Gupta,Welder,18.0,4.3,9532395256,"Kalyanpur, Kanpur",26.469246,80.263795
+BD-1287,Vikas Tripathi,Flooring Installer,16.0,4.0,9026579104,"Lajpat Nagar, Kanpur",26.466227,80.413901
+BD-1288,Prakash Sharma,Drywaller,17.0,3.9,9600723303,"Tilak Nagar, Kanpur",26.479794,80.365067
+BD-1289,Rahul Khan,Drywaller,11.0,4.1,9051770878,"Armapur Estate, Kanpur",26.498331,80.265386
+BD-1290,Sandeep Yadav,Glazier,22.0,5.0,9060743035,"Kakadeo, Kanpur",26.503267,80.362881
+BD-1291,Arjun Srivastava,Handyman,20.0,3.8,9904782066,"Lal Bangla, Kanpur",26.492076,80.276618
+BD-1292,Manoj Gupta,Painter,21.0,3.9,9199007566,"Pandu Nagar, Kanpur",26.495477,80.301186
+BD-1293,Rohit Verma,Flooring Installer,15.0,5.0,9700721596,"Mandhana, Kanpur",26.473861,80.357237
+BD-1294,Rohit Sharma,Roofer,1.0,3.9,9452093531,"G.T. Road, Kanpur",26.49728,80.260923
+BD-1295,Vikas Tiwari,Handyman,8.0,4.6,9256942969,"Govind Nagar, Kanpur",26.401728,80.372314
+BD-1296,Salman Verma,Construction Laborer,8.0,4.2,9240330393,"Nawabganj, Kanpur",26.484963,80.261083
+BD-1297,Amit Tiwari,Carpenter,14.0,4.7,9109589843,"Dada Nagar, Kanpur",26.453126,80.301285
+BD-1298,Imran Khan,HVAC Technician,6.0,4.0,9117262442,"Nayaganj, Kanpur",26.434268,80.26904
+BD-1299,Ajay Tripathi,Construction Laborer,5.0,3.9,9258469404,"Nayaganj, Kanpur",26.433039,80.278324
+BD-1300,Amit Pandey,Civil Engineer,5.0,4.7,9497961285,"Ganga Barrage, Kanpur",26.396246,80.362542
+BD-1301,Nikhil Singh,Electrician,14.0,3.9,9074348496,"Kalyanpur, Kanpur",26.40684,80.25548
+BD-1302,Naresh Gupta,Painter,8.0,4.0,9665985314,"Barra 6, Kanpur",26.450539,80.375243
+BD-1303,Nikhil Tiwari,Welder,18.0,5.0,9447658009,"Shastri Nagar, Kanpur",26.390346,80.281963
+BD-1304,Naresh Gupta,Drywaller,4.0,3.6,9894263874,"Lajpat Nagar, Kanpur",26.468057,80.415956
+BD-1305,Prakash Sharma,Carpenter,3.0,5.0,9562798637,"Fazal Ganj, Kanpur",26.443707,80.343734
+BD-1306,Salman Pandey,Plumber,6.0,4.9,9430672232,"Ganga Barrage, Kanpur",26.439245,80.403267
+BD-1307,Sandeep Singh,Plumber,7.0,4.0,9655784624,"Yashoda Nagar, Kanpur",26.392679,80.26048
+BD-1308,Gaurav Verma,Architect,8.0,4.6,9361481526,"Nayaganj, Kanpur",26.409353,80.291815
+BD-1309,Vikas Tiwari,Drywaller,21.0,4.2,9365521308,"Arya Nagar, Kanpur",26.458553,80.396338
+BD-1310,Imran Yadav,Drywaller,2.0,4.6,9651277535,"Swaroop Nagar, Kanpur",26.433191,80.341213
+BD-1311,Gaurav Pandey,Carpenter,15.0,4.0,9363789992,"Barra 6, Kanpur",26.400946,80.366554
+BD-1312,Imran Yadav,Painter,13.0,4.3,9931499202,"Jawahar Nagar, Kanpur",26.406896,80.366059
+BD-1313,Ankit Pandey,Mason,18.0,4.3,9335928163,"Lal Bangla, Kanpur",26.411314,80.371273
+BD-1314,Salman Verma,Handyman,14.0,4.7,9042572031,"Vishnupuri, Kanpur",26.455586,80.405642
+BD-1315,Amit Mishra,Civil Engineer,22.0,4.6,9128282349,"Civil Lines, Kanpur",26.490435,80.363234
+BD-1316,Vikas Pal,Drywaller,2.0,4.3,9137401341,"Bhauti, Kanpur",26.440315,80.319852
+BD-1317,Ajay Singh,Electrician,10.0,4.6,9200041939,"Chunni Ganj, Kanpur",26.411815,80.303468
+BD-1318,Manoj Singh,Carpenter,22.0,4.1,9350370618,"Jawahar Nagar, Kanpur",26.482225,80.391341
+BD-1319,Sandeep Khan,Structural Engineer,10.0,4.5,9678133833,"Swaroop Nagar, Kanpur",26.448951,80.398007
+BD-1320,Manoj Pal,Glazier,1.0,4.5,9196245384,"Tilak Nagar, Kanpur",26.38015,80.393049
+BD-1321,Ajay Tripathi,Structural Engineer,11.0,4.2,9059599667,"Barra 1, Kanpur",26.397302,80.417567
+BD-1322,Amit Tiwari,Architect,8.0,4.6,9417715865,"Sarvodaya Nagar, Kanpur",26.427383,80.265842
+BD-1323,Sandeep Maurya,Landscaper,15.0,3.9,9568499026,"Jajmau, Kanpur",26.419778,80.307236
+BD-1324,Deepak Mishra,Mason,20.0,4.8,9801394027,"Ratan Lal Nagar, Kanpur",26.418185,80.268775
+BD-1325,Nikhil Srivastava,Carpenter,4.0,4.9,9456890500,"Fazal Ganj, Kanpur",26.484081,80.254411
+BD-1326,Salman Pal,Electrician,11.0,3.9,9157914487,"Civil Lines, Kanpur",26.401862,80.31008
+BD-1327,Ravi Yadav,Architect,4.0,4.5,9240629111,"Chunni Ganj, Kanpur",26.389782,80.324897
+BD-1328,Vijay Khan,General Contractor,2.0,4.4,9895471937,"Bithoor, Kanpur",26.446163,80.364673
+BD-1329,Nikhil Yadav,General Contractor,4.0,4.5,9214632392,"Bhauti, Kanpur",26.510122,80.346058
+BD-1330,Arjun Khan,Handyman,1.0,3.9,9119797399,"Tilak Nagar, Kanpur",26.399075,80.353163
+BD-1331,Amit Srivastava,Plumber,20.0,4.3,9290100354,"Vikas Nagar, Kanpur",26.488126,80.358275
+BD-1332,Nikhil Tiwari,HVAC Technician,19.0,4.7,9969866876,"Barra 6, Kanpur",26.492929,80.297308
+BD-1333,Manoj Khan,Landscaper,4.0,4.2,9439646831,"Chakeri, Kanpur",26.428297,80.282151
+BD-1334,Nikhil Tiwari,Mason,5.0,3.6,9137592820,"Barra 4, Kanpur",26.503822,80.285205
+BD-1335,Naresh Singh,Handyman,3.0,4.2,9090766174,"Barra 2, Kanpur",26.391156,80.311203
+BD-1336,Deepak Yadav,Tiler,14.0,4.1,9852508251,"Panki, Kanpur",26.463187,80.389314
+BD-1337,Salman Maurya,Structural Engineer,17.0,4.3,9317298098,"Vishnupuri, Kanpur",26.502565,80.267357
+BD-1338,Ajay Maurya,Civil Engineer,13.0,4.1,9044991276,"Ganga Barrage, Kanpur",26.403535,80.379749
+BD-1339,Manoj Maurya,Landscaper,20.0,5.0,9377593926,"Darshan Purwa, Kanpur",26.391204,80.305547
+BD-1340,Rohit Verma,Plumber,1.0,3.7,9762099427,"Vikas Nagar, Kanpur",26.43629,80.349026
+BD-1341,Manoj Tiwari,Flooring Installer,20.0,3.7,9091779740,"Civil Lines, Kanpur",26.461634,80.334936
+BD-1342,Amit Mishra,Welder,20.0,3.9,9689768759,"Shastri Nagar, Kanpur",26.390195,80.299641
+BD-1343,Ajay Maurya,Structural Engineer,9.0,4.8,9911683976,"Kalpi Road, Kanpur",26.421143,80.290687
+BD-1344,Nikhil Verma,Mason,20.0,4.5,9388157574,"Ashok Nagar, Kanpur",26.510971,80.29512
+BD-1345,Imran Singh,Carpenter,22.0,3.7,9279679515,"Kalpi Road, Kanpur",26.391274,80.255328
+BD-1346,Nikhil Yadav,Roofer,13.0,4.2,9812245072,"Kidwai Nagar, Kanpur",26.386389,80.264701
+BD-1347,Salman Pal,Roofer,9.0,4.4,9280555431,"Ratan Lal Nagar, Kanpur",26.48974,80.335991
+BD-1348,Vikas Gupta,Architect,15.0,4.8,9303011276,"Lal Bangla, Kanpur",26.41954,80.281896
+BD-1349,Imran Mishra,Civil Engineer,7.0,4.7,9567181238,"Barra 8, Kanpur",26.399634,80.366234
+BD-1350,Sandeep Maurya,Flooring Installer,5.0,3.7,9049047858,"Fazal Ganj, Kanpur",26.461949,80.33438
+BD-1351,Vijay Mishra,Landscaper,14.0,4.3,9630952397,"Jawahar Nagar, Kanpur",26.424447,80.25227
+BD-1352,Manoj Tiwari,Electrician,14.0,5.0,9735324816,"Lajpat Nagar, Kanpur",26.425976,80.361108
+BD-1353,Manoj Pal,Roofer,20.0,4.0,9519139038,"Dada Nagar, Kanpur",26.463585,80.410025
+BD-1354,Manoj Singh,HVAC Technician,6.0,4.9,9175187982,"Nawabganj, Kanpur",26.466779,80.38965
+BD-1355,Salman Tiwari,Construction Laborer,18.0,4.9,9590916713,"Indira Nagar, Kanpur",26.38443,80.258256
+BD-1356,Rahul Sharma,Civil Engineer,20.0,4.3,9404818922,"Fazal Ganj, Kanpur",26.51385,80.407346
+BD-1357,Amit Mishra,Plumber,1.0,4.3,9588192076,"Becon Ganj, Kanpur",26.496544,80.283428
+BD-1358,Gaurav Sharma,Painter,10.0,4.0,9655297607,"Moti Jheel, Kanpur",26.434441,80.267597
+BD-1359,Manoj Pal,Architect,2.0,4.5,9656844639,"Nawabganj, Kanpur",26.47562,80.265849
+BD-1360,Naresh Tripathi,Electrician,18.0,3.9,9313209161,"Harsh Nagar, Kanpur",26.494195,80.352228
+BD-1361,Manoj Verma,Drywaller,3.0,4.3,9972491166,"Barra 5, Kanpur",26.416172,80.38653
+BD-1362,Imran Tripathi,Welder,17.0,3.9,9041078048,"Ratan Lal Nagar, Kanpur",26.415641,80.389936
+BD-1363,Sandeep Pal,Welder,9.0,4.4,9619353944,"Juhi, Kanpur",26.471976,80.353009
+BD-1364,Ajay Sharma,Landscaper,16.0,4.2,9258173090,"Barra 3, Kanpur",26.491195,80.366447
+BD-1365,Ravi Srivastava,Welder,15.0,4.1,9119804076,"Naubasta, Kanpur",26.462128,80.335077
+BD-1366,Vikas Tiwari,Electrician,19.0,3.8,9681813000,"Arya Nagar, Kanpur",26.426497,80.311111
+BD-1367,Amit Maurya,Civil Engineer,9.0,3.9,9693014620,"Moti Jheel, Kanpur",26.42887,80.264087
+BD-1368,Ankit Sharma,General Contractor,17.0,4.4,9478090983,"Harjinder Nagar, Kanpur",26.500253,80.392938
+BD-1369,Vijay Verma,Glazier,18.0,3.9,9820652436,"Barra 2, Kanpur",26.495277,80.355825
+BD-1370,Naresh Mishra,General Contractor,6.0,4.3,9283435894,"Moti Jheel, Kanpur",26.50683,80.33338
+BD-1371,Manoj Tiwari,Plumber,21.0,4.1,9914148190,"Chakeri, Kanpur",26.437592,80.412312
+BD-1372,Rohit Sharma,Tiler,1.0,4.7,9857377696,"Armapur Estate, Kanpur",26.510672,80.284935
+BD-1373,Manoj Gupta,Construction Laborer,10.0,4.2,9612555244,"Yashoda Nagar, Kanpur",26.452467,80.337571
+BD-1374,Deepak Mishra,Architect,7.0,4.8,9243698949,"Lajpat Nagar, Kanpur",26.491834,80.310512
+BD-1375,Ankit Srivastava,Mason,2.0,4.4,9271380439,"Barra 5, Kanpur",26.47169,80.276172
+BD-1376,Rohit Srivastava,Civil Engineer,1.0,4.1,9829769961,"Kakadeo, Kanpur",26.432889,80.333324
+BD-1377,Manoj Mishra,Mason,2.0,4.5,9244472439,"Barra 8, Kanpur",26.505094,80.289717
+BD-1378,Ajay Yadav,Mason,7.0,4.1,9693499685,"Armapur Estate, Kanpur",26.496246,80.39483
+BD-1379,Salman Singh,Painter,4.0,4.3,9103507828,"Harjinder Nagar, Kanpur",26.508876,80.378286
+BD-1380,Amit Tripathi,HVAC Technician,14.0,4.8,9416336958,"Tilak Nagar, Kanpur",26.506124,80.374115
+BD-1381,Prakash Yadav,Landscaper,18.0,4.3,9570099750,"Armapur Estate, Kanpur",26.498563,80.287682
+BD-1382,Ravi Mishra,Tiler,14.0,4.1,9073319404,"Kalyanpur, Kanpur",26.400115,80.321036
+BD-1383,Prakash Sharma,General Contractor,12.0,4.3,9753398316,"Jawahar Nagar, Kanpur",26.385131,80.363355
+BD-1384,Nikhil Verma,Civil Engineer,16.0,4.1,9498149394,"Govind Nagar, Kanpur",26.511628,80.334646
+BD-1385,Rohit Pal,Construction Laborer,16.0,4.6,9419905774,"Barra 7, Kanpur",26.419733,80.314716
+BD-1386,Ravi Maurya,Handyman,1.0,3.6,9620937482,"Ratan Lal Nagar, Kanpur",26.446412,80.290179
+BD-1387,Imran Khan,Glazier,2.0,4.6,9500942953,"Ganga Barrage, Kanpur",26.415895,80.331151
+BD-1388,Vikas Khan,Handyman,13.0,4.5,9727711824,"Juhi, Kanpur",26.417896,80.345762
+BD-1389,Rahul Mishra,Drywaller,14.0,4.0,9770665680,"Mandhana, Kanpur",26.478585,80.299745
+BD-1390,Sandeep Tripathi,Painter,2.0,3.7,9844517211,"Nayaganj, Kanpur",26.385141,80.386653
+BD-1391,Ravi Mishra,General Contractor,9.0,4.9,9107366585,"Barra 1, Kanpur",26.391313,80.375798
+BD-1392,Nikhil Gupta,Handyman,15.0,3.7,9987642075,"Darshan Purwa, Kanpur",26.467893,80.294623
+BD-1393,Prakash Pandey,Plumber,18.0,4.7,9636963511,"Lal Bangla, Kanpur",26.446696,80.414697
+BD-1394,Rohit Singh,Mason,9.0,3.8,9472801445,"Shyam Nagar, Kanpur",26.426878,80.320944
+BD-1395,Manoj Pal,Structural Engineer,18.0,4.6,9691229478,"Naubasta, Kanpur",26.515541,80.415507
+BD-1396,Ravi Sharma,Electrician,19.0,4.6,9745961461,"Arya Nagar, Kanpur",26.507841,80.403667
+BD-1397,Ajay Khan,Painter,9.0,4.8,9796298243,"Harsh Nagar, Kanpur",26.469327,80.283258
+BD-1398,Amit Tripathi,Architect,16.0,4.3,9162215678,"Eldeco Colony, Kanpur",26.487582,80.267457
+BD-1399,Vikas Verma,HVAC Technician,11.0,4.7,9168082457,"Lal Bangla, Kanpur",26.479878,80.362003
+BD-1400,Salman Pal,Mason,13.0,5.0,9286951600,"Eldeco Colony, Kanpur",26.449773,80.282831
+BD-1401,Vikas Mishra,Glazier,12.0,4.7,9175661388,"Kidwai Nagar, Kanpur",26.409649,80.372081
+BD-1402,Vikas Yadav,Roofer,15.0,4.4,9720550062,"Kalpi Road, Kanpur",26.381633,80.355122
+BD-1403,Sandeep Tiwari,Structural Engineer,9.0,4.9,9538297722,"Eldeco Colony, Kanpur",26.49439,80.292485
+BD-1404,Nikhil Tiwari,Tiler,12.0,3.7,9160334507,"Darshan Purwa, Kanpur",26.509629,80.351654
+BD-1405,Ankit Yadav,Handyman,16.0,4.6,9813365652,"Mandhana, Kanpur",26.475274,80.258055
+BD-1406,Salman Mishra,Plumber,16.0,4.8,9372573955,"Kalyanpur, Kanpur",26.517888,80.412614
+BD-1407,Nikhil Yadav,Civil Engineer,19.0,3.9,9526633102,"Barra 4, Kanpur",26.464194,80.386605
+BD-1408,Prakash Srivastava,Mason,9.0,4.0,9271490449,"Pandu Nagar, Kanpur",26.501788,80.334175
+BD-1409,Nikhil Gupta,Electrician,11.0,4.8,9461150011,"Vikas Nagar, Kanpur",26.431461,80.366071
+BD-1410,Nikhil Mishra,Flooring Installer,2.0,3.9,9033558181,"Shastri Nagar, Kanpur",26.489387,80.273042
+BD-1411,Imran Singh,Landscaper,6.0,4.9,9221175970,"Armapur Estate, Kanpur",26.505683,80.358687
+BD-1412,Arjun Maurya,Electrician,20.0,4.5,9249159945,"Azad Nagar, Kanpur",26.428388,80.380468
+BD-1413,Vijay Tiwari,Painter,12.0,3.8,9529337211,"Ratan Lal Nagar, Kanpur",26.402423,80.290236
+BD-1414,Rohit Sharma,Roofer,21.0,4.1,9542659473,"General Ganj, Kanpur",26.473772,80.304348
+BD-1415,Imran Mishra,Carpenter,1.0,4.8,9740221590,"Barra 8, Kanpur",26.411776,80.299156
+BD-1416,Nikhil Tripathi,Carpenter,15.0,4.2,9038260704,"Armapur Estate, Kanpur",26.441906,80.37299
+BD-1417,Rohit Verma,Plumber,19.0,4.1,9742440625,"Chunni Ganj, Kanpur",26.399815,80.342964
+BD-1418,Sandeep Sharma,Tiler,10.0,4.6,9913834618,"Yashoda Nagar, Kanpur",26.401025,80.364645
+BD-1419,Ajay Khan,Glazier,2.0,4.9,9135985317,"Kidwai Nagar, Kanpur",26.492213,80.314291
+BD-1420,Vijay Sharma,General Contractor,9.0,4.4,9576602589,"Barra 3, Kanpur",26.454138,80.279214
+BD-1421,Salman Sharma,Tiler,15.0,4.5,9744041046,"Swaroop Nagar, Kanpur",26.500701,80.372615
+BD-1422,Gaurav Pandey,Carpenter,8.0,4.2,9026763673,"Dada Nagar, Kanpur",26.509664,80.356415
+BD-1423,Deepak Pandey,Tiler,13.0,4.3,9727756524,"Eldeco Colony, Kanpur",26.429154,80.314367
+BD-1424,Sandeep Gupta,Mason,18.0,4.8,9289602905,"Azad Nagar, Kanpur",26.406198,80.393582
+BD-1425,Sandeep Sharma,Roofer,13.0,3.8,9553331484,"Tilak Nagar, Kanpur",26.457309,80.338588
+BD-1426,Imran Maurya,Civil Engineer,14.0,3.6,9458424270,"Nayaganj, Kanpur",26.519807,80.274584
+BD-1427,Nikhil Pal,Landscaper,9.0,3.7,9682995333,"Kidwai Nagar, Kanpur",26.502542,80.415376
+BD-1428,Ravi Gupta,Construction Laborer,22.0,4.7,9949110813,"Civil Lines, Kanpur",26.471053,80.269293
+BD-1429,Nikhil Singh,Structural Engineer,15.0,4.7,9839903260,"Chunni Ganj, Kanpur",26.419606,80.410332
+BD-1430,Rohit Sharma,Tiler,7.0,3.6,9528055625,"Shyam Nagar, Kanpur",26.38418,80.330152
+BD-1431,Ajay Verma,Construction Laborer,11.0,4.1,9528280953,"Indira Nagar, Kanpur",26.38177,80.319948
+BD-1432,Nikhil Mishra,Welder,18.0,4.6,9637767171,"Ashok Nagar, Kanpur",26.502937,80.356153
+BD-1433,Vikas Pandey,Painter,1.0,4.5,9249441867,"Civil Lines, Kanpur",26.435008,80.276234
+BD-1434,Ravi Pandey,Electrician,10.0,4.2,9951896314,"Ganga Barrage, Kanpur",26.483862,80.416472
+BD-1435,Salman Tiwari,Structural Engineer,19.0,3.7,9331578162,"Govind Nagar, Kanpur",26.496753,80.378956
+BD-1436,Rohit Pal,Civil Engineer,21.0,3.7,9990666411,"Ganga Barrage, Kanpur",26.400823,80.318942
+BD-1437,Prakash Tripathi,Drywaller,15.0,3.6,9712938135,"Harsh Nagar, Kanpur",26.382533,80.360499
+BD-1438,Sandeep Pal,Structural Engineer,20.0,4.4,9263361389,"Mall Road, Kanpur",26.498582,80.332441
+BD-1439,Ravi Khan,Mason,21.0,4.8,9097896708,"Vishnupuri, Kanpur",26.455946,80.342235
+BD-1440,Arjun Verma,Tiler,19.0,4.4,9093123215,"Nayaganj, Kanpur",26.454881,80.293744
+BD-1441,Rohit Singh,Landscaper,18.0,4.8,9146461335,"Kalpi Road, Kanpur",26.381896,80.378232
+BD-1442,Deepak Gupta,HVAC Technician,4.0,4.4,9592397714,"Bhauti, Kanpur",26.481676,80.409443
+BD-1443,Arjun Gupta,Flooring Installer,8.0,4.2,9028365114,"Kakadeo, Kanpur",26.459368,80.300931
+BD-1444,Vijay Yadav,Plumber,19.0,4.1,9322516581,"Barra 5, Kanpur",26.441581,80.398712
+BD-1445,Deepak Maurya,Drywaller,20.0,4.6,9805752014,"Jawahar Nagar, Kanpur",26.49546,80.254479
+BD-1446,Amit Mishra,Handyman,2.0,3.9,9224890488,"Chakeri, Kanpur",26.447519,80.315821
+BD-1447,Amit Tiwari,Tiler,8.0,4.0,9270216344,"Harjinder Nagar, Kanpur",26.472931,80.287023
+BD-1448,Rahul Verma,Roofer,2.0,5.0,9559099291,"Birhana Road, Kanpur",26.49512,80.339185
+BD-1449,Deepak Sharma,Architect,4.0,3.8,9967470683,"Barra 5, Kanpur",26.438834,80.275656
+BD-1450,Ravi Singh,Landscaper,8.0,4.5,9529737169,"Kakadeo, Kanpur",26.50135,80.335325
+BD-1451,Rahul Khan,Plumber,14.0,3.7,9704163236,"Mandhana, Kanpur",26.42409,80.380389
+BD-1452,Arjun Sharma,Handyman,20.0,3.6,9533636444,"Kakadeo, Kanpur",26.430742,80.40594
+BD-1453,Vikas Pandey,Roofer,16.0,4.6,9091604517,"G.T. Road, Kanpur",26.472733,80.265039
+BD-1454,Vikas Gupta,Glazier,9.0,4.6,9891761475,"Nayaganj, Kanpur",26.397836,80.272031
+BD-1455,Gaurav Verma,Glazier,19.0,3.7,9525681144,"Lal Bangla, Kanpur",26.390046,80.325521
+BD-1456,Imran Verma,Mason,10.0,3.9,9228606023,"Juhi, Kanpur",26.429395,80.300643
+BD-1457,Gaurav Yadav,Flooring Installer,11.0,4.4,9696282550,"Pandu Nagar, Kanpur",26.463917,80.323044
+BD-1458,Manoj Maurya,Architect,14.0,4.4,9880167701,"Kakadeo, Kanpur",26.494482,80.30645
+BD-1459,Ajay Mishra,Drywaller,2.0,4.0,9678064326,"Kalyanpur, Kanpur",26.51584,80.256718
+BD-1460,Imran Verma,Mason,11.0,4.5,9272315837,"Harsh Nagar, Kanpur",26.472994,80.259086
+BD-1461,Vikas Gupta,Flooring Installer,3.0,4.3,9711117667,"Harjinder Nagar, Kanpur",26.410829,80.325227
+BD-1462,Deepak Yadav,HVAC Technician,10.0,3.8,9717872140,"Bhauti, Kanpur",26.475812,80.299843
+BD-1463,Prakash Khan,Welder,8.0,3.7,9518479435,"Shyam Nagar, Kanpur",26.391188,80.258845
+BD-1464,Vijay Tiwari,Civil Engineer,15.0,4.5,9293951063,"G.T. Road, Kanpur",26.497864,80.292594
+BD-1465,Naresh Pal,HVAC Technician,18.0,4.7,9212740960,"Sarvodaya Nagar, Kanpur",26.393277,80.387064
+BD-1466,Vikas Tiwari,Handyman,15.0,4.2,9435223024,"Indira Nagar, Kanpur",26.445601,80.399187
+BD-1467,Ajay Tripathi,Landscaper,9.0,4.0,9467410695,"Bithoor, Kanpur",26.425737,80.255079
+BD-1468,Vijay Sharma,Handyman,3.0,4.8,9858250421,"Juhi, Kanpur",26.507161,80.343496
+BD-1469,Gaurav Gupta,Plumber,8.0,4.1,9022795422,"Barra 3, Kanpur",26.472852,80.334366
+BD-1470,Naresh Verma,Architect,2.0,4.1,9845525164,"Eldeco Colony, Kanpur",26.484197,80.283648
+BD-1471,Vikas Mishra,Welder,20.0,4.3,9531791802,"Saket Nagar, Kanpur",26.45578,80.28182
+BD-1472,Ankit Sharma,Flooring Installer,21.0,3.6,9147588714,"Yashoda Nagar, Kanpur",26.46776,80.365623
+BD-1473,Ravi Tiwari,HVAC Technician,14.0,4.0,9029567451,"Arya Nagar, Kanpur",26.403652,80.367595
+BD-1474,Vijay Khan,Mason,7.0,4.9,9649405137,"Azad Nagar, Kanpur",26.389395,80.388527
+BD-1475,Naresh Pandey,Painter,18.0,4.8,9731318550,"Swaroop Nagar, Kanpur",26.499975,80.375358
+BD-1476,Ankit Gupta,Mason,3.0,3.6,9953730701,"Eldeco Colony, Kanpur",26.427279,80.338246
+BD-1477,Manoj Verma,Drywaller,22.0,4.2,9026884709,"Barra 5, Kanpur",26.405529,80.329438
+BD-1478,Sandeep Pal,Painter,2.0,4.6,9512088523,"Darshan Purwa, Kanpur",26.429926,80.350682
+BD-1479,Deepak Sharma,Mason,20.0,4.2,9766113657,"Jajmau, Kanpur",26.475071,80.305052
+BD-1480,Ravi Tiwari,Construction Laborer,14.0,4.3,9272087513,"Azad Nagar, Kanpur",26.429213,80.292999
+BD-1481,Salman Tripathi,Roofer,3.0,4.0,9097009813,"Moti Jheel, Kanpur",26.47122,80.389538
+BD-1482,Amit Tiwari,Roofer,16.0,4.4,9746336858,"Nawabganj, Kanpur",26.389389,80.341405
+BD-1483,Salman Sharma,Handyman,3.0,3.9,9287414233,"General Ganj, Kanpur",26.493568,80.384107
+BD-1484,Rahul Maurya,HVAC Technician,3.0,4.0,9488867000,"Mandhana, Kanpur",26.457996,80.418317
+BD-1485,Ajay Gupta,Landscaper,21.0,4.3,9981304986,"Birhana Road, Kanpur",26.441399,80.264772
+BD-1486,Prakash Tiwari,General Contractor,12.0,4.6,9128252959,"Civil Lines, Kanpur",26.486417,80.405407
+BD-1487,Naresh Yadav,Painter,9.0,3.9,9082756666,"Civil Lines, Kanpur",26.45071,80.384391
+BD-1488,Deepak Mishra,Landscaper,16.0,4.9,9353530835,"Azad Nagar, Kanpur",26.475784,80.283578
+BD-1489,Arjun Tripathi,Architect,17.0,4.7,9162764449,"Jawahar Nagar, Kanpur",26.497577,80.413802
+BD-1490,Sandeep Yadav,HVAC Technician,15.0,4.8,9234590439,"Panki, Kanpur",26.461293,80.407842
+BD-1491,Amit Pandey,Tiler,7.0,4.5,9976489831,"Panki, Kanpur",26.472912,80.387581
+BD-1492,Rohit Singh,Roofer,6.0,3.6,9597747640,"Darshan Purwa, Kanpur",26.442164,80.343031
+BD-1493,Rohit Singh,HVAC Technician,16.0,3.9,9842926100,"Kalpi Road, Kanpur",26.494818,80.415574
+BD-1494,Prakash Verma,Architect,10.0,4.4,9203458563,"Kakadeo, Kanpur",26.509935,80.362764
+BD-1495,Gaurav Pandey,Tiler,13.0,4.3,9318396291,"Chakeri, Kanpur",26.389514,80.272645
+BD-1496,Ankit Gupta,Painter,7.0,3.8,9300371295,"Azad Nagar, Kanpur",26.519205,80.295058
+BD-1497,Amit Mishra,Glazier,7.0,4.6,9886370949,"Chunni Ganj, Kanpur",26.467027,80.266455
+BD-1498,Manoj Maurya,Drywaller,17.0,4.3,9080279696,"Nayaganj, Kanpur",26.44677,80.367247
+BD-1499,Sandeep Singh,Drywaller,18.0,4.2,9698753953,"Ratan Lal Nagar, Kanpur",26.515361,80.265329
+BD-1500,Arjun Maurya,Construction Laborer,21.0,4.8,9137787598,"Barra 8, Kanpur",26.46724,80.415861
+BD-1501,Ankit Srivastava,Carpenter,13.0,4.4,9899775189,"Lal Bangla, Kanpur",26.490068,80.355209
+BD-1502,Deepak Tripathi,Glazier,16.0,4.7,9787995424,"Mall Road, Kanpur",26.487642,80.290018
+BD-1503,Arjun Pal,Mason,21.0,4.4,9470399255,"Kalpi Road, Kanpur",26.446645,80.268852
+BD-1504,Vikas Sharma,Architect,1.0,4.8,9156036597,"Swaroop Nagar, Kanpur",26.382596,80.372279
+BD-1505,Vikas Khan,Drywaller,22.0,4.3,9561785390,"Saket Nagar, Kanpur",26.426676,80.257274
+BD-1506,Vijay Tiwari,HVAC Technician,16.0,4.1,9873672430,"Civil Lines, Kanpur",26.404654,80.359957
+BD-1507,Manoj Yadav,Structural Engineer,13.0,3.7,9303142949,"Dada Nagar, Kanpur",26.411515,80.412297
+BD-1508,Rahul Srivastava,Drywaller,7.0,3.8,9001384262,"Govind Nagar, Kanpur",26.404433,80.411799
+BD-1509,Manoj Pandey,Carpenter,21.0,3.9,9589372226,"Bithoor, Kanpur",26.405749,80.286302
+BD-1510,Ajay Srivastava,Structural Engineer,18.0,4.1,9793204317,"Mall Road, Kanpur",26.504327,80.256897
+BD-1511,Vijay Tiwari,Structural Engineer,22.0,4.4,9399762501,"Sarvodaya Nagar, Kanpur",26.424837,80.386078
+BD-1512,Manoj Sharma,Landscaper,15.0,4.9,9529072510,"G.T. Road, Kanpur",26.456652,80.361169
+BD-1513,Ravi Verma,Tiler,14.0,4.5,9555870032,"Kalpi Road, Kanpur",26.516235,80.326257
+BD-1514,Vijay Pandey,Civil Engineer,5.0,4.6,9766664048,"Shyam Nagar, Kanpur",26.470444,80.293837
+BD-1515,Rohit Pal,Painter,11.0,3.8,9722810628,"Yashoda Nagar, Kanpur",26.41105,80.331706
+BD-1516,Rohit Tiwari,Plumber,7.0,5.0,9699598020,"Mandhana, Kanpur",26.448323,80.340618
+BD-1517,Sandeep Singh,General Contractor,2.0,4.5,9312967136,"Harsh Nagar, Kanpur",26.422531,80.357425
+BD-1518,Arjun Maurya,Architect,1.0,4.0,9510161433,"Lal Bangla, Kanpur",26.513133,80.293379
+BD-1519,Manoj Pal,Electrician,16.0,4.0,9118362646,"Govind Nagar, Kanpur",26.417079,80.287334
+BD-1520,Deepak Maurya,Landscaper,21.0,3.7,9342236985,"Chakeri, Kanpur",26.495399,80.311557
+BD-1521,Rahul Mishra,Glazier,3.0,4.6,9507493500,"Swaroop Nagar, Kanpur",26.465955,80.375485
+BD-1522,Manoj Pandey,HVAC Technician,3.0,4.6,9703158695,"Ganga Barrage, Kanpur",26.40811,80.406861
+BD-1523,Vikas Pandey,Tiler,7.0,4.8,9238484553,"Dada Nagar, Kanpur",26.387633,80.334833
+BD-1524,Rohit Sharma,Glazier,9.0,4.4,9679971627,"Ashok Nagar, Kanpur",26.383185,80.273276
+BD-1525,Rohit Pandey,HVAC Technician,2.0,3.8,9592488484,"Naubasta, Kanpur",26.477011,80.380878
+BD-1526,Ajay Gupta,Carpenter,7.0,4.8,9566415548,"Kalpi Road, Kanpur",26.492154,80.306457
+BD-1527,Vijay Yadav,Glazier,2.0,5.0,9165446387,"Armapur Estate, Kanpur",26.394423,80.413537
+BD-1528,Rohit Mishra,Architect,2.0,5.0,9100982774,"Barra 2, Kanpur",26.395664,80.331378
+BD-1529,Ankit Gupta,General Contractor,11.0,4.2,9121751145,"Barra 2, Kanpur",26.459539,80.351037
+BD-1530,Arjun Gupta,Painter,14.0,3.8,9801317456,"Kidwai Nagar, Kanpur",26.519008,80.27189
+BD-1531,Rahul Yadav,Civil Engineer,14.0,4.5,9616546482,"Birhana Road, Kanpur",26.515813,80.36782
+BD-1532,Naresh Pal,Carpenter,12.0,4.2,9719102911,"Vikas Nagar, Kanpur",26.483932,80.391362
+BD-1533,Rohit Tiwari,Welder,11.0,4.4,9898199944,"Arya Nagar, Kanpur",26.45726,80.287319
+BD-1534,Vijay Khan,Civil Engineer,14.0,4.7,9888931496,"Nayaganj, Kanpur",26.413599,80.324544
+BD-1535,Naresh Tripathi,Electrician,6.0,4.1,9661041308,"Harsh Nagar, Kanpur",26.401795,80.381531
+BD-1536,Amit Singh,Electrician,15.0,3.9,9522776749,"Fazal Ganj, Kanpur",26.461093,80.304708
+BD-1537,Ajay Singh,General Contractor,19.0,4.3,9985560162,"Lajpat Nagar, Kanpur",26.474621,80.258463
+BD-1538,Imran Mishra,Flooring Installer,9.0,4.2,9162368930,"Mall Road, Kanpur",26.500996,80.414106
+BD-1539,Gaurav Maurya,Civil Engineer,22.0,4.7,9259108317,"Eldeco Colony, Kanpur",26.491888,80.279686
+BD-1540,Deepak Pandey,Roofer,1.0,4.6,9284477883,"Pandu Nagar, Kanpur",26.397435,80.391974
+BD-1541,Deepak Khan,Civil Engineer,7.0,4.9,9424946025,"Vishnupuri, Kanpur",26.421506,80.382025
+BD-1542,Gaurav Verma,Carpenter,8.0,4.5,9104371325,"Dada Nagar, Kanpur",26.386383,80.358605
+BD-1543,Rahul Pal,Mason,3.0,4.5,9425469757,"Moti Jheel, Kanpur",26.385199,80.254634
+BD-1544,Prakash Tiwari,Architect,11.0,4.6,9665199143,"Barra 6, Kanpur",26.484922,80.368982
+BD-1545,Arjun Pal,Carpenter,22.0,3.7,9744262551,"Birhana Road, Kanpur",26.442375,80.391417
+BD-1546,Deepak Pandey,Welder,17.0,4.8,9511906509,"Barra 8, Kanpur",26.456705,80.360054
+BD-1547,Imran Tiwari,Welder,22.0,3.8,9443182998,"Harjinder Nagar, Kanpur",26.435268,80.363963
+BD-1548,Ajay Khan,Roofer,4.0,5.0,9932230072,"Ashok Nagar, Kanpur",26.494651,80.367351
+BD-1549,Salman Pal,Architect,8.0,4.0,9433218976,"Azad Nagar, Kanpur",26.423692,80.412008
+BD-1550,Rahul Khan,Drywaller,19.0,4.9,9032981033,"Chunni Ganj, Kanpur",26.472914,80.273122
+BD-1551,Amit Maurya,General Contractor,6.0,3.7,9121671402,"Bithoor, Kanpur",26.384767,80.395222
+BD-1552,Vijay Srivastava,Plumber,8.0,3.7,9204401358,"Barra 5, Kanpur",26.462405,80.28421
+BD-1553,Imran Maurya,General Contractor,4.0,4.4,9189903497,"Mandhana, Kanpur",26.396595,80.253581
+BD-1554,Rahul Pal,Landscaper,21.0,4.5,9094365479,"Ratan Lal Nagar, Kanpur",26.404773,80.293418
+BD-1555,Arjun Verma,Flooring Installer,7.0,3.9,9532594402,"Kalyanpur, Kanpur",26.465307,80.400511
+BD-1556,Vijay Verma,Drywaller,11.0,4.2,9450084488,"Barra 4, Kanpur",26.493863,80.278411
+BD-1557,Rahul Yadav,Structural Engineer,12.0,4.2,9207057819,"G.T. Road, Kanpur",26.421563,80.333164
+BD-1558,Amit Sharma,Civil Engineer,15.0,3.8,9857069067,"Kidwai Nagar, Kanpur",26.382902,80.265882
+BD-1559,Deepak Tiwari,Tiler,14.0,4.5,9924550060,"Nawabganj, Kanpur",26.507143,80.404959
+BD-1560,Gaurav Sharma,Painter,7.0,4.4,9397921074,"Becon Ganj, Kanpur",26.386802,80.411773
+BD-1561,Manoj Sharma,Mason,6.0,5.0,9182554347,"Barra 8, Kanpur",26.441007,80.303097
+BD-1562,Imran Pal,Drywaller,1.0,3.9,9277743426,"Bithoor, Kanpur",26.512247,80.279549
+BD-1563,Imran Singh,General Contractor,12.0,4.3,9601382889,"Harsh Nagar, Kanpur",26.440057,80.272262
+BD-1564,Amit Singh,Painter,18.0,4.1,9626800678,"Nayaganj, Kanpur",26.466542,80.321192
+BD-1565,Ajay Tiwari,Painter,4.0,4.0,9206513682,"Panki, Kanpur",26.416885,80.330938
+BD-1566,Naresh Pandey,Mason,4.0,4.3,9460754115,"General Ganj, Kanpur",26.51099,80.383947
+BD-1567,Salman Gupta,Carpenter,21.0,5.0,9992210872,"Sarvodaya Nagar, Kanpur",26.382574,80.304377
+BD-1568,Amit Mishra,Roofer,11.0,4.4,9610093615,"Bithoor, Kanpur",26.514731,80.275896
+BD-1569,Amit Tripathi,Drywaller,8.0,4.2,9250908893,"Arya Nagar, Kanpur",26.443153,80.302543
+BD-1570,Nikhil Mishra,Landscaper,15.0,3.7,9610371360,"Moti Jheel, Kanpur",26.452374,80.368975
+BD-1571,Rahul Verma,Electrician,16.0,5.0,9650761782,"Bhauti, Kanpur",26.463559,80.40433
+BD-1572,Imran Srivastava,Architect,15.0,4.2,9592887484,"Barra 4, Kanpur",26.403338,80.37932
+BD-1573,Manoj Maurya,Electrician,21.0,4.8,9862809038,"Civil Lines, Kanpur",26.493661,80.304624
+BD-1574,Rahul Tripathi,Mason,14.0,4.1,9660742799,"Lal Bangla, Kanpur",26.383698,80.326843
+BD-1575,Ravi Pal,Landscaper,13.0,4.4,9142327959,"Shyam Nagar, Kanpur",26.425173,80.376886
+BD-1576,Imran Yadav,Structural Engineer,7.0,3.8,9830685588,"Jajmau, Kanpur",26.394835,80.399017
+BD-1577,Nikhil Sharma,Glazier,2.0,5.0,9295817616,"Tilak Nagar, Kanpur",26.442258,80.387136
+BD-1578,Manoj Maurya,HVAC Technician,8.0,4.2,9387831982,"Tilak Nagar, Kanpur",26.45391,80.28917
+BD-1579,Ankit Gupta,Structural Engineer,10.0,4.3,9633470039,"Swaroop Nagar, Kanpur",26.453269,80.29518
+BD-1580,Deepak Yadav,Landscaper,17.0,4.3,9535403316,"Naubasta, Kanpur",26.467619,80.290677
+BD-1581,Rohit Srivastava,Handyman,9.0,3.6,9087746832,"Swaroop Nagar, Kanpur",26.4025,80.392726
+BD-1582,Ankit Khan,Plumber,3.0,3.8,9766369595,"Kidwai Nagar, Kanpur",26.412808,80.307742
+BD-1583,Naresh Pandey,Tiler,14.0,4.9,9961296663,"Swaroop Nagar, Kanpur",26.488947,80.403856
+BD-1584,Vikas Pandey,Plumber,18.0,4.5,9079090617,"Barra 5, Kanpur",26.480641,80.285138
+BD-1585,Ankit Tripathi,Flooring Installer,3.0,4.5,9666862028,"Barra 2, Kanpur",26.390161,80.291517
+BD-1586,Gaurav Mishra,Carpenter,2.0,3.8,9140749492,"Vishnupuri, Kanpur",26.460991,80.315583
+BD-1587,Ajay Verma,General Contractor,15.0,4.3,9051040323,"Indira Nagar, Kanpur",26.470762,80.360321
+BD-1588,Vikas Maurya,Plumber,15.0,4.1,9072033319,"Jawahar Nagar, Kanpur",26.404536,80.379842
+BD-1589,Ravi Srivastava,Landscaper,3.0,4.2,9612877357,"G.T. Road, Kanpur",26.384198,80.40421
+BD-1590,Prakash Maurya,Glazier,3.0,4.9,9202310475,"Bhauti, Kanpur",26.41327,80.359015
+BD-1591,Nikhil Maurya,Glazier,18.0,3.7,9016451606,"Juhi, Kanpur",26.495406,80.332813
+BD-1592,Sandeep Mishra,Plumber,11.0,4.6,9028568238,"Armapur Estate, Kanpur",26.479001,80.412545
+BD-1593,Amit Gupta,Glazier,21.0,4.6,9492207839,"Mandhana, Kanpur",26.481101,80.367981
+BD-1594,Manoj Tiwari,Tiler,4.0,3.9,9421168546,"Nawabganj, Kanpur",26.427537,80.250469
+BD-1595,Deepak Yadav,Civil Engineer,10.0,4.7,9636520529,"Armapur Estate, Kanpur",26.492012,80.304005
+BD-1596,Manoj Verma,Handyman,15.0,4.1,9239008462,"Shastri Nagar, Kanpur",26.516109,80.408305
+BD-1597,Arjun Tripathi,Construction Laborer,13.0,4.7,9464111115,"Barra 8, Kanpur",26.519257,80.411685
+BD-1598,Rohit Tiwari,Handyman,19.0,4.2,9583527364,"Barra 3, Kanpur",26.420473,80.367148
+BD-1599,Arjun Gupta,Painter,12.0,4.3,9140211772,"Barra 8, Kanpur",26.49866,80.37896
+BD-1600,Sandeep Sharma,General Contractor,15.0,3.7,9226918133,"Kalpi Road, Kanpur",26.445827,80.252183
+BD-1601,Amit Singh,Electrician,14.0,4.5,9958493712,"Kalyanpur, Kanpur",26.388858,80.400113
+BD-1602,Sandeep Verma,Mason,5.0,4.8,9369835769,"Harjinder Nagar, Kanpur",26.468661,80.336738
+BD-1603,Gaurav Yadav,Civil Engineer,14.0,3.6,9361364123,"Barra 3, Kanpur",26.456222,80.321982
+BD-1604,Nikhil Tiwari,Landscaper,9.0,4.4,9593776824,"Bhauti, Kanpur",26.442314,80.329035
+BD-1605,Imran Mishra,Electrician,15.0,4.0,9983432251,"Saket Nagar, Kanpur",26.464369,80.297959
+BD-1606,Vijay Gupta,Flooring Installer,17.0,4.0,9522759010,"Juhi, Kanpur",26.490026,80.285762
+BD-1607,Nikhil Sharma,Flooring Installer,10.0,4.9,9056730991,"Harsh Nagar, Kanpur",26.478627,80.250546
+BD-1608,Imran Pal,Painter,14.0,4.4,9331177045,"Vishnupuri, Kanpur",26.51765,80.324882
+BD-1609,Prakash Sharma,Roofer,11.0,4.9,9204453558,"Chunni Ganj, Kanpur",26.402614,80.298038
+BD-1610,Sandeep Verma,Plumber,5.0,4.9,9356415298,"Panki, Kanpur",26.480558,80.257615
+BD-1611,Naresh Khan,Landscaper,11.0,4.5,9550603166,"Darshan Purwa, Kanpur",26.471651,80.291749
+BD-1612,Prakash Sharma,Landscaper,14.0,4.7,9742456279,"Ganga Barrage, Kanpur",26.41048,80.295336
+BD-1613,Manoj Tripathi,Mason,11.0,4.9,9665651652,"Panki, Kanpur",26.47544,80.313292
+BD-1614,Vijay Mishra,Drywaller,17.0,4.9,9396032768,"Kakadeo, Kanpur",26.387052,80.413072
+BD-1615,Ankit Sharma,Painter,10.0,4.3,9667545611,"Birhana Road, Kanpur",26.476454,80.321347
+BD-1616,Rohit Tripathi,Roofer,7.0,4.7,9115285507,"Barra 8, Kanpur",26.387136,80.31821
+BD-1617,Amit Singh,Structural Engineer,13.0,4.4,9788041380,"Juhi, Kanpur",26.514974,80.395853
+BD-1618,Gaurav Pandey,Structural Engineer,1.0,4.0,9444369134,"Harsh Nagar, Kanpur",26.420793,80.334296
+BD-1619,Prakash Sharma,Carpenter,11.0,4.3,9645668032,"Nawabganj, Kanpur",26.420999,80.262877
+BD-1620,Ajay Maurya,Landscaper,9.0,4.1,9276936350,"Arya Nagar, Kanpur",26.4474,80.276738
+BD-1621,Nikhil Pal,Drywaller,5.0,4.3,9188413604,"Tilak Nagar, Kanpur",26.402905,80.340688
+BD-1622,Deepak Khan,Handyman,13.0,3.9,9930875190,"Ratan Lal Nagar, Kanpur",26.422044,80.288073
+BD-1623,Vikas Khan,Tiler,9.0,4.7,9618693416,"Pandu Nagar, Kanpur",26.48791,80.314547
+BD-1624,Manoj Pandey,Architect,14.0,3.6,9974832853,"G.T. Road, Kanpur",26.469902,80.329028
+BD-1625,Vikas Maurya,Carpenter,16.0,4.0,9719040213,"Harjinder Nagar, Kanpur",26.491122,80.287571
+BD-1626,Amit Pal,Construction Laborer,12.0,4.2,9684753565,"Kidwai Nagar, Kanpur",26.446665,80.400088
+BD-1627,Nikhil Pandey,Glazier,8.0,4.5,9974734072,"Shastri Nagar, Kanpur",26.48504,80.25527
+BD-1628,Vijay Pal,Painter,21.0,4.5,9167043958,"Civil Lines, Kanpur",26.445988,80.402349
+BD-1629,Amit Tripathi,Welder,2.0,3.8,9055073460,"General Ganj, Kanpur",26.503195,80.272795
+BD-1630,Ankit Srivastava,Electrician,14.0,4.8,9770866401,"Mandhana, Kanpur",26.449673,80.412112
+BD-1631,Rohit Maurya,Roofer,19.0,4.6,9388347514,"Shastri Nagar, Kanpur",26.427973,80.254387
+BD-1632,Naresh Pandey,Flooring Installer,7.0,4.1,9090811640,"Bithoor, Kanpur",26.410623,80.307684
+BD-1633,Amit Maurya,Handyman,1.0,4.9,9855156380,"Saket Nagar, Kanpur",26.43978,80.330513
+BD-1634,Salman Pandey,HVAC Technician,9.0,4.3,9105046031,"Ashok Nagar, Kanpur",26.386416,80.286225
+BD-1635,Amit Srivastava,Tiler,10.0,4.9,9974535506,"Barra 4, Kanpur",26.468924,80.353294
+BD-1636,Rahul Srivastava,HVAC Technician,13.0,4.9,9613079226,"Govind Nagar, Kanpur",26.445862,80.399402
+BD-1637,Arjun Khan,Roofer,14.0,4.8,9407029194,"Darshan Purwa, Kanpur",26.451168,80.338743
+BD-1638,Nikhil Tripathi,Tiler,1.0,4.3,9495773828,"Yashoda Nagar, Kanpur",26.39749,80.37876
+BD-1639,Nikhil Singh,Civil Engineer,16.0,4.3,9672006272,"Barra 1, Kanpur",26.42924,80.296128
+BD-1640,Sandeep Singh,General Contractor,14.0,4.7,9295663478,"Vishnupuri, Kanpur",26.489008,80.311546
+BD-1641,Ankit Tiwari,Plumber,4.0,4.6,9153198029,"Ashok Nagar, Kanpur",26.474677,80.367154
+BD-1642,Amit Tiwari,Structural Engineer,19.0,3.7,9298800434,"Lal Bangla, Kanpur",26.476995,80.373662
+BD-1643,Ravi Pandey,Plumber,21.0,4.5,9792082132,"Naubasta, Kanpur",26.44728,80.404704
+BD-1644,Deepak Sharma,Carpenter,14.0,4.8,9054818954,"Azad Nagar, Kanpur",26.42717,80.332522
+BD-1645,Nikhil Singh,Civil Engineer,1.0,3.9,9334592231,"Nayaganj, Kanpur",26.452909,80.272472
+BD-1646,Amit Yadav,Flooring Installer,6.0,4.0,9791381737,"Barra 5, Kanpur",26.497794,80.319102
+BD-1647,Rahul Pal,Flooring Installer,15.0,4.5,9432729204,"Becon Ganj, Kanpur",26.455879,80.333904
+BD-1648,Naresh Sharma,HVAC Technician,19.0,3.7,9896911362,"Arya Nagar, Kanpur",26.479111,80.33121
+BD-1649,Prakash Tripathi,Handyman,12.0,4.4,9693931950,"Darshan Purwa, Kanpur",26.512104,80.362887
+BD-1650,Prakash Pandey,Structural Engineer,14.0,4.7,9534413395,"Naubasta, Kanpur",26.452152,80.331595
+BD-1651,Imran Pandey,Flooring Installer,9.0,4.9,9706834393,"Sarvodaya Nagar, Kanpur",26.425008,80.288336
+BD-1652,Ankit Maurya,Civil Engineer,6.0,4.3,9486621898,"Kakadeo, Kanpur",26.477322,80.30827
+BD-1653,Imran Maurya,Landscaper,9.0,4.4,9013454021,"Barra 4, Kanpur",26.451343,80.406385
+BD-1654,Naresh Khan,Painter,21.0,3.8,9980086753,"Barra 1, Kanpur",26.51363,80.27315
+BD-1655,Rahul Yadav,Tiler,4.0,4.4,9544119337,"Ashok Nagar, Kanpur",26.446977,80.374251
+BD-1656,Gaurav Gupta,Civil Engineer,10.0,4.4,9980596437,"Juhi, Kanpur",26.428828,80.305063
+BD-1657,Ankit Yadav,Landscaper,15.0,4.8,9330477207,"Armapur Estate, Kanpur",26.514708,80.279308
+BD-1658,Ravi Maurya,Construction Laborer,1.0,4.6,9491859253,"Armapur Estate, Kanpur",26.421516,80.252851
+BD-1659,Imran Gupta,Electrician,16.0,4.9,9273859243,"Lajpat Nagar, Kanpur",26.509896,80.264402
+BD-1660,Amit Maurya,Welder,14.0,3.7,9206912967,"Harsh Nagar, Kanpur",26.507393,80.3962
+BD-1661,Arjun Tripathi,HVAC Technician,8.0,3.6,9251157108,"Bhauti, Kanpur",26.380995,80.39509
+BD-1662,Manoj Srivastava,Electrician,12.0,3.9,9433454875,"Armapur Estate, Kanpur",26.499382,80.262905
+BD-1663,Imran Verma,Structural Engineer,15.0,3.6,9089055866,"Shyam Nagar, Kanpur",26.482525,80.411708
+BD-1664,Vikas Srivastava,Construction Laborer,5.0,3.8,9988125029,"Lal Bangla, Kanpur",26.433939,80.33496
+BD-1665,Naresh Sharma,Handyman,1.0,4.5,9746911988,"Bithoor, Kanpur",26.406553,80.305817
+BD-1666,Manoj Tiwari,Civil Engineer,13.0,3.9,9176946763,"Chunni Ganj, Kanpur",26.381329,80.290352
+BD-1667,Nikhil Gupta,Roofer,18.0,4.8,9302531837,"Vishnupuri, Kanpur",26.434802,80.291593
+BD-1668,Ajay Khan,Landscaper,2.0,4.1,9115594909,"Ganga Barrage, Kanpur",26.480654,80.380018
+BD-1669,Vikas Tiwari,Mason,17.0,5.0,9915312400,"Nayaganj, Kanpur",26.46843,80.252544
+BD-1670,Amit Singh,Architect,3.0,4.7,9376005556,"Dada Nagar, Kanpur",26.395383,80.278641
+BD-1671,Rahul Yadav,Architect,1.0,4.4,9080223269,"Shastri Nagar, Kanpur",26.469253,80.360735
+BD-1672,Rohit Khan,Tiler,1.0,3.9,9430638637,"Jajmau, Kanpur",26.412735,80.395601
+BD-1673,Naresh Pal,Tiler,13.0,3.6,9380396233,"Barra 4, Kanpur",26.386679,80.275002
+BD-1674,Naresh Tiwari,Structural Engineer,4.0,4.9,9476493375,"Sarvodaya Nagar, Kanpur",26.405676,80.354587
+BD-1675,Naresh Sharma,Roofer,21.0,4.4,9392840726,"General Ganj, Kanpur",26.408359,80.408977
+BD-1676,Manoj Maurya,Roofer,12.0,3.8,9948146485,"Barra 3, Kanpur",26.458161,80.283219
+BD-1677,Rohit Maurya,Mason,18.0,4.0,9228901232,"Barra 2, Kanpur",26.449698,80.371031
+BD-1678,Imran Pandey,Drywaller,20.0,4.3,9214235424,"Barra 1, Kanpur",26.502246,80.303803
+BD-1679,Rohit Mishra,Structural Engineer,21.0,3.9,9018176135,"Shastri Nagar, Kanpur",26.413434,80.306459
+BD-1680,Sandeep Sharma,General Contractor,13.0,4.9,9910816329,"Juhi, Kanpur",26.508051,80.398148
+BD-1681,Amit Yadav,Structural Engineer,3.0,3.8,9438470896,"General Ganj, Kanpur",26.457277,80.304161
+BD-1682,Ravi Pal,Handyman,4.0,4.7,9554310598,"Mandhana, Kanpur",26.409841,80.265866
+BD-1683,Ajay Tiwari,Landscaper,12.0,4.3,9285334074,"Ashok Nagar, Kanpur",26.444458,80.391931
+BD-1684,Rohit Pal,Drywaller,6.0,4.1,9919222714,"Azad Nagar, Kanpur",26.493849,80.38149
+BD-1685,Arjun Mishra,Roofer,9.0,3.9,9977858478,"Ashok Nagar, Kanpur",26.420444,80.368962
+BD-1686,Ajay Gupta,Glazier,4.0,3.9,9460616594,"Indira Nagar, Kanpur",26.474944,80.299558
+BD-1687,Rohit Verma,Flooring Installer,13.0,4.3,9035681582,"Panki, Kanpur",26.460964,80.394073
+BD-1688,Prakash Pal,Handyman,15.0,5.0,9029903750,"Barra 8, Kanpur",26.406551,80.323826
+BD-1689,Amit Pal,HVAC Technician,4.0,4.1,9304102173,"Darshan Purwa, Kanpur",26.454487,80.332824
+BD-1690,Imran Pandey,Landscaper,19.0,5.0,9806061700,"Barra 7, Kanpur",26.500618,80.270695
+BD-1691,Rohit Gupta,Mason,20.0,3.9,9762210667,"Ganga Barrage, Kanpur",26.455805,80.268335
+BD-1692,Gaurav Sharma,Tiler,6.0,4.1,9278273117,"Moti Jheel, Kanpur",26.512251,80.363694
+BD-1693,Deepak Pandey,Mason,20.0,5.0,9584856992,"Azad Nagar, Kanpur",26.46217,80.279151
+BD-1694,Ankit Maurya,Landscaper,11.0,4.4,9441202294,"Govind Nagar, Kanpur",26.457581,80.401244
+BD-1695,Amit Srivastava,Architect,17.0,4.3,9719764215,"Barra 4, Kanpur",26.420963,80.301494
+BD-1696,Amit Khan,Civil Engineer,10.0,3.9,9494510378,"Barra 5, Kanpur",26.468813,80.316347
+BD-1697,Ankit Tripathi,Glazier,9.0,4.8,9554488964,"Tilak Nagar, Kanpur",26.466873,80.259946
+BD-1698,Naresh Khan,Drywaller,7.0,4.2,9235829988,"Nayaganj, Kanpur",26.470789,80.328413
+BD-1699,Nikhil Mishra,Plumber,22.0,3.9,9563198484,"Barra 3, Kanpur",26.443721,80.276045
+BD-1700,Ravi Pal,General Contractor,20.0,4.6,9213781859,"Shastri Nagar, Kanpur",26.505312,80.399158
+BD-1701,Imran Yadav,Construction Laborer,17.0,4.2,9707298917,"Chakeri, Kanpur",26.496839,80.365787
+BD-1702,Rohit Srivastava,Landscaper,4.0,3.9,9262951707,"Govind Nagar, Kanpur",26.418463,80.377493
+BD-1703,Ajay Srivastava,Tiler,13.0,3.7,9459007499,"Lal Bangla, Kanpur",26.484877,80.275319
+BD-1704,Nikhil Srivastava,Flooring Installer,10.0,4.2,9594740558,"Barra 2, Kanpur",26.455228,80.327845
+BD-1705,Naresh Tripathi,Roofer,8.0,3.8,9293490292,"Barra 6, Kanpur",26.470355,80.362328
+BD-1706,Vikas Singh,HVAC Technician,13.0,4.8,9337788160,"Barra 2, Kanpur",26.444354,80.346638
+BD-1707,Amit Singh,HVAC Technician,14.0,4.6,9252440161,"Arya Nagar, Kanpur",26.461661,80.382169
+BD-1708,Amit Khan,General Contractor,16.0,3.6,9039045619,"Birhana Road, Kanpur",26.416205,80.262522
+BD-1709,Gaurav Tiwari,General Contractor,11.0,4.6,9659707189,"Arya Nagar, Kanpur",26.444837,80.314667
+BD-1710,Ajay Maurya,Plumber,19.0,3.9,9257100562,"Saket Nagar, Kanpur",26.450709,80.31723
+BD-1711,Naresh Yadav,Glazier,7.0,4.0,9958459149,"Barra 5, Kanpur",26.518265,80.414636
+BD-1712,Salman Khan,Tiler,8.0,5.0,9360713681,"Naubasta, Kanpur",26.491335,80.408318
+BD-1713,Ankit Mishra,Welder,20.0,4.9,9807157723,"Indira Nagar, Kanpur",26.38668,80.403579
+BD-1714,Ankit Tiwari,Tiler,20.0,4.0,9656848924,"Tilak Nagar, Kanpur",26.475894,80.332094
+BD-1715,Gaurav Yadav,Glazier,6.0,4.1,9582983134,"Indira Nagar, Kanpur",26.442519,80.416355
+BD-1716,Amit Pandey,Tiler,2.0,3.8,9628618933,"Kalpi Road, Kanpur",26.50275,80.371092
+BD-1717,Amit Mishra,HVAC Technician,18.0,3.6,9731997354,"Juhi, Kanpur",26.434724,80.374258
+BD-1718,Rohit Sharma,Architect,12.0,3.9,9647342988,"Becon Ganj, Kanpur",26.50241,80.269415
+BD-1719,Rahul Srivastava,Mason,20.0,4.7,9719245862,"Juhi, Kanpur",26.386351,80.393661
+BD-1720,Manoj Yadav,Welder,13.0,4.5,9602245935,"Ratan Lal Nagar, Kanpur",26.383721,80.408581
+BD-1721,Ravi Mishra,Civil Engineer,22.0,4.2,9322035630,"Kalyanpur, Kanpur",26.487139,80.41638
+BD-1722,Ajay Singh,Tiler,2.0,3.8,9943415809,"Dada Nagar, Kanpur",26.391376,80.39172
+BD-1723,Vijay Maurya,Mason,7.0,4.2,9615726385,"Lajpat Nagar, Kanpur",26.40209,80.285473
+BD-1724,Ravi Srivastava,Painter,13.0,4.0,9364599671,"Ashok Nagar, Kanpur",26.411342,80.260981
+BD-1725,Ankit Srivastava,Flooring Installer,8.0,3.8,9741663028,"Azad Nagar, Kanpur",26.404894,80.341184
+BD-1726,Prakash Tiwari,Architect,22.0,4.7,9624754189,"Ashok Nagar, Kanpur",26.440581,80.38887
+BD-1727,Vijay Yadav,Roofer,7.0,4.5,9299076978,"Pandu Nagar, Kanpur",26.42512,80.415387
+BD-1728,Manoj Singh,Handyman,10.0,3.7,9719848023,"Harsh Nagar, Kanpur",26.514752,80.299591
+BD-1729,Imran Singh,Landscaper,13.0,3.7,9465137269,"Becon Ganj, Kanpur",26.456003,80.299168
+BD-1730,Ravi Khan,HVAC Technician,5.0,5.0,9419039182,"Juhi, Kanpur",26.440254,80.397566
+BD-1731,Manoj Maurya,Handyman,18.0,5.0,9952006616,"General Ganj, Kanpur",26.406533,80.283192
+BD-1732,Manoj Mishra,Carpenter,12.0,3.6,9831343649,"Harjinder Nagar, Kanpur",26.507333,80.340118
+BD-1733,Vijay Tripathi,Carpenter,15.0,4.1,9208373560,"Barra 3, Kanpur",26.427087,80.315976
+BD-1734,Vikas Gupta,Tiler,15.0,3.9,9492314332,"Harsh Nagar, Kanpur",26.509774,80.266866
+BD-1735,Sandeep Maurya,HVAC Technician,4.0,4.5,9480762219,"Indira Nagar, Kanpur",26.384565,80.410961
+BD-1736,Ravi Yadav,Drywaller,15.0,3.9,9969030465,"Armapur Estate, Kanpur",26.42514,80.285048
+BD-1737,Sandeep Yadav,Civil Engineer,22.0,4.0,9484439331,"Mandhana, Kanpur",26.447247,80.314266
+BD-1738,Imran Maurya,Roofer,13.0,3.7,9610619565,"Shastri Nagar, Kanpur",26.487717,80.253474
+BD-1739,Nikhil Pal,Plumber,13.0,3.6,9278930883,"Eldeco Colony, Kanpur",26.501307,80.356976
+BD-1740,Arjun Pandey,Handyman,5.0,3.8,9160521960,"Vishnupuri, Kanpur",26.438603,80.405156
+BD-1741,Arjun Pandey,Carpenter,19.0,4.9,9179575425,"Moti Jheel, Kanpur",26.436835,80.260552
+BD-1742,Salman Gupta,Architect,17.0,4.9,9398791469,"Kalyanpur, Kanpur",26.467198,80.358987
+BD-1743,Manoj Maurya,Plumber,19.0,4.6,9892725087,"Jawahar Nagar, Kanpur",26.478,80.309141
+BD-1744,Ravi Srivastava,Flooring Installer,21.0,3.6,9978757843,"Bithoor, Kanpur",26.397488,80.335254
+BD-1745,Arjun Yadav,Welder,10.0,4.1,9497860252,"Fazal Ganj, Kanpur",26.489858,80.346118
+BD-1746,Manoj Srivastava,HVAC Technician,19.0,3.7,9508071966,"Jajmau, Kanpur",26.401133,80.416249
+BD-1747,Salman Pandey,Structural Engineer,1.0,3.6,9375771231,"Nawabganj, Kanpur",26.422237,80.40506
+BD-1748,Rohit Yadav,General Contractor,9.0,4.1,9988885999,"Harsh Nagar, Kanpur",26.433066,80.416041
+BD-1749,Imran Pandey,Landscaper,15.0,4.9,9139215097,"Dada Nagar, Kanpur",26.450118,80.394962
+BD-1750,Amit Tiwari,Structural Engineer,18.0,4.9,9787295509,"Kalpi Road, Kanpur",26.454237,80.375226
+BD-1751,Imran Pal,Carpenter,15.0,4.8,9847623113,"Jawahar Nagar, Kanpur",26.408446,80.298448
+BD-1752,Sandeep Khan,Construction Laborer,18.0,4.3,9273679968,"Mall Road, Kanpur",26.416423,80.294645
+BD-1753,Imran Khan,Electrician,7.0,5.0,9104286022,"Kalyanpur, Kanpur",26.443514,80.332333
+BD-1754,Prakash Gupta,Painter,11.0,3.8,9047908243,"Lal Bangla, Kanpur",26.407091,80.283576
+BD-1755,Amit Yadav,Painter,15.0,4.8,9378604545,"Bithoor, Kanpur",26.383562,80.409297
+BD-1756,Deepak Maurya,Drywaller,6.0,3.9,9309877083,"Saket Nagar, Kanpur",26.449942,80.343072
+BD-1757,Nikhil Mishra,Drywaller,13.0,4.6,9011142133,"Vishnupuri, Kanpur",26.482632,80.3059
+BD-1758,Amit Sharma,HVAC Technician,9.0,4.9,9529789701,"Kidwai Nagar, Kanpur",26.478859,80.405072
+BD-1759,Vikas Yadav,Architect,17.0,5.0,9037404087,"Saket Nagar, Kanpur",26.413036,80.288481
+BD-1760,Rahul Maurya,General Contractor,6.0,4.4,9684705446,"Govind Nagar, Kanpur",26.397016,80.341529
+BD-1761,Rahul Singh,Handyman,12.0,4.1,9305755205,"Harjinder Nagar, Kanpur",26.454855,80.324116
+BD-1762,Vikas Pal,Architect,2.0,3.9,9058599286,"Chakeri, Kanpur",26.408752,80.328936
+BD-1763,Sandeep Maurya,Carpenter,11.0,4.6,9016246190,"Swaroop Nagar, Kanpur",26.467415,80.348317
+BD-1764,Ajay Singh,Structural Engineer,22.0,4.8,9823947631,"Panki, Kanpur",26.410266,80.395137
+BD-1765,Prakash Mishra,Architect,12.0,4.9,9231710403,"Kalyanpur, Kanpur",26.412563,80.376966
+BD-1766,Amit Mishra,Civil Engineer,7.0,4.1,9900345337,"Kalyanpur, Kanpur",26.464502,80.268728
+BD-1767,Arjun Maurya,Drywaller,18.0,4.7,9752586840,"Azad Nagar, Kanpur",26.440821,80.284764
+BD-1768,Ajay Sharma,Structural Engineer,20.0,4.8,9828438331,"Barra 3, Kanpur",26.437448,80.390737
+BD-1769,Sandeep Srivastava,Drywaller,18.0,4.6,9256982854,"Fazal Ganj, Kanpur",26.485644,80.364036
+BD-1770,Arjun Verma,Landscaper,8.0,4.8,9734521231,"Yashoda Nagar, Kanpur",26.462984,80.30481
+BD-1771,Vijay Pandey,HVAC Technician,17.0,4.9,9760586087,"Barra 6, Kanpur",26.434074,80.325264
+BD-1772,Vikas Tiwari,Welder,14.0,3.7,9432607625,"Barra 2, Kanpur",26.408488,80.341511
+BD-1773,Ajay Verma,Welder,15.0,3.7,9151963526,"Barra 2, Kanpur",26.481611,80.268805
+BD-1774,Amit Pal,HVAC Technician,6.0,4.8,9598011192,"Chakeri, Kanpur",26.447381,80.329939
+BD-1775,Rahul Pal,Flooring Installer,11.0,5.0,9420878378,"Harjinder Nagar, Kanpur",26.397744,80.40444
+BD-1776,Sandeep Yadav,Glazier,22.0,4.3,9621876998,"Mandhana, Kanpur",26.440277,80.350166
+BD-1777,Nikhil Pal,Drywaller,6.0,4.5,9739660635,"Tilak Nagar, Kanpur",26.407597,80.372384
+BD-1778,Vijay Gupta,Tiler,20.0,4.3,9794386595,"Kakadeo, Kanpur",26.442806,80.389796
+BD-1779,Gaurav Khan,Welder,21.0,4.6,9228470218,"Dada Nagar, Kanpur",26.468208,80.350301
+BD-1780,Prakash Tripathi,Drywaller,18.0,5.0,9286416140,"Sarvodaya Nagar, Kanpur",26.500415,80.260934
+BD-1781,Rahul Tripathi,Landscaper,11.0,4.9,9548932179,"Chakeri, Kanpur",26.394596,80.361052
+BD-1782,Salman Singh,Civil Engineer,13.0,4.2,9042478452,"General Ganj, Kanpur",26.386465,80.333966
+BD-1783,Ravi Pandey,Mason,2.0,3.7,9583297610,"Lajpat Nagar, Kanpur",26.478779,80.276513
+BD-1784,Nikhil Srivastava,Architect,4.0,4.3,9359788008,"Mandhana, Kanpur",26.398214,80.29899
+BD-1785,Rohit Mishra,Construction Laborer,18.0,4.4,9204246129,"Birhana Road, Kanpur",26.399132,80.348259
+BD-1786,Manoj Tripathi,Glazier,6.0,4.0,9938692335,"Lal Bangla, Kanpur",26.485813,80.361175
+BD-1787,Gaurav Tripathi,Drywaller,16.0,4.8,9901411789,"Mall Road, Kanpur",26.411863,80.406213
+BD-1788,Imran Sharma,Glazier,4.0,3.8,9944476202,"Kalyanpur, Kanpur",26.437938,80.30745
+BD-1789,Prakash Gupta,Roofer,6.0,3.7,9251307161,"Mandhana, Kanpur",26.489042,80.389571
+BD-1790,Ajay Khan,Construction Laborer,18.0,4.1,9148660243,"Vikas Nagar, Kanpur",26.386492,80.297176
+BD-1791,Manoj Srivastava,Civil Engineer,16.0,3.6,9911958487,"Vikas Nagar, Kanpur",26.441618,80.386153
+BD-1792,Ankit Pal,Plumber,9.0,4.3,9519729283,"Barra 3, Kanpur",26.441609,80.28413
+BD-1793,Prakash Tiwari,Construction Laborer,5.0,4.5,9312345175,"Jawahar Nagar, Kanpur",26.471319,80.327869
+BD-1794,Vikas Mishra,Plumber,19.0,4.4,9982915358,"Vishnupuri, Kanpur",26.385306,80.391255
+BD-1795,Sandeep Srivastava,Painter,3.0,3.7,9268032430,"Barra 2, Kanpur",26.465491,80.374292
+BD-1796,Gaurav Gupta,Painter,18.0,5.0,9920955079,"Barra 8, Kanpur",26.491409,80.392242
+BD-1797,Sandeep Sharma,HVAC Technician,20.0,5.0,9788318083,"Barra 7, Kanpur",26.510012,80.323
+BD-1798,Ankit Srivastava,Tiler,15.0,4.1,9514166122,"Ganga Barrage, Kanpur",26.470675,80.36048
+BD-1799,Gaurav Pandey,Flooring Installer,14.0,4.7,9346269249,"G.T. Road, Kanpur",26.448228,80.376121
+BD-1800,Naresh Pal,Mason,8.0,4.7,9500192561,"Saket Nagar, Kanpur",26.494985,80.29254
+BD-1801,Amit Sharma,Flooring Installer,18.0,4.9,9424454835,"Bhauti, Kanpur",26.409301,80.323582
+BD-1802,Gaurav Tripathi,Electrician,21.0,3.8,9466989269,"Kakadeo, Kanpur",26.401885,80.41426
+BD-1803,Amit Pandey,Welder,6.0,3.7,9607189169,"Barra 3, Kanpur",26.519723,80.257864
+BD-1804,Vikas Khan,HVAC Technician,2.0,3.7,9597433227,"Chakeri, Kanpur",26.488478,80.337602
+BD-1805,Imran Gupta,Landscaper,11.0,4.7,9221829491,"Harsh Nagar, Kanpur",26.505867,80.396149
+BD-1806,Arjun Verma,Painter,12.0,4.9,9915111654,"Barra 6, Kanpur",26.396472,80.340656
+BD-1807,Arjun Pal,Welder,2.0,4.7,9134310008,"Ashok Nagar, Kanpur",26.426813,80.33047
+BD-1808,Naresh Pandey,General Contractor,8.0,3.6,9388423957,"Lal Bangla, Kanpur",26.488054,80.417052
+BD-1809,Ankit Tripathi,Landscaper,11.0,3.7,9126934326,"Kakadeo, Kanpur",26.462392,80.355477
+BD-1810,Sandeep Gupta,Structural Engineer,10.0,4.2,9541334796,"Ratan Lal Nagar, Kanpur",26.496425,80.418428
+BD-1811,Gaurav Maurya,Landscaper,7.0,4.2,9023459887,"Barra 4, Kanpur",26.47278,80.34312
+BD-1812,Imran Mishra,HVAC Technician,11.0,4.9,9327425173,"Dada Nagar, Kanpur",26.518313,80.32839
+BD-1813,Rahul Verma,Welder,7.0,4.0,9278354616,"Armapur Estate, Kanpur",26.389932,80.333899
+BD-1814,Ajay Khan,Glazier,9.0,4.3,9514963152,"Harjinder Nagar, Kanpur",26.435796,80.262064
+BD-1815,Ravi Pandey,Glazier,10.0,3.6,9725223657,"Jajmau, Kanpur",26.503237,80.269921
+BD-1816,Rohit Verma,Tiler,19.0,4.0,9917501418,"G.T. Road, Kanpur",26.386374,80.346685
+BD-1817,Ajay Khan,Handyman,8.0,4.6,9219302819,"Naubasta, Kanpur",26.440266,80.288758
+BD-1818,Rohit Tiwari,Structural Engineer,19.0,4.4,9478340590,"Panki, Kanpur",26.499692,80.287941
+BD-1819,Rohit Pal,Architect,13.0,4.7,9913784760,"Pandu Nagar, Kanpur",26.500257,80.271127
+BD-1820,Nikhil Yadav,General Contractor,5.0,4.7,9270735062,"Barra 8, Kanpur",26.453531,80.307768
+BD-1821,Vikas Tiwari,Structural Engineer,8.0,3.9,9138437241,"G.T. Road, Kanpur",26.405246,80.253844
+BD-1822,Manoj Tiwari,Handyman,5.0,4.7,9200528363,"Chunni Ganj, Kanpur",26.391346,80.376967
+BD-1823,Naresh Tiwari,Drywaller,16.0,4.0,9968531867,"Nayaganj, Kanpur",26.486656,80.256595
+BD-1824,Rahul Mishra,Carpenter,6.0,3.8,9659044233,"Civil Lines, Kanpur",26.497577,80.259654
+BD-1825,Manoj Sharma,Glazier,14.0,4.9,9509549625,"Vishnupuri, Kanpur",26.460541,80.280737
+BD-1826,Arjun Gupta,Welder,2.0,4.1,9470768126,"Ganga Barrage, Kanpur",26.519847,80.347232
+BD-1827,Manoj Khan,Glazier,1.0,4.6,9942530756,"Panki, Kanpur",26.493349,80.303624
+BD-1828,Rohit Tiwari,Construction Laborer,1.0,3.8,9925192641,"Juhi, Kanpur",26.464375,80.325682
+BD-1829,Arjun Srivastava,Roofer,9.0,3.7,9950870568,"Harjinder Nagar, Kanpur",26.475406,80.251349
+BD-1830,Nikhil Gupta,Structural Engineer,4.0,3.9,9331998254,"Pandu Nagar, Kanpur",26.478212,80.40542
+BD-1831,Deepak Yadav,Roofer,15.0,4.5,9633582863,"Barra 8, Kanpur",26.433125,80.415943
+BD-1832,Vikas Pandey,Electrician,15.0,4.4,9983277892,"Lajpat Nagar, Kanpur",26.419819,80.322733
+BD-1833,Imran Pal,Architect,2.0,4.4,9421487734,"Harsh Nagar, Kanpur",26.463046,80.413421
+BD-1834,Ajay Pal,Plumber,5.0,3.8,9872809482,"Panki, Kanpur",26.383639,80.402999
+BD-1835,Gaurav Pal,Mason,21.0,4.8,9157487671,"Barra 4, Kanpur",26.477018,80.334823
+BD-1836,Prakash Sharma,Tiler,6.0,4.3,9386385913,"Becon Ganj, Kanpur",26.465362,80.353061
+BD-1837,Imran Tripathi,Roofer,7.0,3.7,9786075257,"Swaroop Nagar, Kanpur",26.411769,80.306155
+BD-1838,Prakash Maurya,Landscaper,8.0,4.7,9894698122,"Bhauti, Kanpur",26.417511,80.253447
+BD-1839,Prakash Singh,Tiler,22.0,4.0,9566172639,"Vishnupuri, Kanpur",26.483493,80.281618
+BD-1840,Nikhil Srivastava,Carpenter,11.0,4.8,9286583868,"Tilak Nagar, Kanpur",26.405216,80.335433
+BD-1841,Salman Khan,Roofer,22.0,4.3,9961204099,"Harjinder Nagar, Kanpur",26.441152,80.318175
+BD-1842,Salman Khan,General Contractor,13.0,3.6,9942022864,"Birhana Road, Kanpur",26.42041,80.34837
+BD-1843,Imran Maurya,Handyman,9.0,3.8,9102425964,"Nawabganj, Kanpur",26.504564,80.406998
+BD-1844,Ajay Gupta,Civil Engineer,6.0,4.7,9769954365,"Barra 4, Kanpur",26.403661,80.309807
+BD-1845,Rahul Tripathi,Drywaller,22.0,4.1,9883267829,"Govind Nagar, Kanpur",26.429366,80.323331
+BD-1846,Gaurav Pal,Construction Laborer,4.0,4.3,9259679238,"Govind Nagar, Kanpur",26.503674,80.397911
+BD-1847,Ravi Mishra,Roofer,10.0,4.6,9762590082,"Kalpi Road, Kanpur",26.43842,80.329701
+BD-1848,Vikas Pal,Glazier,6.0,4.3,9571094272,"Tilak Nagar, Kanpur",26.47254,80.286844
+BD-1849,Ankit Srivastava,Architect,6.0,4.9,9045901111,"Barra 1, Kanpur",26.436934,80.313174
+BD-1850,Sandeep Verma,Drywaller,10.0,4.6,9702524310,"Bhauti, Kanpur",26.422031,80.306025
+BD-1851,Rohit Pal,Roofer,21.0,3.8,9300944719,"Dada Nagar, Kanpur",26.433473,80.266864
+BD-1852,Sandeep Yadav,Mason,2.0,4.7,9715447473,"Chunni Ganj, Kanpur",26.434854,80.296702
+BD-1853,Nikhil Pandey,Carpenter,21.0,4.9,9629001381,"Ganga Barrage, Kanpur",26.39526,80.396498
+BD-1854,Vikas Mishra,Carpenter,3.0,4.4,9870411041,"Shastri Nagar, Kanpur",26.472748,80.300069
+BD-1855,Salman Pal,Structural Engineer,22.0,4.3,9850712343,"Barra 3, Kanpur",26.501264,80.345102
+BD-1856,Arjun Sharma,Roofer,14.0,4.3,9187376369,"Kidwai Nagar, Kanpur",26.496697,80.312412
+BD-1857,Rahul Verma,Architect,13.0,3.7,9039588172,"Shastri Nagar, Kanpur",26.451942,80.407806
+BD-1858,Vijay Yadav,Glazier,15.0,5.0,9541975305,"Bhauti, Kanpur",26.419013,80.330177
+BD-1859,Salman Pandey,Roofer,11.0,4.3,9071639808,"Kalpi Road, Kanpur",26.383526,80.260595
+BD-1860,Rahul Tripathi,Construction Laborer,14.0,3.9,9561909785,"Panki, Kanpur",26.501227,80.382506
+BD-1861,Gaurav Gupta,Carpenter,10.0,4.8,9827496422,"Jawahar Nagar, Kanpur",26.435848,80.258653
+BD-1862,Sandeep Mishra,Electrician,4.0,5.0,9334031868,"Vishnupuri, Kanpur",26.404081,80.334065
+BD-1863,Gaurav Tiwari,Plumber,9.0,4.5,9761004691,"Shyam Nagar, Kanpur",26.387128,80.278107
+BD-1864,Manoj Pandey,Construction Laborer,3.0,4.3,9037218192,"Fazal Ganj, Kanpur",26.406045,80.418437
+BD-1865,Prakash Tiwari,Civil Engineer,18.0,4.7,9642383541,"Jajmau, Kanpur",26.496739,80.351839
+BD-1866,Ravi Mishra,HVAC Technician,20.0,4.5,9456211974,"Eldeco Colony, Kanpur",26.476571,80.316152
+BD-1867,Gaurav Pal,General Contractor,10.0,3.6,9566474497,"Barra 5, Kanpur",26.40016,80.260489
+BD-1868,Nikhil Tiwari,Flooring Installer,3.0,4.6,9756866237,"Harsh Nagar, Kanpur",26.46475,80.324634
+BD-1869,Vijay Pandey,Plumber,18.0,3.7,9993790268,"Bithoor, Kanpur",26.459552,80.398635
+BD-1870,Naresh Sharma,Civil Engineer,18.0,3.7,9034465393,"Armapur Estate, Kanpur",26.517322,80.330493
+BD-1871,Arjun Khan,Landscaper,11.0,4.9,9277083361,"Yashoda Nagar, Kanpur",26.396898,80.393027
+BD-1872,Prakash Pal,Painter,11.0,4.6,9225926650,"Indira Nagar, Kanpur",26.458082,80.251068
+BD-1873,Amit Khan,Handyman,9.0,3.8,9110508310,"Dada Nagar, Kanpur",26.467874,80.385043
+BD-1874,Salman Sharma,Tiler,11.0,4.1,9481175840,"Azad Nagar, Kanpur",26.439698,80.326315
+BD-1875,Naresh Khan,Tiler,1.0,3.6,9138220584,"Barra 8, Kanpur",26.432637,80.283138
+BD-1876,Vikas Pandey,Architect,5.0,4.5,9396080204,"Kidwai Nagar, Kanpur",26.45815,80.283571
+BD-1877,Imran Yadav,Electrician,9.0,3.8,9130529897,"Swaroop Nagar, Kanpur",26.441099,80.28112
+BD-1878,Ankit Srivastava,Drywaller,9.0,4.3,9819161970,"Nayaganj, Kanpur",26.405298,80.292622
+BD-1879,Nikhil Sharma,Welder,5.0,4.6,9150235173,"Lal Bangla, Kanpur",26.474551,80.253654
+BD-1880,Naresh Pandey,HVAC Technician,18.0,3.7,9224093384,"Bithoor, Kanpur",26.471789,80.267781
+BD-1881,Amit Pal,Drywaller,7.0,3.7,9270097185,"Arya Nagar, Kanpur",26.511424,80.272954
+BD-1882,Ajay Tripathi,Civil Engineer,12.0,3.8,9383578045,"General Ganj, Kanpur",26.472274,80.352679
+BD-1883,Ankit Pal,Carpenter,19.0,4.0,9615188900,"Jajmau, Kanpur",26.391263,80.254411
+BD-1884,Naresh Yadav,Electrician,15.0,4.7,9182825449,"Chakeri, Kanpur",26.46015,80.312387
+BD-1885,Ankit Srivastava,Architect,9.0,4.8,9041170417,"Sarvodaya Nagar, Kanpur",26.458534,80.321555
+BD-1886,Manoj Khan,Roofer,10.0,4.5,9399820948,"Mall Road, Kanpur",26.417939,80.342116
+BD-1887,Ravi Srivastava,Welder,6.0,4.9,9441487138,"Pandu Nagar, Kanpur",26.493956,80.394631
+BD-1888,Amit Singh,Construction Laborer,19.0,4.4,9075956197,"Juhi, Kanpur",26.510362,80.390866
+BD-1889,Rahul Khan,Welder,7.0,3.7,9524914357,"G.T. Road, Kanpur",26.479204,80.254176
+BD-1890,Ankit Khan,Construction Laborer,6.0,4.3,9112337186,"Armapur Estate, Kanpur",26.392933,80.343573
+BD-1891,Amit Pandey,Handyman,20.0,3.9,9953686668,"Jajmau, Kanpur",26.41322,80.387697
+BD-1892,Manoj Srivastava,Welder,9.0,4.9,9982183490,"Arya Nagar, Kanpur",26.389949,80.268556
+BD-1893,Amit Maurya,Structural Engineer,2.0,4.5,9082166836,"Armapur Estate, Kanpur",26.493117,80.302859
+BD-1894,Amit Tripathi,Drywaller,8.0,3.8,9297544980,"Barra 1, Kanpur",26.445938,80.416069
+BD-1895,Vijay Mishra,Handyman,5.0,4.6,9324420696,"Ashok Nagar, Kanpur",26.438324,80.283634
+BD-1896,Naresh Pandey,Landscaper,16.0,4.8,9787512764,"Sarvodaya Nagar, Kanpur",26.468247,80.296365
+BD-1897,Ajay Khan,Handyman,17.0,4.9,9283291449,"Fazal Ganj, Kanpur",26.411962,80.316639
+BD-1898,Rohit Verma,Flooring Installer,7.0,4.3,9998540756,"Barra 4, Kanpur",26.388781,80.33606
+BD-1899,Rohit Tiwari,Plumber,20.0,3.9,9088198034,"Barra 1, Kanpur",26.441519,80.34369
+BD-1900,Sandeep Singh,Plumber,19.0,4.2,9457554505,"Nayaganj, Kanpur",26.402619,80.383925
+BD-1901,Prakash Tripathi,Structural Engineer,14.0,4.8,9375243693,"Azad Nagar, Kanpur",26.503859,80.282587
+BD-1902,Amit Tiwari,Structural Engineer,17.0,4.7,9770130877,"Barra 1, Kanpur",26.459017,80.273671
+BD-1903,Gaurav Sharma,Mason,21.0,3.8,9323428304,"Barra 1, Kanpur",26.46438,80.387841
+BD-1904,Gaurav Pal,Mason,22.0,4.6,9175262039,"Barra 4, Kanpur",26.42592,80.410899
+BD-1905,Amit Pal,Mason,13.0,4.2,9291577768,"Barra 3, Kanpur",26.388638,80.351149
+BD-1906,Sandeep Tiwari,Structural Engineer,19.0,4.8,9077665947,"Birhana Road, Kanpur",26.512175,80.313552
+BD-1907,Prakash Verma,Roofer,16.0,4.5,9031194565,"Nayaganj, Kanpur",26.382008,80.315771
+BD-1908,Amit Tripathi,Flooring Installer,22.0,3.9,9457241695,"Barra 8, Kanpur",26.476569,80.324886
+BD-1909,Sandeep Sharma,General Contractor,10.0,3.9,9824614679,"Azad Nagar, Kanpur",26.413594,80.410204
+BD-1910,Arjun Sharma,Mason,7.0,4.0,9143572740,"Eldeco Colony, Kanpur",26.478864,80.392548
+BD-1911,Ankit Sharma,Structural Engineer,19.0,4.4,9061236120,"Birhana Road, Kanpur",26.402421,80.26976
+BD-1912,Sandeep Khan,Roofer,19.0,4.7,9897456019,"Ganga Barrage, Kanpur",26.387628,80.262236
+BD-1913,Rohit Tripathi,Glazier,21.0,4.4,9682203765,"Kidwai Nagar, Kanpur",26.482896,80.392566
+BD-1914,Deepak Mishra,Architect,9.0,4.4,9109997580,"Govind Nagar, Kanpur",26.413435,80.275181
+BD-1915,Manoj Khan,Plumber,6.0,4.4,9624301356,"Birhana Road, Kanpur",26.389346,80.257176
+BD-1916,Vijay Pandey,Flooring Installer,7.0,4.9,9076575563,"Becon Ganj, Kanpur",26.47643,80.363163
+BD-1917,Ravi Verma,Drywaller,2.0,4.1,9025260142,"Barra 1, Kanpur",26.384866,80.360879
+BD-1918,Arjun Sharma,Structural Engineer,21.0,4.3,9377777043,"Shyam Nagar, Kanpur",26.42568,80.262358
+BD-1919,Vikas Khan,Carpenter,2.0,4.1,9599681348,"Barra 5, Kanpur",26.46958,80.351361
+BD-1920,Nikhil Pandey,Electrician,8.0,4.2,9147250846,"Fazal Ganj, Kanpur",26.417289,80.344686
+BD-1921,Ajay Khan,Painter,4.0,4.7,9892311325,"Pandu Nagar, Kanpur",26.417487,80.375392
+BD-1922,Ajay Singh,Mason,1.0,4.4,9337951063,"Kalyanpur, Kanpur",26.433773,80.2833
+BD-1923,Manoj Gupta,Carpenter,5.0,4.0,9027852559,"Juhi, Kanpur",26.506639,80.264695
+BD-1924,Ankit Singh,Roofer,1.0,4.7,9814320870,"Dada Nagar, Kanpur",26.405126,80.401455
+BD-1925,Vikas Khan,Drywaller,16.0,4.1,9406973433,"Swaroop Nagar, Kanpur",26.421241,80.281102
+BD-1926,Amit Gupta,Painter,13.0,4.5,9568434681,"Barra 4, Kanpur",26.405123,80.4128
+BD-1927,Imran Pal,Electrician,15.0,4.1,9227258739,"Shyam Nagar, Kanpur",26.488633,80.266542
+BD-1928,Ajay Pal,Construction Laborer,13.0,3.8,9367736414,"Barra 7, Kanpur",26.40693,80.269017
+BD-1929,Salman Maurya,Tiler,9.0,3.8,9262237363,"Kakadeo, Kanpur",26.415244,80.333067
+BD-1930,Vijay Singh,Plumber,15.0,4.9,9402073158,"Mall Road, Kanpur",26.4852,80.253694
+BD-1931,Salman Srivastava,Drywaller,19.0,4.7,9679600027,"Barra 2, Kanpur",26.451657,80.402058
+BD-1932,Ankit Tripathi,Welder,19.0,3.8,9973580650,"Barra 7, Kanpur",26.513762,80.316785
+BD-1933,Deepak Pandey,Tiler,6.0,4.9,9872913939,"Bhauti, Kanpur",26.481731,80.297796
+BD-1934,Ajay Mishra,Drywaller,21.0,4.5,9360323518,"Chunni Ganj, Kanpur",26.517898,80.304951
+BD-1935,Ankit Tiwari,Tiler,9.0,4.8,9546830668,"Ganga Barrage, Kanpur",26.393404,80.351923
+BD-1936,Amit Gupta,Welder,15.0,3.9,9344037049,"Armapur Estate, Kanpur",26.444709,80.333662
+BD-1937,Imran Singh,Carpenter,19.0,4.3,9185191922,"Harsh Nagar, Kanpur",26.501817,80.367174
+BD-1938,Manoj Tiwari,Plumber,14.0,4.5,9107109332,"Jajmau, Kanpur",26.483574,80.363327
+BD-1939,Ankit Tiwari,Plumber,19.0,4.3,9030223490,"Lal Bangla, Kanpur",26.476631,80.370944
+BD-1940,Ankit Sharma,Welder,13.0,4.5,9653476098,"G.T. Road, Kanpur",26.409096,80.318672
+BD-1941,Manoj Tiwari,Painter,21.0,4.2,9378347479,"Nayaganj, Kanpur",26.42819,80.258598
+BD-1942,Manoj Gupta,Painter,2.0,4.8,9571533699,"Juhi, Kanpur",26.422951,80.279457
+BD-1943,Rohit Gupta,HVAC Technician,13.0,3.8,9866700084,"Indira Nagar, Kanpur",26.421055,80.302516
+BD-1944,Rohit Maurya,Mason,12.0,4.0,9293990508,"Harsh Nagar, Kanpur",26.39893,80.404688
+BD-1945,Ravi Sharma,Carpenter,14.0,3.9,9683057636,"Moti Jheel, Kanpur",26.462104,80.396941
+BD-1946,Salman Maurya,Glazier,18.0,4.5,9865943041,"Kakadeo, Kanpur",26.43258,80.396504
+BD-1947,Vikas Srivastava,General Contractor,7.0,4.6,9657881641,"Tilak Nagar, Kanpur",26.415515,80.250405
+BD-1948,Arjun Tripathi,Mason,9.0,3.7,9969692131,"Barra 4, Kanpur",26.437073,80.323496
+BD-1949,Vijay Singh,Carpenter,8.0,4.5,9466185133,"Kakadeo, Kanpur",26.451429,80.273835
+BD-1950,Nikhil Srivastava,Construction Laborer,16.0,4.0,9414036308,"Barra 6, Kanpur",26.428055,80.383513
+BD-1951,Arjun Singh,Drywaller,6.0,4.8,9869803160,"Barra 7, Kanpur",26.402408,80.277361
+BD-1952,Prakash Maurya,Plumber,8.0,4.2,9413164857,"Jawahar Nagar, Kanpur",26.402337,80.276909
+BD-1953,Ravi Pal,Construction Laborer,16.0,3.8,9939220216,"Pandu Nagar, Kanpur",26.504919,80.375663
+BD-1954,Sandeep Mishra,Architect,19.0,4.7,9130873167,"Ashok Nagar, Kanpur",26.519408,80.337096
+BD-1955,Ankit Mishra,HVAC Technician,6.0,4.1,9550151327,"Becon Ganj, Kanpur",26.394079,80.285903
+BD-1956,Rahul Singh,Carpenter,9.0,3.8,9965207946,"Naubasta, Kanpur",26.516684,80.295517
+BD-1957,Sandeep Tiwari,Glazier,4.0,4.4,9743283875,"Kalpi Road, Kanpur",26.486421,80.312306
+BD-1958,Arjun Singh,Structural Engineer,17.0,4.7,9726600256,"Jajmau, Kanpur",26.456559,80.378466
+BD-1959,Nikhil Gupta,Electrician,21.0,4.3,9209155028,"Lajpat Nagar, Kanpur",26.500403,80.254843
+BD-1960,Rohit Maurya,Structural Engineer,1.0,4.3,9046512270,"Dada Nagar, Kanpur",26.496134,80.26508
+BD-1961,Imran Pal,Structural Engineer,8.0,3.9,9435968386,"Barra 8, Kanpur",26.468915,80.366395
+BD-1962,Arjun Khan,Welder,10.0,4.1,9095635960,"Shyam Nagar, Kanpur",26.493337,80.267062
+BD-1963,Gaurav Maurya,Tiler,13.0,4.0,9655244512,"Nawabganj, Kanpur",26.4641,80.383237
+BD-1964,Rohit Gupta,Construction Laborer,20.0,3.7,9619948836,"Saket Nagar, Kanpur",26.385384,80.367716
+BD-1965,Sandeep Yadav,Structural Engineer,5.0,4.1,9889074769,"Ganga Barrage, Kanpur",26.381345,80.317525
+BD-1966,Arjun Khan,Mason,19.0,4.0,9909637198,"Chunni Ganj, Kanpur",26.452167,80.265834
+BD-1967,Prakash Tripathi,Glazier,22.0,4.9,9852715252,"Azad Nagar, Kanpur",26.417415,80.29516
+BD-1968,Ajay Singh,Tiler,7.0,3.6,9029366730,"Vishnupuri, Kanpur",26.491483,80.315599
+BD-1969,Gaurav Tiwari,Welder,6.0,4.9,9224249598,"Bithoor, Kanpur",26.426005,80.366509
+BD-1970,Naresh Srivastava,Glazier,16.0,3.8,9188478633,"Barra 2, Kanpur",26.515848,80.300442
+BD-1971,Gaurav Singh,Tiler,20.0,4.4,9916514898,"Lajpat Nagar, Kanpur",26.449034,80.391351
+BD-1972,Arjun Gupta,Architect,6.0,4.9,9227779743,"Lajpat Nagar, Kanpur",26.466864,80.384723
+BD-1973,Ravi Sharma,Construction Laborer,2.0,4.2,9341803779,"Lal Bangla, Kanpur",26.384511,80.280886
+BD-1974,Prakash Tripathi,Construction Laborer,14.0,4.6,9313578303,"Kalpi Road, Kanpur",26.440015,80.360908
+BD-1975,Arjun Pal,Glazier,3.0,4.2,9974167706,"Civil Lines, Kanpur",26.396195,80.413755
+BD-1976,Rahul Singh,Flooring Installer,16.0,4.3,9666187084,"Naubasta, Kanpur",26.470926,80.351253
+BD-1977,Ajay Mishra,Glazier,2.0,4.5,9088883658,"Barra 3, Kanpur",26.488789,80.278114
+BD-1978,Nikhil Tiwari,Plumber,11.0,3.8,9350056245,"Vishnupuri, Kanpur",26.45109,80.371427
+BD-1979,Rohit Singh,Landscaper,3.0,4.2,9377737287,"Nayaganj, Kanpur",26.382115,80.345544
+BD-1980,Nikhil Tripathi,Electrician,20.0,4.7,9639084429,"Becon Ganj, Kanpur",26.383971,80.308607
+BD-1981,Vikas Maurya,Drywaller,1.0,3.6,9887046125,"Saket Nagar, Kanpur",26.41873,80.39763
+BD-1982,Salman Sharma,Glazier,19.0,4.2,9635359104,"Shyam Nagar, Kanpur",26.41789,80.344849
+BD-1983,Deepak Pandey,Glazier,3.0,4.5,9490510966,"Harjinder Nagar, Kanpur",26.45482,80.251188
+BD-1984,Prakash Tripathi,Electrician,15.0,4.7,9238979564,"Barra 7, Kanpur",26.384084,80.330887
+BD-1985,Deepak Srivastava,Drywaller,22.0,4.1,9534716543,"Barra 5, Kanpur",26.383294,80.322121
+BD-1986,Amit Verma,Structural Engineer,3.0,4.3,9572483953,"Ratan Lal Nagar, Kanpur",26.428495,80.35066
+BD-1987,Sandeep Khan,General Contractor,15.0,5.0,9654097613,"Indira Nagar, Kanpur",26.423778,80.350812
+BD-1988,Gaurav Tiwari,Handyman,4.0,4.9,9891562128,"Chakeri, Kanpur",26.454651,80.254816
+BD-1989,Arjun Tiwari,Mason,10.0,4.3,9620841478,"Kakadeo, Kanpur",26.428041,80.321093
+BD-1990,Naresh Verma,Welder,22.0,4.4,9452205588,"Barra 3, Kanpur",26.430418,80.35686
+BD-1991,Prakash Gupta,Handyman,21.0,3.9,9519766547,"Barra 6, Kanpur",26.433761,80.378986
+BD-1992,Vijay Gupta,Welder,17.0,4.6,9518127249,"Darshan Purwa, Kanpur",26.464155,80.330117
+BD-1993,Deepak Verma,Civil Engineer,20.0,4.2,9208998030,"Vishnupuri, Kanpur",26.4814,80.361911
+BD-1994,Vikas Yadav,General Contractor,12.0,3.8,9135377714,"Mandhana, Kanpur",26.381436,80.375461
+BD-1995,Prakash Singh,Tiler,13.0,4.1,9208427920,"Vikas Nagar, Kanpur",26.475216,80.365613
+BD-1996,Nikhil Singh,Landscaper,10.0,4.6,9348093709,"Barra 8, Kanpur",26.397302,80.295128
+BD-1997,Naresh Pandey,Architect,14.0,3.8,9119311745,"Dada Nagar, Kanpur",26.443447,80.293436
+BD-1998,Salman Verma,Tiler,20.0,4.6,9714481861,"Shastri Nagar, Kanpur",26.448823,80.337193
+BD-1999,Amit Sharma,Structural Engineer,2.0,4.8,9799618452,"Shastri Nagar, Kanpur",26.492055,80.251568
+BD-2000,Sandeep Gupta,Civil Engineer,4.0,4.2,9972264665,"Barra 2, Kanpur",26.465332,80.290984
