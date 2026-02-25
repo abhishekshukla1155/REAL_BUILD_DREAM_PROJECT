@@ -2,7 +2,7 @@ import csv
 from decimal import Decimal
 from django.core.management.base import BaseCommand
 from django.contrib.auth import get_user_model
-from workers.models import Worker
+from workers.models import Worker, ServiceCategory  # ✅ IMPORT ADDED
 
 User = get_user_model()
 
@@ -28,13 +28,11 @@ class Command(BaseCommand):
 
                 worker_id = row.get("worker_id")
 
-                # Skip blank IDs
                 if not worker_id:
                     continue
 
                 username = f"worker_{worker_id}"
 
-                # Skip duplicate usernames inside CSV
                 if username in seen_usernames:
                     continue
 
@@ -71,9 +69,16 @@ class Command(BaseCommand):
                 if username not in user_map:
                     continue
 
+                # ✅ CREATE OR GET CATEGORY OBJECT
+                category_name = row["worker_profession"].strip().lower()
+
+                category_obj, _ = ServiceCategory.objects.get_or_create(
+                    name=category_name
+                )
+
                 worker = Worker(
                     user=user_map[username],
-                    category=row["worker_profession"].lower(),
+                    category=category_obj,   # ✅ FIXED
                     experience=int(float(row["worker_experience"])),
                     rating=Decimal(row["worker_rating"]),
                     latitude=float(row["Latitude"]),
